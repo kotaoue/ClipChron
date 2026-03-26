@@ -1,6 +1,6 @@
 # ClipChron — Your personal bookmark archive
 
-いいね・ブックマークを収集して検索できる、パーソナルアーカイブ。（Clip + Chronicle）
+A personal archive that collects and searches your likes and bookmarks. (Clip + Chronicle)
 
 ## Roadmap
 
