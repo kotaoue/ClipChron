@@ -22,6 +22,7 @@ A personal archive that collects and searches your likes and bookmarks. (Clip + 
 cp .env.local.example .env.local
 # Fill in the values in .env.local
 npm install
+npm run db:migrate   # Run once on first setup to create tables
 npm run dev
 ```
 
