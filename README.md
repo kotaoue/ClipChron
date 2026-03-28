@@ -2,11 +2,13 @@
 
 A personal archive that collects and searches your likes and bookmarks. (Clip + Chronicle)
 
+🔗 **Live demo:** https://clip-chron.vercel.app/
+
 ## Roadmap
 
 - **Phase 1** — Skeleton: directory layout, DB schema, shared configuration, and documentation ✅
 - **Phase 2** — Fetchers: collect bookmarks from note / Zenn / X / はてなBookmark / Feedly via GitHub Actions
-- **Phase 3** — Search UI: full-text search interface hosted on Vercel
+- **Phase 3** — Search UI: full-text search interface hosted on Vercel ✅
 
 ## Prerequisites
 
