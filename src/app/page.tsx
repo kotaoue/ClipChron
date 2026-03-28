@@ -1,6 +1,7 @@
 'use client';
 
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import Fuse from 'fuse.js';
 
 type Book = {
   no: number;
@@ -24,6 +25,7 @@ export default function Home() {
   const [page, setPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
   const [loading, setLoading] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
   const sentinelRef = useRef<HTMLDivElement>(null);
   const isFetching = useRef(false);
 
@@ -61,9 +63,36 @@ export default function Home() {
     return () => observer.disconnect();
   }, [hasMore, page, fetchBooks]);
 
+  const fuse = useMemo(
+    () => new Fuse(bookList, { keys: ['title', 'author'], threshold: 0.4 }),
+    [bookList]
+  );
+
+  const displayedBooks = useMemo(() => {
+    if (!searchQuery.trim()) return bookList;
+    return fuse.search(searchQuery).map((result) => result.item);
+  }, [fuse, searchQuery, bookList]);
+
   return (
     <>
-      {bookList.map((book) => (
+      <input
+        type="search"
+        placeholder="Search by title or author…"
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
+        style={{
+          display: 'block',
+          width: '100%',
+          marginBottom: '1rem',
+          padding: '0.4rem 0.6rem',
+          background: '#111',
+          color: '#fff',
+          border: '1px solid #444',
+          fontFamily: 'monospace',
+          fontSize: '14px',
+        }}
+      />
+      {displayedBooks.map((book) => (
         <div key={book.no}>
           {book.no}.{' '}
           <a href={book.url} target="_blank" rel="noopener noreferrer">
