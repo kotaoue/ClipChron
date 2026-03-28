@@ -1,6 +1,14 @@
 import { NextResponse } from 'next/server';
+import { readFile } from 'fs/promises';
+import path from 'path';
 
-// TODO (Phase 2): implement bookmark search/list endpoint
 export async function GET() {
-  return NextResponse.json({ bookmarks: [] });
+  try {
+    const filePath = path.join(process.cwd(), 'fetched', 'bookmeter-wish-list.json');
+    const raw = await readFile(filePath, 'utf-8');
+    const bookmarks = JSON.parse(raw);
+    return NextResponse.json({ bookmarks });
+  } catch {
+    return NextResponse.json({ bookmarks: [] });
+  }
 }
