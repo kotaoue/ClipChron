@@ -1,0 +1,38 @@
+name: Fetch Bookmeter read books
+
+on:
+  schedule:
+    - cron: '33 17 1 * *'  # 毎月1日 02:33 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-bookmeter-read:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get current date
+        id: date
+        run: |
+          echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+          echo "month=$(date +'%-m')" >> $GITHUB_OUTPUT
+          echo "yearmonth=$(date +'%Y-%m')" >> $GITHUB_OUTPUT
+
+      - name: Fetch Bookmeter read books
+        uses: kotaoue/fetch-bookmeter@v1
+        with:
+          user-id: ${{ secrets.BOOKMETER_USER_ID }}
+          type: 'read'
+          year: ${{ steps.date.outputs.year }}
+          month: ${{ steps.date.outputs.month }}
+          output: fetched/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
+          git diff --staged --quiet || (git commit -m "chore: update bookmeter read books (${{ steps.date.outputs.yearmonth }})" && git push)
