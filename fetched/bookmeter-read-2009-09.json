@@ -1,0 +1,477 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ムダヅモ無き改革 (近代麻雀コミックス)",
+      "url": "https://bookmeter.com/books/573966",
+      "author": "大和田 秀樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E5%92%8C%E7%94%B0+%E7%A7%80%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51xprK2rfKL._SL500_.jpg",
+      "date": "2009/09/28"
+    },
+    {
+      "no": 2,
+      "title": "俺はまだ本気出してないだけ 1 (IKKI COMICS)",
+      "url": "https://bookmeter.com/books/547376",
+      "author": "青野 春秋",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%9D%92%E9%87%8E+%E6%98%A5%E7%A7%8B",
+      "thumb": "https://m.media-amazon.com/images/I/510xQrH+-eL._SL500_.jpg",
+      "date": "2009/09/28"
+    },
+    {
+      "no": 3,
+      "title": "SKET DANCE 9 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566291",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/515qRQIRQUL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 4,
+      "title": "SKET DANCE 8 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566290",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51KCt5qvxYL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 5,
+      "title": "SKET DANCE 7 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566289",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51S4HjwA5-L._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 6,
+      "title": "SKET DANCE 6 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566288",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51XBI1kZahL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 7,
+      "title": "SKET DANCE 5 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566287",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51RwuJ8h0nL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 8,
+      "title": "SKET DANCE 4 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566286",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51sT486AfkL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 9,
+      "title": "SKET DANCE 3 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566285",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51D+jDKrSvL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 10,
+      "title": "SKET DANCE 2 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566284",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51wKht7gc4L._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 11,
+      "title": "SKET DANCE 1 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566280",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51V5IEK7YcL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 12,
+      "title": "春期限定いちごタルト事件",
+      "url": "https://bookmeter.com/books/580070",
+      "author": "米澤 穂信",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%B1%B3%E6%BE%A4+%E7%A9%82%E4%BF%A1",
+      "thumb": "https://m.media-amazon.com/images/I/51FAlEkmXDL._SL500_.jpg",
+      "date": "2009/09/27"
+    },
+    {
+      "no": 13,
+      "title": "国民クイズ (下巻) (Ohta comics)",
+      "url": "https://bookmeter.com/books/105615",
+      "author": "杉元 伶一,加藤 伸吉",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%89%E5%85%83+%E4%BC%B6%E4%B8%80%2C%E5%8A%A0%E8%97%A4+%E4%BC%B8%E5%90%89",
+      "thumb": "https://m.media-amazon.com/images/I/61nNoxoLkeL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 14,
+      "title": "国民クイズ (上巻) (Ohta comics)",
+      "url": "https://bookmeter.com/books/105616",
+      "author": "杉元 伶一,加藤 伸吉",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%89%E5%85%83+%E4%BC%B6%E4%B8%80%2C%E5%8A%A0%E8%97%A4+%E4%BC%B8%E5%90%89",
+      "thumb": "https://m.media-amazon.com/images/I/61kcY+QVUAL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 15,
+      "title": "よつばと!(8) (電撃コミックス)",
+      "url": "https://bookmeter.com/books/575786",
+      "author": "あずま きよひこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%82%E3%81%9A%E3%81%BE+%E3%81%8D%E3%82%88%E3%81%B2%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51sgGct1GML._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 16,
+      "title": "ネコマジン 完全版 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/565722",
+      "author": "鳥山 明",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%B3%A5%E5%B1%B1+%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51vFPrT1QjL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 17,
+      "title": "ヤサシイワタシ 2 (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/575041",
+      "author": "ひぐち アサ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%B2%E3%81%90%E3%81%A1+%E3%82%A2%E3%82%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51zeY5hY0LL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 18,
+      "title": "ヤサシイワタシ 1 (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/575039",
+      "author": "ひぐち アサ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%B2%E3%81%90%E3%81%A1+%E3%82%A2%E3%82%B5",
+      "thumb": "https://m.media-amazon.com/images/I/31G-DzuRtbL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 19,
+      "title": "月光条例 6 (少年サンデーコミックス)",
+      "url": "https://bookmeter.com/books/576231",
+      "author": "藤田 和日郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E7%94%B0+%E5%92%8C%E6%97%A5%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61r2FrMvA1L._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 20,
+      "title": "機動戦士ガンダム バニシングマシン (2) (角川コミックス・エース 17-4)",
+      "url": "https://bookmeter.com/books/523738",
+      "author": "矢立 肇,富野 由悠季,近藤 和久",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3%2C%E8%BF%91%E8%97%A4+%E5%92%8C%E4%B9%85",
+      "thumb": "https://m.media-amazon.com/images/I/51jxS0oeucL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 21,
+      "title": "機動戦士ガンダム バニシングマシン (角川コミックス・エース 17-2)",
+      "url": "https://bookmeter.com/books/502105",
+      "author": "近藤 和久,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BF%91%E8%97%A4+%E5%92%8C%E4%B9%85%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/61-Pct1hfeL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 22,
+      "title": "ブラック・ジャックALIVE 1 (ヤングチャンピオンコミックス)",
+      "url": "https://bookmeter.com/books/110370",
+      "author": "田口 雅之",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%94%B0%E5%8F%A3+%E9%9B%85%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/518VKATVrrL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 23,
+      "title": "ブラック・ジャックALIVE 2 (ヤングチャンピオンコミックス)",
+      "url": "https://bookmeter.com/books/375525",
+      "author": "青池 保子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%9D%92%E6%B1%A0+%E4%BF%9D%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51DaS-rMNHL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 24,
+      "title": "仮面ライダーSPIRITS(16) (マガジンZKC)",
+      "url": "https://bookmeter.com/books/574290",
+      "author": "石ノ森 章太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E3%83%8E%E6%A3%AE+%E7%AB%A0%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61yIOswk4oL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 25,
+      "title": "真説魔獣戦線 (4) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/416915",
+      "author": "石川 賢",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%B7%9D+%E8%B3%A2",
+      "thumb": "https://m.media-amazon.com/images/I/51PXtFgFXbL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 26,
+      "title": "真説魔獣戦線 3 (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/416914",
+      "author": "石川 賢",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%B7%9D+%E8%B3%A2",
+      "thumb": "https://m.media-amazon.com/images/I/31RGK4VVJXL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 27,
+      "title": "真説魔獣戦線 2 (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/416912",
+      "author": "石川 賢",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%B7%9D+%E8%B3%A2",
+      "thumb": "https://m.media-amazon.com/images/I/31790AGYJ5L._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 28,
+      "title": "真説魔獣戦線 (1) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/416911",
+      "author": "石川 賢",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%B7%9D+%E8%B3%A2",
+      "thumb": "https://m.media-amazon.com/images/I/514J6Sb6I-L._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 29,
+      "title": "仮面ライダーSPIRITS(15) (マガジンZKC)",
+      "url": "https://bookmeter.com/books/574289",
+      "author": "石ノ森 章太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E3%83%8E%E6%A3%AE+%E7%AB%A0%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51ADuQX-IBL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 30,
+      "title": "仮面ライダーSPIRITS(14) (マガジンZKC)",
+      "url": "https://bookmeter.com/books/503506",
+      "author": "石ノ森 章太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E3%83%8E%E6%A3%AE+%E7%AB%A0%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51-YwNF97uL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 31,
+      "title": "仮面ライダーSPIRITS(13) (マガジンZKC)",
+      "url": "https://bookmeter.com/books/503505",
+      "author": "石ノ森 章太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E3%83%8E%E6%A3%AE+%E7%AB%A0%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61J+TlfeOjL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 32,
+      "title": "TRIBAL12 3 (KCデラックス)",
+      "url": "https://bookmeter.com/books/538908",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51H-TSh3zwL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 33,
+      "title": "TRIBAL12 2 (KCデラックス)",
+      "url": "https://bookmeter.com/books/538904",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51laaUlLFvL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 34,
+      "title": "TRIBAL12 1 (KCデラックス)",
+      "url": "https://bookmeter.com/books/466863",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51T18-lGWBL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 35,
+      "title": "トト 2 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/376150",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51Oy7CvGaLL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 36,
+      "title": "トト 1 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/376149",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/21QR6ZZX44L._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 37,
+      "title": "トト!the wonderful adventure 5 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/480313",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51MS1MZRDML._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 38,
+      "title": "トト!the wonderful adventure 4 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/480312",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/5100HV14CYL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 39,
+      "title": "トト!the wonderful adventure 3 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/480311",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/5152J40X1ML._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 40,
+      "title": "トト!the wonderful adventure 2 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/480310",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51FP0AG35QL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 41,
+      "title": "トト!the wonderful adventure 1 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/480309",
+      "author": "長田 悠幸",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E7%94%B0+%E6%82%A0%E5%B9%B8",
+      "thumb": "https://m.media-amazon.com/images/I/515D7AZW8NL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 42,
+      "title": "四季 秋",
+      "url": "https://bookmeter.com/books/580458",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51h1PwfhAoL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 43,
+      "title": "四季 冬",
+      "url": "https://bookmeter.com/books/580459",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51NNcMZ0NRL._SL500_.jpg",
+      "date": "2009/09/21"
+    },
+    {
+      "no": 44,
+      "title": "四季 夏",
+      "url": "https://bookmeter.com/books/580456",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/41dUpJ1GzEL._SL500_.jpg",
+      "date": "2009/09/15"
+    },
+    {
+      "no": 45,
+      "title": "四季 春",
+      "url": "https://bookmeter.com/books/580454",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/41lekoGMXPL._SL500_.jpg",
+      "date": "2009/09/15"
+    },
+    {
+      "no": 46,
+      "title": "宴のあと (新潮文庫)",
+      "url": "https://bookmeter.com/books/506248",
+      "author": "三島 由紀夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E5%B3%B6+%E7%94%B1%E7%B4%80%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41YeyWvEwFL._SL500_.jpg",
+      "date": "2009/09/10"
+    },
+    {
+      "no": 47,
+      "title": "はじめて英語で日記を書いてみる",
+      "url": "https://bookmeter.com/books/456155",
+      "author": "石原 真弓",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%8E%9F+%E7%9C%9F%E5%BC%93",
+      "thumb": "https://m.media-amazon.com/images/I/51SeQHsObNL._SL500_.jpg",
+      "date": "2009/09/08"
+    },
+    {
+      "no": 48,
+      "title": "虚空の逆マトリクス(INVERSE OF VOID MATRIX)",
+      "url": "https://bookmeter.com/books/580452",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/514kX2Y5OQL._SL500_.jpg",
+      "date": "2009/09/03"
+    },
+    {
+      "no": 49,
+      "title": "冷たい校舎の時は止まる 4 (KCデラックス)",
+      "url": "https://bookmeter.com/books/548094",
+      "author": "新川 直司,辻村 深月",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E5%B7%9D+%E7%9B%B4%E5%8F%B8%2C%E8%BE%BB%E6%9D%91+%E6%B7%B1%E6%9C%88",
+      "thumb": "https://m.media-amazon.com/images/I/512hkY6krqL._SL500_.jpg",
+      "date": "2009/09/02"
+    },
+    {
+      "no": 50,
+      "title": "冷たい校舎の時は止まる 3 (KCデラックス)",
+      "url": "https://bookmeter.com/books/548093",
+      "author": "新川 直司,辻村 深月",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E5%B7%9D+%E7%9B%B4%E5%8F%B8%2C%E8%BE%BB%E6%9D%91+%E6%B7%B1%E6%9C%88",
+      "thumb": "https://m.media-amazon.com/images/I/51uiI1-HAvL._SL500_.jpg",
+      "date": "2009/09/02"
+    },
+    {
+      "no": 51,
+      "title": "冷たい校舎の時は止まる 2 (KCデラックス)",
+      "url": "https://bookmeter.com/books/548092",
+      "author": "新川 直司,辻村 深月",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E5%B7%9D+%E7%9B%B4%E5%8F%B8%2C%E8%BE%BB%E6%9D%91+%E6%B7%B1%E6%9C%88",
+      "thumb": "https://m.media-amazon.com/images/I/51lyUtuYVzL._SL500_.jpg",
+      "date": "2009/09/02"
+    },
+    {
+      "no": 52,
+      "title": "冷たい校舎の時は止まる 1 (KCデラックス)",
+      "url": "https://bookmeter.com/books/548091",
+      "author": "新川 直司,辻村 深月",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E5%B7%9D+%E7%9B%B4%E5%8F%B8%2C%E8%BE%BB%E6%9D%91+%E6%B7%B1%E6%9C%88",
+      "thumb": "https://m.media-amazon.com/images/I/51HOW6thcwL._SL500_.jpg",
+      "date": "2009/09/02"
+    }
+  ],
+  "count": 52,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

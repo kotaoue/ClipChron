@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "図解 スポーツトレーニングの基礎理論",
+      "url": "https://bookmeter.com/books/5782056",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51N2h2WIGeL._SL500_.jpg",
+      "date": "2019/09/28"
+    },
+    {
+      "no": 2,
+      "title": "アジャイルな時間管理術 ポモドーロテクニック入門",
+      "url": "https://bookmeter.com/books/1892604",
+      "author": "Staffan Noeteberg",
+      "authorUrl": "https://bookmeter.com/search?author=Staffan+Noeteberg",
+      "thumb": "https://m.media-amazon.com/images/I/51ByQvQe1+L._SL500_.jpg",
+      "date": "2019/09/24"
+    },
+    {
+      "no": 3,
+      "title": "WORK DESIGN(ワークデザイン):行動経済学でジェンダー格差を克服する",
+      "url": "https://bookmeter.com/books/12807768",
+      "author": "イリス・ボネット",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%9C%E3%83%8D%E3%83%83%E3%83%88",
+      "thumb": "https://m.media-amazon.com/images/I/51MENp4ZJeL._SL500_.jpg",
+      "date": "2019/09/16"
+    },
+    {
+      "no": 4,
+      "title": "なるほど!民俗学 (雑学3分間ビジュアル図解シリーズ)",
+      "url": "https://bookmeter.com/books/467819",
+      "author": "新谷 尚紀",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E8%B0%B7+%E5%B0%9A%E7%B4%80",
+      "thumb": "https://m.media-amazon.com/images/I/510WQ9ZW3YL._SL500_.jpg",
+      "date": "2019/09/11"
+    },
+    {
+      "no": 5,
+      "title": "テスト駆動開発",
+      "url": "https://bookmeter.com/books/12375096",
+      "author": "Kent Beck",
+      "authorUrl": "https://bookmeter.com/search?author=Kent+Beck",
+      "thumb": "https://m.media-amazon.com/images/I/51hsd-b1RTL._SL500_.jpg",
+      "date": "2019/09/05"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

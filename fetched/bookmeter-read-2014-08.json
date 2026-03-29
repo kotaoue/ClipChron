@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "変な学術研究 1 (ハヤカワ文庫 NF 320)",
+      "url": "https://bookmeter.com/books/397797",
+      "author": "エドゥアール ロネ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A8%E3%83%89%E3%82%A5%E3%82%A2%E3%83%BC%E3%83%AB+%E3%83%AD%E3%83%8D",
+      "thumb": "https://m.media-amazon.com/images/I/514fH-6ztlL._SL500_.jpg",
+      "date": "2014/08/31"
+    },
+    {
+      "no": 2,
+      "title": "いいビルの写真集 WEST",
+      "url": "https://bookmeter.com/books/5187408",
+      "author": "BMC(ビルマニアカフェ)",
+      "authorUrl": "https://bookmeter.com/search?author=BMC%28%E3%83%93%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A2%E3%82%AB%E3%83%95%E3%82%A7%29",
+      "thumb": "https://m.media-amazon.com/images/I/51OnciMHIPL._SL500_.jpg",
+      "date": "2014/08/31"
+    },
+    {
+      "no": 3,
+      "title": "噂を学ぶ―学問としてのスキャンダル (角川oneテーマ21)",
+      "url": "https://bookmeter.com/books/1490489",
+      "author": "梨元 勝",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A2%A8%E5%85%83+%E5%8B%9D",
+      "thumb": "https://m.media-amazon.com/images/I/4135HGZE75L._SL500_.jpg",
+      "date": "2014/08/31"
+    },
+    {
+      "no": 4,
+      "title": "ファミコンとその時代",
+      "url": "https://bookmeter.com/books/6802716",
+      "author": "上村 雅之,細井 浩一,中村 彰憲",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%8A%E6%9D%91+%E9%9B%85%E4%B9%8B%2C%E7%B4%B0%E4%BA%95+%E6%B5%A9%E4%B8%80%2C%E4%B8%AD%E6%9D%91+%E5%BD%B0%E6%86%B2",
+      "thumb": "https://m.media-amazon.com/images/I/41FBSWpIQsL._SL500_.jpg",
+      "date": "2014/08/31"
+    },
+    {
+      "no": 5,
+      "title": "こんなに役立つ数学入門: 高校数学で解く社会問題 (ちくま新書 653)",
+      "url": "https://bookmeter.com/books/498753",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41+IYGbZYWL._SL500_.jpg",
+      "date": "2014/08/11"
+    },
+    {
+      "no": 6,
+      "title": "ヴァリス〔新訳版〕 (ハヤカワ文庫 SF テ 1-25)",
+      "url": "https://bookmeter.com/books/8083725",
+      "author": "フィリップ・K・ディック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%83%BBK%E3%83%BB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/511qp9oZSrL._SL500_.jpg",
+      "date": "2014/08/02"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

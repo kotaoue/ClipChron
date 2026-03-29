@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "子供の脳は5歳までに準備しなさい",
+      "url": "https://bookmeter.com/books/11235004",
+      "author": "ジル・スタム",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%A0",
+      "thumb": "https://m.media-amazon.com/images/I/51nGCqWgOPL._SL500_.jpg",
+      "date": "2022/04/17"
+    },
+    {
+      "no": 2,
+      "title": "英文法のトリセツ—英語負け組を救う丁寧な取扱説明書 じっくり基礎編",
+      "url": "https://bookmeter.com/books/516790",
+      "author": "阿川 イチロヲ",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%98%BF%E5%B7%9D+%E3%82%A4%E3%83%81%E3%83%AD%E3%83%B2",
+      "thumb": "https://m.media-amazon.com/images/I/51XNLzQ8J+L._SL500_.jpg",
+      "date": "2022/04/10"
+    },
+    {
+      "no": 3,
+      "title": "The Animal Fair (Golden Bks Classics)",
+      "url": "https://bookmeter.com/books/2408181",
+      "author": "Alice Provensen",
+      "authorUrl": "https://bookmeter.com/search?author=Alice+Provensen",
+      "thumb": "https://m.media-amazon.com/images/I/61SZ3NR7FCL._SL500_.jpg",
+      "date": "2022/04/10"
+    },
+    {
+      "no": 4,
+      "title": "「おさるのジョージ」を教室で実現: 好奇心を呼び起こせ!",
+      "url": "https://bookmeter.com/books/16647705",
+      "author": "ウェンディ・L. オストロフ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BBL.+%E3%82%AA%E3%82%B9%E3%83%88%E3%83%AD%E3%83%95",
+      "thumb": "https://m.media-amazon.com/images/I/51u+GbGx9HL._SL500_.jpg",
+      "date": "2022/04/10"
+    },
+    {
+      "no": 5,
+      "title": "ブラッドベリ、自作を語る",
+      "url": "https://bookmeter.com/books/4920069",
+      "author": "レイ・ブラッドベリ,サム・ウェラー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%99%E3%83%AA%2C%E3%82%B5%E3%83%A0%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%A9%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51P1NJSVUpL._SL500_.jpg",
+      "date": "2022/04/10"
+    },
+    {
+      "no": 6,
+      "title": "チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計",
+      "url": "https://bookmeter.com/books/18921633",
+      "author": "マシュー・スケルトン,マニュエル・パイス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%B1%E3%83%AB%E3%83%88%E3%83%B3%2C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%91%E3%82%A4%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51etPU1oAQL._SL500_.jpg",
+      "date": "2022/04/07"
+    },
+    {
+      "no": 7,
+      "title": "ベタープログラマ ―優れたプログラマになるための38の考え方とテクニック",
+      "url": "https://bookmeter.com/books/12509782",
+      "author": "Pete Goodliffe",
+      "authorUrl": "https://bookmeter.com/search?author=Pete+Goodliffe",
+      "thumb": "https://m.media-amazon.com/images/I/511+gHq1yML._SL500_.jpg",
+      "date": "2022/04/02"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

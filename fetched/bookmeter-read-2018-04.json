@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "「いき」の構造 他二篇 (岩波文庫 青 146-1)",
+      "url": "https://bookmeter.com/books/549734",
+      "author": "九鬼 周造",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B9%9D%E9%AC%BC+%E5%91%A8%E9%80%A0",
+      "thumb": "https://m.media-amazon.com/images/I/41xWvvTm2-L._SL500_.jpg",
+      "date": "2018/04/27"
+    },
+    {
+      "no": 2,
+      "title": "8・15と3・11 戦後史の死角 (NHK出版新書)",
+      "url": "https://bookmeter.com/books/5393603",
+      "author": "笠井 潔",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AC%A0%E4%BA%95+%E6%BD%94",
+      "thumb": "https://m.media-amazon.com/images/I/41fIT1LgIYL._SL500_.jpg",
+      "date": "2018/04/15"
+    },
+    {
+      "no": 3,
+      "title": "ベスト珍書 - このヘンな本がすごい! (中公新書ラクレ 507)",
+      "url": "https://bookmeter.com/books/8231455",
+      "author": "ハマザキカク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8F%E3%83%9E%E3%82%B6%E3%82%AD%E3%82%AB%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51Zfh0983xL._SL500_.jpg",
+      "date": "2018/04/02"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

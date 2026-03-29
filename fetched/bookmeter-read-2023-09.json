@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "新版 スヌーピーの大好きって手をつないで歩くこと",
+      "url": "https://bookmeter.com/books/20477509",
+      "author": "チャールズ・M・シュルツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BBM%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/519BPdeRnpL._SL500_.jpg",
+      "date": "2023/09/24"
+    },
+    {
+      "no": 2,
+      "title": "もののあはれ (ケン・リュウ短篇傑作集2)",
+      "url": "https://bookmeter.com/books/11871450",
+      "author": "ケン リュウ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B1%E3%83%B3+%E3%83%AA%E3%83%A5%E3%82%A6",
+      "thumb": "https://m.media-amazon.com/images/I/41VriWJM9xL._SL500_.jpg",
+      "date": "2023/09/24"
+    },
+    {
+      "no": 3,
+      "title": "失敗図鑑 すごい人ほどダメだった!",
+      "url": "https://bookmeter.com/books/12799851",
+      "author": "大野 正人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E9%87%8E+%E6%AD%A3%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/61szYr5LHTL._SL500_.jpg",
+      "date": "2023/09/24"
+    },
+    {
+      "no": 4,
+      "title": "スタンフォード式人生を変える運動の科学",
+      "url": "https://bookmeter.com/books/15766961",
+      "author": "ケリー・マクゴニガル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51dLe0BeRPL._SL500_.jpg",
+      "date": "2023/09/24"
+    },
+    {
+      "no": 5,
+      "title": "かなしみがやってきたら きみは",
+      "url": "https://bookmeter.com/books/14359446",
+      "author": "エヴァ・イーランド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%82%A4%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/51LOub9BCJL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 6,
+      "title": "この世界いっぱい",
+      "url": "https://bookmeter.com/books/3286677",
+      "author": "リズ・ガートン スキャンロン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%82%BA%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%88%E3%83%B3+%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%AD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51CziMB3RkL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 7,
+      "title": "ベッドのしたにはなにがある? (評論社の児童図書館・絵本の部屋 ふしぎだな知らないこといっぱい)",
+      "url": "https://bookmeter.com/books/478957",
+      "author": "マイク マニング,ブライタ グランストローム",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%AF+%E3%83%9E%E3%83%8B%E3%83%B3%E3%82%B0%2C%E3%83%96%E3%83%A9%E3%82%A4%E3%82%BF+%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A0",
+      "thumb": "https://m.media-amazon.com/images/I/61oCTpQNYsL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 8,
+      "title": "ばあばに えがおを とどけてあげる (評論社の児童図書館・絵本の部屋)",
+      "url": "https://bookmeter.com/books/18494998",
+      "author": "コーリン・アーヴェリス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51mWNNTvrOL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 9,
+      "title": "みならい騎士とブーツどろぼう",
+      "url": "https://bookmeter.com/books/6597031",
+      "author": "クエンティン・ブレイク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51ME+udgjjL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 10,
+      "title": "ちがいはっけん図鑑",
+      "url": "https://bookmeter.com/books/10379920",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61f9801bsRL._SL500_.jpg",
+      "date": "2023/09/10"
+    },
+    {
+      "no": 11,
+      "title": "13歳からのプレゼンテーション 学校で、家庭で、社会で役立つ 相手を動かす伝え方が身につく本 (コツがわかる本!ジュニアシリーズ)",
+      "url": "https://bookmeter.com/books/20012466",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/519UHv3tahL._SL500_.jpg",
+      "date": "2023/09/10"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Glee The Beginning (Scholastic Readers)",
+      "url": "https://bookmeter.com/books/7599363",
+      "author": "Patricia Reilly",
+      "authorUrl": "https://bookmeter.com/search?author=Patricia+Reilly",
+      "thumb": "https://m.media-amazon.com/images/I/51VyFWZgdxL._SL500_.jpg",
+      "date": "2019/12/29"
+    },
+    {
+      "no": 2,
+      "title": "スタン・リー: マーベル・ヒーローを創った男",
+      "url": "https://bookmeter.com/books/13530775",
+      "author": "ボブ バチェラー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9C%E3%83%96+%E3%83%90%E3%83%81%E3%82%A7%E3%83%A9%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/519+TBXwCPL._SL500_.jpg",
+      "date": "2019/12/29"
+    },
+    {
+      "no": 3,
+      "title": "プレイ・マターズ 遊び心の哲学 (Playful Thinking)",
+      "url": "https://bookmeter.com/books/13684488",
+      "author": "ミゲル・シカール",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%82%B1%E3%82%99%E3%83%AB%E3%83%BB%E3%82%B7%E3%82%AB%E3%83%BC%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/416Vh-IMc3L._SL500_.jpg",
+      "date": "2019/12/26"
+    },
+    {
+      "no": 4,
+      "title": "CD BOOK フォニックス\u0026lt;発音\u0026gt;トレーニングBOOK (アスカカルチャー)",
+      "url": "https://bookmeter.com/books/215629",
+      "author": "ジュミック今井",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A5%E3%83%9F%E3%83%83%E3%82%AF%E4%BB%8A%E4%BA%95",
+      "thumb": "https://m.media-amazon.com/images/I/41Dt-JpViAL._SL500_.jpg",
+      "date": "2019/12/26"
+    },
+    {
+      "no": 5,
+      "title": "話し下手のための雑談力",
+      "url": "https://bookmeter.com/books/12773417",
+      "author": "沢渡 あまね",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B2%A2%E6%B8%A1+%E3%81%82%E3%81%BE%E3%81%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51QC87WSujL._SL500_.jpg",
+      "date": "2019/12/22"
+    },
+    {
+      "no": 6,
+      "title": "みんなのPHP 現場で役立つ最新ノウハウ!",
+      "url": "https://bookmeter.com/books/14793654",
+      "author": "石田 絢一(uzulla),石山 宏幸,遠藤 太徳,大橋 佑太,岡田 正平,川原 翔吾,木村 俊彦,小山 哲志,高橋 邦彦,竹澤 有貴,富所 亮,長谷川 智希,東口 和暉,めもりー,山本 ノリコ,吉田 祐平,若葉 章,渡辺 一宏",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E7%94%B0+%E7%B5%A2%E4%B8%80%28uzulla%29%2C%E7%9F%B3%E5%B1%B1+%E5%AE%8F%E5%B9%B8%2C%E9%81%A0%E8%97%A4+%E5%A4%AA%E5%BE%B3%2C%E5%A4%A7%E6%A9%8B+%E4%BD%91%E5%A4%AA%2C%E5%B2%A1%E7%94%B0+%E6%AD%A3%E5%B9%B3%2C%E5%B7%9D%E5%8E%9F+%E7%BF%94%E5%90%BE%2C%E6%9C%A8%E6%9D%91+%E4%BF%8A%E5%BD%A6%2C%E5%B0%8F%E5%B1%B1+%E5%93%B2%E5%BF%97%2C%E9%AB%98%E6%A9%8B+%E9%82%A6%E5%BD%A6%2C%E7%AB%B9%E6%BE%A4+%E6%9C%89%E8%B2%B4%2C%E5%AF%8C%E6%89%80+%E4%BA%AE%2C%E9%95%B7%E8%B0%B7%E5%B7%9D+%E6%99%BA%E5%B8%8C%2C%E6%9D%B1%E5%8F%A3+%E5%92%8C%E6%9A%89%2C%E3%82%81%E3%82%82%E3%82%8A%E3%83%BC%2C%E5%B1%B1%E6%9C%AC+%E3%83%8E%E3%83%AA%E3%82%B3%2C%E5%90%89%E7%94%B0+%E7%A5%90%E5%B9%B3%2C%E8%8B%A5%E8%91%89+%E7%AB%A0%2C%E6%B8%A1%E8%BE%BA+%E4%B8%80%E5%AE%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51UihjLgI7L._SL500_.jpg",
+      "date": "2019/12/10"
+    },
+    {
+      "no": 7,
+      "title": "世界の半分を怒らせる",
+      "url": "https://bookmeter.com/books/9702273",
+      "author": "押井 守",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8A%BC%E4%BA%95+%E5%AE%88",
+      "thumb": "https://m.media-amazon.com/images/I/51D0QIsJQAL._SL500_.jpg",
+      "date": "2019/12/10"
+    },
+    {
+      "no": 8,
+      "title": "最短突破 AWS認定ソリューションアーキテクト アソシエイト 合格教本",
+      "url": "https://bookmeter.com/books/13455735",
+      "author": "村主 壮悟",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E4%B8%BB+%E5%A3%AE%E6%82%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51XxEhKaqbL._SL500_.jpg",
+      "date": "2019/12/07"
+    },
+    {
+      "no": 9,
+      "title": "ビッグ・ファット・キャットの世界一簡単な英語の大百科事典",
+      "url": "https://bookmeter.com/books/11604759",
+      "author": "向山 貴彦,たかしま てつを",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%90%91%E5%B1%B1+%E8%B2%B4%E5%BD%A6%2C%E3%81%9F%E3%81%8B%E3%81%97%E3%81%BE+%E3%81%A6%E3%81%A4%E3%82%92",
+      "thumb": "https://m.media-amazon.com/images/I/419BwWR9h0L._SL500_.jpg",
+      "date": "2019/12/04"
+    },
+    {
+      "no": 10,
+      "title": "\u0026quot;Mr Bean\u0026#39;s\u0026quot; Holiday (Scholastic Readers)",
+      "url": "https://bookmeter.com/books/2991786",
+      "author": "Paul Shipton",
+      "authorUrl": "https://bookmeter.com/search?author=Paul+Shipton",
+      "thumb": "https://m.media-amazon.com/images/I/517T6F5z7PL._SL500_.jpg",
+      "date": "2019/12/03"
+    },
+    {
+      "no": 11,
+      "title": "まわりを味方につける 頭のいい報・連・相テクニック",
+      "url": "https://bookmeter.com/books/12066",
+      "author": "箱田 忠昭",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AE%B1%E7%94%B0+%E5%BF%A0%E6%98%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51kS+ycEEIL._SL500_.jpg",
+      "date": "2019/12/03"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

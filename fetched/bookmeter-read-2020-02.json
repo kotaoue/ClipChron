@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "メンズファッションの解剖図鑑",
+      "url": "https://bookmeter.com/books/11246339",
+      "author": "MB",
+      "authorUrl": "https://bookmeter.com/search?author=MB",
+      "thumb": "https://m.media-amazon.com/images/I/51KL36O2vuL._SL500_.jpg",
+      "date": "2020/02/19"
+    },
+    {
+      "no": 2,
+      "title": "SF映画で学ぶインタフェースデザイン アイデアと想像力を鍛え上げるための141のレッスン",
+      "url": "https://bookmeter.com/books/8174142",
+      "author": "Nathan Shedroff,Christopher Noessel",
+      "authorUrl": "https://bookmeter.com/search?author=Nathan+Shedroff%2CChristopher+Noessel",
+      "thumb": "https://m.media-amazon.com/images/I/51KugPLO3qL._SL500_.jpg",
+      "date": "2020/02/16"
+    },
+    {
+      "no": 3,
+      "title": "英語にない日本語 日本語にない英語",
+      "url": "https://bookmeter.com/books/9722230",
+      "author": "ノーアム・カッツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8E%E3%83%BC%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%AB%E3%83%83%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/51dwwEF1EJL._SL500_.jpg",
+      "date": "2020/02/15"
+    },
+    {
+      "no": 4,
+      "title": "英単語の語源図鑑",
+      "url": "https://bookmeter.com/books/12870951",
+      "author": "清水 建二,すずき ひろし",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E5%BB%BA%E4%BA%8C%2C%E3%81%99%E3%81%9A%E3%81%8D+%E3%81%B2%E3%82%8D%E3%81%97",
+      "thumb": "https://m.media-amazon.com/images/I/51+lXo6bI8L._SL500_.jpg",
+      "date": "2020/02/15"
+    },
+    {
+      "no": 5,
+      "title": "THE MODEL（MarkeZine BOOKS） マーケティング・インサイドセールス・営業・カスタマーサクセスの共業プロセス",
+      "url": "https://bookmeter.com/books/13436779",
+      "author": "福田 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A6%8F%E7%94%B0+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/41qpb1b-o+L._SL500_.jpg",
+      "date": "2020/02/05"
+    },
+    {
+      "no": 6,
+      "title": "FQ JAPAN \u0026lt;2019-20冬号\u0026gt; 父親ガイドブック2020 (VOL.53)",
+      "url": "https://bookmeter.com/books/14959576",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51x7113DLgL._SL500_.jpg",
+      "date": "2020/02/02"
+    },
+    {
+      "no": 7,
+      "title": "ねないこはわたし",
+      "url": "https://bookmeter.com/books/11041755",
+      "author": "せな けいこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%9B%E3%81%AA+%E3%81%91%E3%81%84%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/516alSoqQzL._SL500_.jpg",
+      "date": "2020/02/01"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

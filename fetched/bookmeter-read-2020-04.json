@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "入門 Python 3",
+      "url": "https://bookmeter.com/books/10030139",
+      "author": "Bill Lubanovic",
+      "authorUrl": "https://bookmeter.com/search?author=Bill+Lubanovic",
+      "thumb": "https://m.media-amazon.com/images/I/51+xv65qdBL._SL500_.jpg",
+      "date": "2020/04/29"
+    },
+    {
+      "no": 2,
+      "title": "自走プログラマー ~Pythonの先輩が教えるプロジェクト開発のベストプラクティス120",
+      "url": "https://bookmeter.com/books/15289037",
+      "author": "清水川 貴之,清原 弘貴,tell-k",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4%E5%B7%9D+%E8%B2%B4%E4%B9%8B%2C%E6%B8%85%E5%8E%9F+%E5%BC%98%E8%B2%B4%2Ctell-k",
+      "thumb": "https://m.media-amazon.com/images/I/410FSLNj5lL._SL500_.jpg",
+      "date": "2020/04/28"
+    },
+    {
+      "no": 3,
+      "title": "PHPフレームワーク Laravel実践開発",
+      "url": "https://bookmeter.com/books/14181696",
+      "author": "掌田 津耶乃",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8E%8C%E7%94%B0+%E6%B4%A5%E8%80%B6%E4%B9%83",
+      "thumb": "https://m.media-amazon.com/images/I/51D58VcJouL._SL500_.jpg",
+      "date": "2020/04/21"
+    },
+    {
+      "no": 4,
+      "title": "仕事場の芸術家たち",
+      "url": "https://bookmeter.com/books/2398322",
+      "author": "ミチコ カクタニ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%83%81%E3%82%B3+%E3%82%AB%E3%82%AF%E3%82%BF%E3%83%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51aNMKrZ76L._SL500_.jpg",
+      "date": "2020/04/21"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

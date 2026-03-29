@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "トランプ大統領の衝撃 (幻冬舎新書)",
+      "url": "https://bookmeter.com/books/11246141",
+      "author": "冷泉 彰彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%B7%E6%B3%89+%E5%BD%B0%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51hOk4LJkNL._SL500_.jpg",
+      "date": "2018/01/28"
+    },
+    {
+      "no": 2,
+      "title": "文系のための理数センス養成講座 (新潮新書)",
+      "url": "https://bookmeter.com/books/11492378",
+      "author": "竹内 薫",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AB%B9%E5%86%85+%E8%96%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41dW1q4Hc4L._SL500_.jpg",
+      "date": "2018/01/28"
+    },
+    {
+      "no": 3,
+      "title": "図解入門業界研究 最新コンテンツ業界の動向とカラクリがよくわかる本[第3版] (How-nual図解入門業界研究)",
+      "url": "https://bookmeter.com/books/12170456",
+      "author": "中野明",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E9%87%8E%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51VC9pheUOL._SL500_.jpg",
+      "date": "2018/01/27"
+    },
+    {
+      "no": 4,
+      "title": "デスマーチはなぜなくならないのか IT化時代の社会問題として考える (光文社新書)",
+      "url": "https://bookmeter.com/books/11235489",
+      "author": "宮地 弘子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E5%9C%B0+%E5%BC%98%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/31lVazaoJhL._SL500_.jpg",
+      "date": "2018/01/25"
+    },
+    {
+      "no": 5,
+      "title": "日本神話とアンパンマン (集英社新書)",
+      "url": "https://bookmeter.com/books/466705",
+      "author": "山田 永",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E7%94%B0+%E6%B0%B8",
+      "thumb": "https://m.media-amazon.com/images/I/41Bah0AdYlL._SL500_.jpg",
+      "date": "2018/01/22"
+    },
+    {
+      "no": 6,
+      "title": "まんが現代史 アメリカが戦争をやめない理由 (講談社現代新書 2025)",
+      "url": "https://bookmeter.com/books/566659",
+      "author": "山井 教雄",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E4%BA%95+%E6%95%99%E9%9B%84",
+      "thumb": "https://m.media-amazon.com/images/I/51nE2JFKDtL._SL500_.jpg",
+      "date": "2018/01/18"
+    },
+    {
+      "no": 7,
+      "title": "BL時代の男子学 ~21世紀ハリウッド映画に見るブロマンス~ (SCREEN新書)",
+      "url": "https://bookmeter.com/books/8141446",
+      "author": "國友万裕",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%9C%8B%E5%8F%8B%E4%B8%87%E8%A3%95",
+      "thumb": "https://m.media-amazon.com/images/I/41uHYTDNOzL._SL500_.jpg",
+      "date": "2018/01/14"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,432 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "伯爵と妖精 あいつは優雅な大悪党 (コバルト文庫)",
+      "url": "https://bookmeter.com/books/580518",
+      "author": "谷 瑞恵",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%B0%B7+%E7%91%9E%E6%81%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51CFl4u7FKL._SL500_.jpg",
+      "date": "2012/08/30"
+    },
+    {
+      "no": 2,
+      "title": "血界戦線 5 ―Zの一番長い日― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4856681",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51w0fceEtAL._SL500_.jpg",
+      "date": "2012/08/28"
+    },
+    {
+      "no": 3,
+      "title": "血界戦線 4 ―拳客のエデン― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4338418",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51Dnv4x3YZL._SL500_.jpg",
+      "date": "2012/08/28"
+    },
+    {
+      "no": 4,
+      "title": "血界戦線 3 ―震撃の血槌― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/3057694",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51ET-3SQC5L._SL500_.jpg",
+      "date": "2012/08/28"
+    },
+    {
+      "no": 5,
+      "title": "血界戦線 2 ―世界と世界のゲーム― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/663029",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51eLRavnV0L._SL500_.jpg",
+      "date": "2012/08/28"
+    },
+    {
+      "no": 6,
+      "title": "血界戦線 1 ―魔封街結社― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/578099",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51WfIkUuIHL._SL500_.jpg",
+      "date": "2012/08/28"
+    },
+    {
+      "no": 7,
+      "title": "進撃の巨人(8) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/5221905",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/512AvIpg2OS._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 8,
+      "title": "修羅の門 第弐門(6) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/4949545",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51RVW175YwL._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 9,
+      "title": "修羅の門 第弐門(5) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/4649827",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51H2dOX1WRL._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 10,
+      "title": "修羅の門 第弐門(4) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/4347403",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51li7q9a+2L._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 11,
+      "title": "修羅の門 第弐門(3) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/4047155",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/514dsmMjTDL._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 12,
+      "title": "修羅の門 第弐門(2) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/3333637",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51JNkA5F5+L._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 13,
+      "title": "修羅の門 第弐門(1) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/2906931",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51l6oDKVZXL._SL500_.jpg",
+      "date": "2012/08/27"
+    },
+    {
+      "no": 14,
+      "title": "一番大切なことがわかる「世界史」の本 (知的生きかた文庫 わ 6-11)",
+      "url": "https://bookmeter.com/books/396492",
+      "author": "綿引 弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%B6%BF%E5%BC%95+%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51BF1GEAtLL._SL500_.jpg",
+      "date": "2012/08/25"
+    },
+    {
+      "no": 15,
+      "title": "ラブコメ今昔 (角川文庫)",
+      "url": "https://bookmeter.com/books/4797604",
+      "author": "有川 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%B7%9D+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/41Ohnl4HJ5L._SL500_.jpg",
+      "date": "2012/08/25"
+    },
+    {
+      "no": 16,
+      "title": "ガラス張りの誘拐 (角川文庫 う 14-2)",
+      "url": "https://bookmeter.com/books/558719",
+      "author": "歌野 晶午",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%AD%8C%E9%87%8E+%E6%99%B6%E5%8D%88",
+      "thumb": "https://m.media-amazon.com/images/I/41D-CQX-o2L._SL500_.jpg",
+      "date": "2012/08/25"
+    },
+    {
+      "no": 17,
+      "title": "ミステリー通り商店街",
+      "url": "https://bookmeter.com/books/490070",
+      "author": "室積 光",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%A4%E7%A9%8D+%E5%85%89",
+      "thumb": "https://m.media-amazon.com/images/I/51i67AosxPL._SL500_.jpg",
+      "date": "2012/08/25"
+    },
+    {
+      "no": 18,
+      "title": "進撃の巨人(7) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/4710537",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51bsWCC8oKS._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 19,
+      "title": "進撃の巨人(6) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/4347883",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51KKruVUY2L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 20,
+      "title": "進撃の巨人(5) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/3914984",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51ajt+hFc4S._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 21,
+      "title": "進撃の巨人(4) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/2903832",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51-E55xD-uS._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 22,
+      "title": "進撃の巨人(3) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/849556",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51CHUIzKCrL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 23,
+      "title": "進撃の巨人(2) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/611528",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51Y2E46zC9S._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 24,
+      "title": "進撃の巨人(1)",
+      "url": "https://bookmeter.com/books/347047",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51RkDetC0uL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 25,
+      "title": "機巧童子ULTIMO 8 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4613389",
+      "author": "武井 宏之",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%AD%A6%E4%BA%95+%E5%AE%8F%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51JyIqadeFL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 26,
+      "title": "ジエンド　炎人　The　last　hero　comes　alive（4） (マガジンZKC)",
+      "url": "https://bookmeter.com/books/551923",
+      "author": "村枝 賢一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E6%9E%9D+%E8%B3%A2%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/615-flvTREL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 27,
+      "title": "ジエンド　炎人　The　last　hero　comes　alive　（3） (マガジンZKC)",
+      "url": "https://bookmeter.com/books/551921",
+      "author": "村枝 賢一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E6%9E%9D+%E8%B3%A2%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51MExXnbzRL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 28,
+      "title": "ジエンド炎人―The last hero comes alive(2)「HXL ヒーロークロスライン」008(マガジンZKC)",
+      "url": "https://bookmeter.com/books/545966",
+      "author": "村枝 賢一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E6%9E%9D+%E8%B3%A2%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51lrBQIFf1L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 29,
+      "title": "ジエンド炎人―The last hero comes alive（1） 「HXL ヒーロークロスライン」001(マガジンZKC)",
+      "url": "https://bookmeter.com/books/545963",
+      "author": "村枝 賢一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E6%9E%9D+%E8%B3%A2%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51UfabCfRyL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 30,
+      "title": "エクゾスカル零 (2) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/4650578",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/514UC-UyQ0L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 31,
+      "title": "エクゾスカル零 (1) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/3939079",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61WSxtzewHL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 32,
+      "title": "クズ!!~アナザ-クロ-ズ九頭神竜男~ (1) (ヤングチャンピオンコミックス)",
+      "url": "https://bookmeter.com/books/5225466",
+      "author": "鈴木 大",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%A7",
+      "thumb": "https://m.media-amazon.com/images/I/51REiM1hgLL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 33,
+      "title": "シグルイ (15) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/647396",
+      "author": "南條 範夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%97%E6%A2%9D+%E7%AF%84%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51PnVLyYheL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 34,
+      "title": "シグルイ (14) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/579389",
+      "author": "南條 範夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%97%E6%A2%9D+%E7%AF%84%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51CqbSPpioL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 35,
+      "title": "シグルイ (13) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/579387",
+      "author": "南條 範夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%97%E6%A2%9D+%E7%AF%84%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51lXzkPPOkL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 36,
+      "title": "シグルイ (12) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/579698",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/51YXIMw-U+L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 37,
+      "title": "シグルイ (11) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539392",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/517mTO6jTuL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 38,
+      "title": "シグルイ (10) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539391",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/51vQbs2hCJL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 39,
+      "title": "シグルイ (9) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539390",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61tl3m6ed1L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 40,
+      "title": "シグルイ (8) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539389",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61h-dmI12uL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 41,
+      "title": "シグルイ (7) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539388",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61VF0v1OkPL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 42,
+      "title": "シグルイ (6) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539387",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61nWQJIEEXL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 43,
+      "title": "シグルイ (5) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539385",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/31qqW8XI6aL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 44,
+      "title": "シグルイ (4) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/558303",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/51gWARaLY0L._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 45,
+      "title": "シグルイ (3) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539384",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61LU-yYn0eL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 46,
+      "title": "シグルイ (2) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/558302",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/611R91hOHuL._SL500_.jpg",
+      "date": "2012/08/12"
+    },
+    {
+      "no": 47,
+      "title": "シグルイ (1) (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/539383",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61Vu+rbOWBL._SL500_.jpg",
+      "date": "2012/08/12"
+    }
+  ],
+  "count": 47,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

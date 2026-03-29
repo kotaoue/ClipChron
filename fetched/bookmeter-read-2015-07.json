@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ザ・ベストミステリーズ2014 (推理小説年鑑)",
+      "url": "https://bookmeter.com/books/8030926",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/412ytm3RsUL._SL500_.jpg",
+      "date": "2015/07/30"
+    },
+    {
+      "no": 2,
+      "title": "タイム・マシン 他九篇 (岩波文庫 赤276-1)",
+      "url": "https://bookmeter.com/books/534159",
+      "author": "H.G. ウエルズ",
+      "authorUrl": "https://bookmeter.com/search?author=H.G.+%E3%82%A6%E3%82%A8%E3%83%AB%E3%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/517kKRLSQdL._SL500_.jpg",
+      "date": "2015/07/24"
+    },
+    {
+      "no": 3,
+      "title": "アメリカ人の国民性がよくわかる英語―日本人との考え方の違いは、こんな英語に見てとれる (KAWADE夢新書)",
+      "url": "https://bookmeter.com/books/2647786",
+      "author": "ディビッド・A. セイン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%82%A3%E3%83%93%E3%83%83%E3%83%89%E3%83%BBA.+%E3%82%BB%E3%82%A4%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51hXxPbKKEL._SL500_.jpg",
+      "date": "2015/07/16"
+    },
+    {
+      "no": 4,
+      "title": "ゲゲゲの鬼太郎 5 妖怪大統領 (ちくま文庫 み 4-24)",
+      "url": "https://bookmeter.com/books/444314",
+      "author": "水木 しげる",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E6%9C%A8+%E3%81%97%E3%81%92%E3%82%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51SUNXAskEL._SL500_.jpg",
+      "date": "2015/07/16"
+    },
+    {
+      "no": 5,
+      "title": "混沌【カオス】ホテル (ザ・ベスト・オブ・コニー・ウィリス)",
+      "url": "https://bookmeter.com/books/7900935",
+      "author": "コニー・ウィリス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B3%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51cmi28NL5L._SL500_.jpg",
+      "date": "2015/07/05"
+    },
+    {
+      "no": 6,
+      "title": "新版 NHK アナウンス・セミナー ~放送の現場から",
+      "url": "https://bookmeter.com/books/1687169",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41RCS83AK9L._SL500_.jpg",
+      "date": "2015/07/05"
+    },
+    {
+      "no": 7,
+      "title": "時砂の王 (ハヤカワ文庫 JA オ 6-7)",
+      "url": "https://bookmeter.com/books/575368",
+      "author": "小川 一水",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E5%B7%9D+%E4%B8%80%E6%B0%B4",
+      "thumb": "https://m.media-amazon.com/images/I/51LTuI9LvXL._SL500_.jpg",
+      "date": "2015/07/02"
+    },
+    {
+      "no": 8,
+      "title": "声と話し方のトレーニング (平凡社新書)",
+      "url": "https://bookmeter.com/books/404060",
+      "author": "村上 由美",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E4%B8%8A+%E7%94%B1%E7%BE%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41cUqYJM1WL._SL500_.jpg",
+      "date": "2015/07/01"
+    }
+  ],
+  "count": 8,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

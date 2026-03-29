@@ -1,0 +1,261 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "おでんさむらい (ちくわのまき)",
+      "url": "https://bookmeter.com/books/458050",
+      "author": "内田 麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0+%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51747lXdifL._SL500_.jpg",
+      "date": "2023/12/28"
+    },
+    {
+      "no": 2,
+      "title": "おばけのひっこし (日本傑作絵本シリーズ)",
+      "url": "https://bookmeter.com/books/399163",
+      "author": "さがら あつこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%95%E3%81%8C%E3%82%89+%E3%81%82%E3%81%A4%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/518qr1QPuGL._SL500_.jpg",
+      "date": "2023/12/28"
+    },
+    {
+      "no": 3,
+      "title": "スマホの中身も「遺品」です-デジタル相続入門 (中公新書ラクレ 675)",
+      "url": "https://bookmeter.com/books/14953623",
+      "author": "古田 雄介",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8F%A4%E7%94%B0+%E9%9B%84%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51YzstqzmdL._SL500_.jpg",
+      "date": "2023/12/28"
+    },
+    {
+      "no": 4,
+      "title": "世界の恐竜MAP 驚異の古生物をさがせ!",
+      "url": "https://bookmeter.com/books/11101092",
+      "author": "土屋 健",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%9C%9F%E5%B1%8B+%E5%81%A5",
+      "thumb": "https://m.media-amazon.com/images/I/51N5BQwVCCL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 5,
+      "title": "夢にめざめる世界",
+      "url": "https://bookmeter.com/books/11085913",
+      "author": "ロブ ゴンサルヴェス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AD%E3%83%96+%E3%82%B4%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%B4%E3%82%A7%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/61kZiq3aCwL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 6,
+      "title": "世界幻妖図鑑",
+      "url": "https://bookmeter.com/books/15335472",
+      "author": "フロールチェ ズウィヒトマン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%81%E3%82%A7+%E3%82%BA%E3%82%A6%E3%82%A3%E3%83%92%E3%83%88%E3%83%9E%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51E0hD6ZP5L._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 7,
+      "title": "Reading Japanese Politics in Data データで読む日本政治",
+      "url": "https://bookmeter.com/books/19275227",
+      "author": "日本経済新聞社政治・外交グループ編",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E7%A4%BE%E6%94%BF%E6%B2%BB%E3%83%BB%E5%A4%96%E4%BA%A4%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E7%B7%A8",
+      "thumb": "https://m.media-amazon.com/images/I/41P0rvWpTCL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 8,
+      "title": "産休・育休中の不安がスーッと解消される がんばりすぎないお仕事復帰BOOK",
+      "url": "https://bookmeter.com/books/19329771",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51zJ+T3JYtL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 9,
+      "title": "伝わる[図・グラフ・表]のデザインテクニック",
+      "url": "https://bookmeter.com/books/16191124",
+      "author": "北田 荘平,渡邉 真洋",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8C%97%E7%94%B0+%E8%8D%98%E5%B9%B3%2C%E6%B8%A1%E9%82%89+%E7%9C%9F%E6%B4%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51uktWXzoxL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 10,
+      "title": "スタディサプリ 三賢人の学問探究ノート(4) 表現を究める (スタディサプリ三賢人の学問探究ノート 4)",
+      "url": "https://bookmeter.com/books/17512712",
+      "author": "ドミニク・チェン,川添 愛,水野 祐",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AF%E3%83%BB%E3%83%81%E3%82%A7%E3%83%B3%2C%E5%B7%9D%E6%B7%BB+%E6%84%9B%2C%E6%B0%B4%E9%87%8E+%E7%A5%90",
+      "thumb": "https://m.media-amazon.com/images/I/51gsNaqOPBL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 11,
+      "title": "アイウエ王とカキクケ公 (童心社の絵本 20)",
+      "url": "https://bookmeter.com/books/462940",
+      "author": "三芳 悌吉",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E8%8A%B3+%E6%82%8C%E5%90%89",
+      "thumb": "https://m.media-amazon.com/images/I/61Yy5V9LvGL._SL500_.jpg",
+      "date": "2023/12/17"
+    },
+    {
+      "no": 12,
+      "title": "おしゃべりなたまごやき (日本傑作絵本シリーズ)",
+      "url": "https://bookmeter.com/books/404229",
+      "author": "寺村 輝夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AF%BA%E6%9D%91+%E8%BC%9D%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/61mTB2QHisL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 13,
+      "title": "あいぼうは どこへ? -- ニューヨークの としょかんに いる 2とうの ライオンの おはなし (imagination unlimited)",
+      "url": "https://bookmeter.com/books/14180292",
+      "author": "ジョシュ・ファンク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51-gVEITRkL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 14,
+      "title": "スキャリーおじさんのどうぶつたちのメリークリスマス",
+      "url": "https://bookmeter.com/books/7787256",
+      "author": "キャサリン ジャクソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3+%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61nLcOgq71L._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 15,
+      "title": "おうさまババール (評論社の児童図書館・絵本の部屋―ぞうのババール 3)",
+      "url": "https://bookmeter.com/books/64147",
+      "author": "ジャン・ド・ブリュノフ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%96%E3%83%AA%E3%83%A5%E3%83%8E%E3%83%95",
+      "thumb": "https://m.media-amazon.com/images/I/51m46iTptYL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 16,
+      "title": "どこどこ?セブン〈10〉いろ、いろいろ",
+      "url": "https://bookmeter.com/books/239225",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51yzd1NmcoL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 17,
+      "title": "モチモチの木 (創作絵本6)",
+      "url": "https://bookmeter.com/books/568375",
+      "author": "斎藤 隆介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%8E%E8%97%A4+%E9%9A%86%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/518J229hCKL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 18,
+      "title": "すごいぞ!進化: はじめて学ぶ生命の旅",
+      "url": "https://bookmeter.com/books/16028651",
+      "author": "アンナ・クレイボーン,ウェスリー・ロビンズ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%B3%2C%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/61ZcRQ3oxrL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 19,
+      "title": "鬼太郎と行く妖怪道五十三次",
+      "url": "https://bookmeter.com/books/559559",
+      "author": "水木 しげる",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E6%9C%A8+%E3%81%97%E3%81%92%E3%82%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51i5lGRperL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 20,
+      "title": "フライングメジャー号 世界一周 空の旅 (講談社の創作絵本シリーズ)",
+      "url": "https://bookmeter.com/books/19042027",
+      "author": "コマヤスカン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B3%E3%83%9E%E3%83%A4%E3%82%B9%E3%82%AB%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61ktj2SUoYL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 21,
+      "title": "ともだち いっしゅうかん (「おれたち、ともだち! 」絵本)",
+      "url": "https://bookmeter.com/books/17525631",
+      "author": "内田麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51BslIKcgYL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 22,
+      "title": "おいしいパンがたべたいな (学研おはなし絵本)",
+      "url": "https://bookmeter.com/books/54441",
+      "author": "やまだ うたこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%84%E3%81%BE%E3%81%A0+%E3%81%86%E3%81%9F%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51kr2J8uXeL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 23,
+      "title": "いぬねこ―ハムスターそのほか (フレーベル館の図鑑ナチュラ)",
+      "url": "https://bookmeter.com/books/680045",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51VH7GYS1AL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 24,
+      "title": "世界のアート図鑑 (単行本)",
+      "url": "https://bookmeter.com/books/653286",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/511TW8R2OsL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 25,
+      "title": "手塚治虫「日本文化」傑作選(祥伝社新書) (祥伝社新書 476)",
+      "url": "https://bookmeter.com/books/11098158",
+      "author": "手塚 治虫",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%89%8B%E5%A1%9A+%E6%B2%BB%E8%99%AB",
+      "thumb": "https://m.media-amazon.com/images/I/519cexHpG4L._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 26,
+      "title": "アルゴリズムの時代 機械が決定する世界をどう生きるか",
+      "url": "https://bookmeter.com/books/18277795",
+      "author": "ハンナ・フライ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8F%E3%83%B3%E3%83%8A%E3%83%BB%E3%83%95%E3%83%A9%E3%82%A4",
+      "thumb": "https://m.media-amazon.com/images/I/51QzvHAT02L._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 27,
+      "title": "刑法的思考のすすめ~刑法を使って考えることの面白さを伝えたいんだよ! (未来のわたしにタネをまこう 2)",
+      "url": "https://bookmeter.com/books/19480173",
+      "author": "仲道 祐樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%B2%E9%81%93+%E7%A5%90%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51Q3BxJsqBL._SL500_.jpg",
+      "date": "2023/12/03"
+    },
+    {
+      "no": 28,
+      "title": "大学4年間の社会学が10時間でざっと学べる",
+      "url": "https://bookmeter.com/books/13498584",
+      "author": "出口 剛司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%87%BA%E5%8F%A3+%E5%89%9B%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51PXO-n+e2L._SL500_.jpg",
+      "date": "2023/12/03"
+    }
+  ],
+  "count": 28,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

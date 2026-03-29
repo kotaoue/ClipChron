@@ -1,0 +1,162 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "おじさんのかさ (講談社の創作絵本)",
+      "url": "https://bookmeter.com/books/531706",
+      "author": "佐野 洋子",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E9%87%8E+%E6%B4%8B%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/41KWAvB9rgL._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 2,
+      "title": "そうべえ ふしぎなりゅうぐうじょう (童心社の絵本)",
+      "url": "https://bookmeter.com/books/3307780",
+      "author": "たじま ゆきひこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%9F%E3%81%98%E3%81%BE+%E3%82%86%E3%81%8D%E3%81%B2%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51FiOA9QBLL._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 3,
+      "title": "おにいちゃんが　いるからね",
+      "url": "https://bookmeter.com/books/4131206",
+      "author": "ウルフ・ニルソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A6%E3%83%AB%E3%83%95%E3%83%BB%E3%83%8B%E3%83%AB%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61xMJ-MVj7L._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 4,
+      "title": "SDGs、ESG経営に必須! 多様性って何ですか?D\u0026amp;I、ジェンダー平等入門",
+      "url": "https://bookmeter.com/books/19151109",
+      "author": "羽生 祥子",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E7%94%9F+%E7%A5%A5%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51Mzu65HJCL._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 5,
+      "title": "スーパーぼうや: ちいさなチョーじん (評論社の児童図書館・絵本の部屋)",
+      "url": "https://bookmeter.com/books/727714",
+      "author": "ボブ グラハム",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9C%E3%83%96+%E3%82%B0%E3%83%A9%E3%83%8F%E3%83%A0",
+      "thumb": "https://m.media-amazon.com/images/I/51KM3NPV0ML._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 6,
+      "title": "よるにきこえるおと (フレーベル館のおはなしいっぱい)",
+      "url": "https://bookmeter.com/books/692039",
+      "author": "おかべ りか",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%8A%E3%81%8B%E3%81%B9+%E3%82%8A%E3%81%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51P6BDAXH2L._SL500_.jpg",
+      "date": "2024/03/14"
+    },
+    {
+      "no": 7,
+      "title": "大人になっても、悩んだりしていいですか?",
+      "url": "https://bookmeter.com/books/6502746",
+      "author": "青木 美詠子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%9D%92%E6%9C%A8+%E7%BE%8E%E8%A9%A0%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/31Zq8r2MMyL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 8,
+      "title": "くんちゃんのはじめてのがっこう",
+      "url": "https://bookmeter.com/books/400952",
+      "author": "ドロシー・マリノ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%89%E3%83%AD%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61YNVB4SaWL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 9,
+      "title": "コーギビルの村まつり",
+      "url": "https://bookmeter.com/books/398147",
+      "author": "ターシャ テューダー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3+%E3%83%86%E3%83%A5%E3%83%BC%E3%83%80%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/61ROB+SsqfL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 10,
+      "title": "人形の家にすんでいたネズミ一家のおはなし (児童書)",
+      "url": "https://bookmeter.com/books/11238874",
+      "author": "マイケル ボンド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB+%E3%83%9C%E3%83%B3%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/617-CfS-duL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 11,
+      "title": "よるのとこやさん (わくわくメルヘンシリーズ)",
+      "url": "https://bookmeter.com/books/466789",
+      "author": "垣内 磯子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%9E%A3%E5%86%85+%E7%A3%AF%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51H2P+gXACL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 12,
+      "title": "きみにおやすみをいうまえに (山烋のえほん)",
+      "url": "https://bookmeter.com/books/21510662",
+      "author": "ジョルジョ・ヴォルぺ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AB%E3%81%BA",
+      "thumb": "https://m.media-amazon.com/images/I/41bhX6RsS-L._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 13,
+      "title": "どこでもない場所",
+      "url": "https://bookmeter.com/books/393940",
+      "author": "セーラ・L. トムソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BBL.+%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51bIlA1Vj4L._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 14,
+      "title": "小さな小さな魔女ピッキ",
+      "url": "https://bookmeter.com/books/1879113",
+      "author": "トーン テレヘン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%BC%E3%83%B3+%E3%83%86%E3%83%AC%E3%83%98%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41FQ990lAyL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 15,
+      "title": "「死」とは何か イェール大学で23年連続の人気講義 完全翻訳版",
+      "url": "https://bookmeter.com/books/13859298",
+      "author": "シェリー・ケーガン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%BC%E3%82%AC%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/414OWQMT0UL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 16,
+      "title": "推しエコノミー 「仮想一等地」が変えるエンタメの未来",
+      "url": "https://bookmeter.com/books/18633931",
+      "author": "中山 淳雄",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E5%B1%B1+%E6%B7%B3%E9%9B%84",
+      "thumb": "https://m.media-amazon.com/images/I/41xIA4EtonL._SL500_.jpg",
+      "date": "2024/03/02"
+    },
+    {
+      "no": 17,
+      "title": "水木しげる 妖怪百物語",
+      "url": "https://bookmeter.com/books/559540",
+      "author": "水木 しげる",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E6%9C%A8+%E3%81%97%E3%81%92%E3%82%8B",
+      "thumb": "https://m.media-amazon.com/images/I/61yBii7SrAL._SL500_.jpg",
+      "date": "2024/03/02"
+    }
+  ],
+  "count": 17,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

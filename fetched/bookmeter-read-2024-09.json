@@ -1,0 +1,198 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "私とは何か――「個人」から「分人」へ (講談社現代新書 2172)",
+      "url": "https://bookmeter.com/books/5356105",
+      "author": "平野 啓一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E9%87%8E+%E5%95%93%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41nQNJ6E3NL._SL500_.jpg",
+      "date": "2024/09/23"
+    },
+    {
+      "no": 2,
+      "title": "しごとのどうぐ",
+      "url": "https://bookmeter.com/books/21814772",
+      "author": "三浦太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E6%B5%A6%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41e5e0iVAAL._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 3,
+      "title": "ケーキやさんのゆうれい",
+      "url": "https://bookmeter.com/books/33811",
+      "author": "ジャクリーン・K. オグバン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BBK.+%E3%82%AA%E3%82%B0%E3%83%90%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51sJxP64HjL._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 4,
+      "title": "はじめての国旗えほん",
+      "url": "https://bookmeter.com/books/8983897",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51Oxgakbg4L._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 5,
+      "title": "ますだくんとまいごのみほちゃん (えほんとなかよし 53)",
+      "url": "https://bookmeter.com/books/471609",
+      "author": "武田 美穂",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%AD%A6%E7%94%B0+%E7%BE%8E%E7%A9%82",
+      "thumb": "https://m.media-amazon.com/images/I/61SOGLUrC-L._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 6,
+      "title": "ここが わたしの ねるところ せかいの おやすみなさい (福音館の科学シリーズ)",
+      "url": "https://bookmeter.com/books/19157279",
+      "author": "レベッカ・ボンド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%83%99%E3%83%83%E3%82%AB%E3%83%BB%E3%83%9C%E3%83%B3%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/61UuZA-+fLL._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 7,
+      "title": "世界えじてん",
+      "url": "https://bookmeter.com/books/9854467",
+      "author": "てづかあけみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A6%E3%81%A5%E3%81%8B%E3%81%82%E3%81%91%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51fkr9w3GkL._SL500_.jpg",
+      "date": "2024/09/22"
+    },
+    {
+      "no": 8,
+      "title": "「読む・書く・話す」を一瞬でモノにする技術",
+      "url": "https://bookmeter.com/books/569710",
+      "author": "齋藤 孝",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%BD%8B%E8%97%A4+%E5%AD%9D",
+      "thumb": "https://m.media-amazon.com/images/I/410mt+A0TXL._SL500_.jpg",
+      "date": "2024/09/21"
+    },
+    {
+      "no": 9,
+      "title": "Ｊミステリー２０２３　ＦＡＬＬ (光文社文庫 こ 1-28)",
+      "url": "https://bookmeter.com/books/21594955",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51k9rNFSFiL._SL500_.jpg",
+      "date": "2024/09/21"
+    },
+    {
+      "no": 10,
+      "title": "スタッフエンジニア　マネジメントを超えるリーダーシップ",
+      "url": "https://bookmeter.com/books/21200968",
+      "author": "Will Larson",
+      "authorUrl": "https://bookmeter.com/search?author=Will+Larson",
+      "thumb": "https://m.media-amazon.com/images/I/41GU370AZNL._SL500_.jpg",
+      "date": "2024/09/21"
+    },
+    {
+      "no": 11,
+      "title": "ひどい民話を語る会",
+      "url": "https://bookmeter.com/books/20247197",
+      "author": "京極 夏彦,多田 克己,村上 健司,黒 史郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%AC%E6%A5%B5+%E5%A4%8F%E5%BD%A6%2C%E5%A4%9A%E7%94%B0+%E5%85%8B%E5%B7%B1%2C%E6%9D%91%E4%B8%8A+%E5%81%A5%E5%8F%B8%2C%E9%BB%92+%E5%8F%B2%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51qTE0s8kFL._SL500_.jpg",
+      "date": "2024/09/17"
+    },
+    {
+      "no": 12,
+      "title": "おうちメンタルケア入門 不安をそっと手放す方法",
+      "url": "https://bookmeter.com/books/18839174",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/411x+5ybgzL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 13,
+      "title": "性の絵本 みんながもってるたからものってなーんだ?",
+      "url": "https://bookmeter.com/books/17860807",
+      "author": "たきれい",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%9F%E3%81%8D%E3%82%8C%E3%81%84",
+      "thumb": "https://m.media-amazon.com/images/I/41F24ANOV8S._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 14,
+      "title": "江戸の子ども ちょんまげのひみつ",
+      "url": "https://bookmeter.com/books/6762910",
+      "author": "菊地 ひと美",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8F%8A%E5%9C%B0+%E3%81%B2%E3%81%A8%E7%BE%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41aY9bjEzyL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 15,
+      "title": "どうぶつのあかちゃん (しぜんにタッチ! 【3歳・4歳・5歳からの絵本】)",
+      "url": "https://bookmeter.com/books/8921197",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51C1GQJOZxL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 16,
+      "title": "THIS IS ME!ぼく・わたし (あそびながらおぼえるはじめて英語ランド)",
+      "url": "https://bookmeter.com/books/1505030",
+      "author": "WILLこども知育研究所",
+      "authorUrl": "https://bookmeter.com/search?author=WILL%E3%81%93%E3%81%A9%E3%82%82%E7%9F%A5%E8%82%B2%E7%A0%94%E7%A9%B6%E6%89%80",
+      "thumb": "https://m.media-amazon.com/images/I/51D25WV2PJL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 17,
+      "title": "手塚治虫エッセイ集成 ぼくの旅行記 (立東舎文庫)",
+      "url": "https://bookmeter.com/books/12487370",
+      "author": "手塚 治虫",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%89%8B%E5%A1%9A+%E6%B2%BB%E8%99%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51SsBtPDtiL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 18,
+      "title": "学校では教えない逆転の発想法 おとなの思考 (リベラル文庫)",
+      "url": "https://bookmeter.com/books/21271855",
+      "author": "外山滋比古",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%96%E5%B1%B1%E6%BB%8B%E6%AF%94%E5%8F%A4",
+      "thumb": "https://m.media-amazon.com/images/I/51dm6btUscL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 19,
+      "title": "ビジネススキル図鑑",
+      "url": "https://bookmeter.com/books/18097652",
+      "author": "堀 公俊",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A0%80+%E5%85%AC%E4%BF%8A",
+      "thumb": "https://m.media-amazon.com/images/I/51VjuTRe4aS._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 20,
+      "title": "最強のエンジニアになるための ロジカルシンキング投資術",
+      "url": "https://bookmeter.com/books/19733078",
+      "author": "亀山 雅司",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%80%E5%B1%B1+%E9%9B%85%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51ATwFp4XnL._SL500_.jpg",
+      "date": "2024/09/04"
+    },
+    {
+      "no": 21,
+      "title": "キッズペディア まちのナニコレ?図鑑",
+      "url": "https://bookmeter.com/books/18380378",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61RBH6teJaL._SL500_.jpg",
+      "date": "2024/09/04"
+    }
+  ],
+  "count": 21,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

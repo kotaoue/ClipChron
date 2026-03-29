@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "きょうりゅうたちのいただきます (世界の絵本コレクション)",
+      "url": "https://bookmeter.com/books/11210323",
+      "author": "ジェイン ヨーレン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%B3+%E3%83%A8%E3%83%BC%E3%83%AC%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61TQ3+UofmL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 2,
+      "title": "No Fighting, No Biting! (I Can Read Book 2)",
+      "url": "https://bookmeter.com/books/2788368",
+      "author": "Else Holmelund Minarik",
+      "authorUrl": "https://bookmeter.com/search?author=Else+Holmelund+Minarik",
+      "thumb": "https://m.media-amazon.com/images/I/5101ENDX9JL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 3,
+      "title": "3000年の叡智を学べる 戦略図鑑",
+      "url": "https://bookmeter.com/books/14852760",
+      "author": "鈴木 博毅",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%8D%9A%E6%AF%85",
+      "thumb": "https://m.media-amazon.com/images/I/518YICyLdVL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 4,
+      "title": "草の葉 初版 (大人の本棚)",
+      "url": "https://bookmeter.com/books/6735661",
+      "author": "ウォルト・ホイットマン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A4%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41Tii14mssL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 5,
+      "title": "こどもヘア Happy バイブル",
+      "url": "https://bookmeter.com/books/1335389",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41Dup8pWfPL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 6,
+      "title": "心理学者が教える 読ませる技術 聞かせる技術 心を動かす、わかりやすい表現のコツ (ブルーバックス 2064)",
+      "url": "https://bookmeter.com/books/12998324",
+      "author": "海保 博之",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E4%BF%9D+%E5%8D%9A%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51v-5D-WDZL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 7,
+      "title": "好かれる技術",
+      "url": "https://bookmeter.com/books/220118",
+      "author": "西松 眞子",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%A5%BF%E6%9D%BE+%E7%9C%9E%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51F2EB8SGCL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 8,
+      "title": "Olivia",
+      "url": "https://bookmeter.com/books/1467241",
+      "author": "Ian Falconer",
+      "authorUrl": "https://bookmeter.com/search?author=Ian+Falconer",
+      "thumb": "https://m.media-amazon.com/images/I/415GV5Lk3jL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 9,
+      "title": "D2C 「世界観」と「テクノロジー」で勝つブランド戦略",
+      "url": "https://bookmeter.com/books/14888899",
+      "author": "佐々木康裕",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E3%80%85%E6%9C%A8%E5%BA%B7%E8%A3%95",
+      "thumb": "https://m.media-amazon.com/images/I/31-SPJGHg3L._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 10,
+      "title": "エキスパートたちのGo言語 一流のコードから応用力を学ぶ (Software Design plus)",
+      "url": "https://bookmeter.com/books/19028825",
+      "author": "上田 拓也,青木 太郎,石山 将来,伊藤 雄貴,生沼 一公,鎌田 健史,上川 慶,狩野 達也,五嶋 壮晃,杉田 寿憲,田村 弘,十枝内 直樹,主森 理,福岡 秀一郎,三木 英斗,森 健太,森國 泰平,森本 望,山下 慶将,渡辺 雄也",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%8A%E7%94%B0+%E6%8B%93%E4%B9%9F%2C%E9%9D%92%E6%9C%A8+%E5%A4%AA%E9%83%8E%2C%E7%9F%B3%E5%B1%B1+%E5%B0%86%E6%9D%A5%2C%E4%BC%8A%E8%97%A4+%E9%9B%84%E8%B2%B4%2C%E7%94%9F%E6%B2%BC+%E4%B8%80%E5%85%AC%2C%E9%8E%8C%E7%94%B0+%E5%81%A5%E5%8F%B2%2C%E4%B8%8A%E5%B7%9D+%E6%85%B6%2C%E7%8B%A9%E9%87%8E+%E9%81%94%E4%B9%9F%2C%E4%BA%94%E5%B6%8B+%E5%A3%AE%E6%99%83%2C%E6%9D%89%E7%94%B0+%E5%AF%BF%E6%86%B2%2C%E7%94%B0%E6%9D%91+%E5%BC%98%2C%E5%8D%81%E6%9E%9D%E5%86%85+%E7%9B%B4%E6%A8%B9%2C%E4%B8%BB%E6%A3%AE+%E7%90%86%2C%E7%A6%8F%E5%B2%A1+%E7%A7%80%E4%B8%80%E9%83%8E%2C%E4%B8%89%E6%9C%A8+%E8%8B%B1%E6%96%97%2C%E6%A3%AE+%E5%81%A5%E5%A4%AA%2C%E6%A3%AE%E5%9C%8B+%E6%B3%B0%E5%B9%B3%2C%E6%A3%AE%E6%9C%AC+%E6%9C%9B%2C%E5%B1%B1%E4%B8%8B+%E6%85%B6%E5%B0%86%2C%E6%B8%A1%E8%BE%BA+%E9%9B%84%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/41upCfRmggL._SL500_.jpg",
+      "date": "2022/03/20"
+    },
+    {
+      "no": 11,
+      "title": "D2C　「世界観」と「テクノロジー」で勝つブランド戦略 (NewsPicksパブリッシング)",
+      "url": "https://bookmeter.com/books/15041936",
+      "author": "佐々木康裕",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E3%80%85%E6%9C%A8%E5%BA%B7%E8%A3%95",
+      "thumb": "https://m.media-amazon.com/images/I/31zNPuTyVuL._SL500_.jpg",
+      "date": "2022/03/06"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

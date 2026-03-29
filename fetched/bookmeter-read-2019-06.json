@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "いちばんよくわかる! スポーツマッサージ (GAKKEN SPORTS BOOKS)",
+      "url": "https://bookmeter.com/books/8128576",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51L2LnPaOQL._SL500_.jpg",
+      "date": "2019/06/30"
+    },
+    {
+      "no": 2,
+      "title": "いまどきの子のやる気に火をつけるメンタルトレーニング",
+      "url": "https://bookmeter.com/books/9762766",
+      "author": "飯山 晄朗",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A3%AF%E5%B1%B1+%E6%99%84%E6%9C%97",
+      "thumb": "https://m.media-amazon.com/images/I/51jwvkWojLL._SL500_.jpg",
+      "date": "2019/06/30"
+    },
+    {
+      "no": 3,
+      "title": "娘に語る人種差別",
+      "url": "https://bookmeter.com/books/11648564",
+      "author": "タハール・ベン・ジェルーン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%BF%E3%83%8F%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BC%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41Yp4cORg4L._SL500_.jpg",
+      "date": "2019/06/19"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

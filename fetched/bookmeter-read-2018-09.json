@@ -1,0 +1,189 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ヴィジランテ 5 ―僕のヒーローアカデミアILLEGALS― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/13058612",
+      "author": "別天 荒人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%A5%E5%A4%A9+%E8%8D%92%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51uW2X5-DZL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 2,
+      "title": "ヴィジランテ 4 ―僕のヒーローアカデミアILLEGALS― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12721421",
+      "author": "別天 荒人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%A5%E5%A4%A9+%E8%8D%92%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51khPiGaUIL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 3,
+      "title": "ヴィジランテ 3 ―僕のヒーローアカデミアILLEGALS― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12575921",
+      "author": "別天 荒人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%A5%E5%A4%A9+%E8%8D%92%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51jCc1XQrDL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 4,
+      "title": "ヴィジランテ 2 ―僕のヒーローアカデミアILLEGALS― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12199100",
+      "author": "別天 荒人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%A5%E5%A4%A9+%E8%8D%92%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51fQPFLoVRL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 5,
+      "title": "ヴィジランテ 1 ―僕のヒーローアカデミアILLEGALS― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/11597746",
+      "author": "別天 荒人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%A5%E5%A4%A9+%E8%8D%92%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51OchDJi0tL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 6,
+      "title": "はじめの一歩(122) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/12981491",
+      "author": "森川 ジョージ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%B7%9D+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51lK3C6ZFiL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 7,
+      "title": "はじめの一歩(121) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/12782694",
+      "author": "森川 ジョージ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%B7%9D+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51OFcM23nQL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 8,
+      "title": "はじめの一歩(120) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/12648724",
+      "author": "森川 ジョージ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%B7%9D+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51HFIJCBEML._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 9,
+      "title": "はじめの一歩(119) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/12263946",
+      "author": "森川 ジョージ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%B7%9D+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51BBfIY0xBL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 10,
+      "title": "はじめの一歩(118) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/11958137",
+      "author": "森川 ジョージ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%B7%9D+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51GANTZMZiL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 11,
+      "title": "キン肉マン 64 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/13058106",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51lRXuxx6QL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 12,
+      "title": "キン肉マン 63 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12852154",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51lIz6oMrcL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 13,
+      "title": "キン肉マン 62 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12649052",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/519ZNSIbaUL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 14,
+      "title": "キン肉マン 61 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12436614",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51tuI9J87TL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 15,
+      "title": "キン肉マン 60 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12199074",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/61RhfISZp0L._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 16,
+      "title": "キン肉マン 59 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/11822149",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/511Sd+lVInL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 17,
+      "title": "ワンパンマン 17 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12987500",
+      "author": "村田 雄介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E7%94%B0+%E9%9B%84%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51CduUfz1yL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 18,
+      "title": "ワンパンマン 16 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/12722724",
+      "author": "村田 雄介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E7%94%B0+%E9%9B%84%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51bMw+FUEzL._SL500_.jpg",
+      "date": "2018/09/25"
+    },
+    {
+      "no": 19,
+      "title": "一生使えるカラダのつくり方 ボディメンテナンスメソッド",
+      "url": "https://bookmeter.com/books/666005",
+      "author": "石井 直方",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E4%BA%95+%E7%9B%B4%E6%96%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51OrSd6HvDL._SL500_.jpg",
+      "date": "2018/09/02"
+    },
+    {
+      "no": 20,
+      "title": "カラダが柔らかくなる「筋トレ」！ 動きのフィジカルトレーニング",
+      "url": "https://bookmeter.com/books/7832911",
+      "author": "中村考宏",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%9D%91%E8%80%83%E5%AE%8F",
+      "thumb": "https://m.media-amazon.com/images/I/510yhq8sYgL._SL500_.jpg",
+      "date": "2018/09/02"
+    }
+  ],
+  "count": 20,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

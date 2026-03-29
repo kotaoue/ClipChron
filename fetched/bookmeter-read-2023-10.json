@@ -1,0 +1,90 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ニュー・チャイルドフッド ―つながりあった世界で生きる知恵を育む教育",
+      "url": "https://bookmeter.com/books/18170359",
+      "author": "ジョーダン シャピロ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3+%E3%82%B7%E3%83%A3%E3%83%94%E3%83%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51zSuJxosTS._SL500_.jpg",
+      "date": "2023/10/29"
+    },
+    {
+      "no": 2,
+      "title": "池上彰の世界から見る平成史 (角川新書)",
+      "url": "https://bookmeter.com/books/12545588",
+      "author": "池上 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B1%A0%E4%B8%8A+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/41iI8Z4LU9L._SL500_.jpg",
+      "date": "2023/10/29"
+    },
+    {
+      "no": 3,
+      "title": "目の見えない白鳥さんとアートを見にいく",
+      "url": "https://bookmeter.com/books/18375714",
+      "author": "川内 有緒",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%86%85+%E6%9C%89%E7%B7%92",
+      "thumb": "https://m.media-amazon.com/images/I/51KJivingYL._SL500_.jpg",
+      "date": "2023/10/18"
+    },
+    {
+      "no": 4,
+      "title": "エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング",
+      "url": "https://bookmeter.com/books/12651114",
+      "author": "広木 大地",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BA%83%E6%9C%A8+%E5%A4%A7%E5%9C%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51zMvVL4MeL._SL500_.jpg",
+      "date": "2023/10/18"
+    },
+    {
+      "no": 5,
+      "title": "幻想の未来 (角川文庫)",
+      "url": "https://bookmeter.com/books/12142610",
+      "author": "筒井 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%92%E4%BA%95+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/41VtOMEsgZL._SL500_.jpg",
+      "date": "2023/10/18"
+    },
+    {
+      "no": 6,
+      "title": "強く生きる言葉",
+      "url": "https://bookmeter.com/books/490365",
+      "author": "岡本太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B2%A1%E6%9C%AC%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51JUPtX-b8L._SL500_.jpg",
+      "date": "2023/10/05"
+    },
+    {
+      "no": 7,
+      "title": "新ウォーリーハリウッドへいく",
+      "url": "https://bookmeter.com/books/239649",
+      "author": "マーティン ハンドフォード",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/61Mlkq9WnbL._SL500_.jpg",
+      "date": "2023/10/05"
+    },
+    {
+      "no": 8,
+      "title": "新ウォーリーのふしぎなたび",
+      "url": "https://bookmeter.com/books/424183",
+      "author": "マーティン ハンドフォード",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/61Pz3pAq-SL._SL500_.jpg",
+      "date": "2023/10/05"
+    },
+    {
+      "no": 9,
+      "title": "武器としての「資本論」",
+      "url": "https://bookmeter.com/books/15501126",
+      "author": "白井 聡",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%99%BD%E4%BA%95+%E8%81%A1",
+      "thumb": "https://m.media-amazon.com/images/I/41YwPD5YDXL._SL500_.jpg",
+      "date": "2023/10/02"
+    }
+  ],
+  "count": 9,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

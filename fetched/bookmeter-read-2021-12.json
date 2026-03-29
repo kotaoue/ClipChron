@@ -1,0 +1,99 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "SCRUMMASTER THE BOOK 優れたスクラムマスターになるための極意――メタスキル、学習、心理、リーダーシップ",
+      "url": "https://bookmeter.com/books/16312546",
+      "author": "Zuzana Sochova",
+      "authorUrl": "https://bookmeter.com/search?author=Zuzana+Sochova",
+      "thumb": "https://m.media-amazon.com/images/I/51FFV7e6OCL._SL500_.jpg",
+      "date": "2021/12/28"
+    },
+    {
+      "no": 2,
+      "title": "チューリング",
+      "url": "https://bookmeter.com/books/7843803",
+      "author": "B・ジャック・コープランド",
+      "authorUrl": "https://bookmeter.com/search?author=B%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/4179LYQYmXL._SL500_.jpg",
+      "date": "2021/12/28"
+    },
+    {
+      "no": 3,
+      "title": "サイエンス・インポッシブル SF世界は実現可能か",
+      "url": "https://bookmeter.com/books/491042",
+      "author": "ミチオ カク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%83%81%E3%82%AA+%E3%82%AB%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/414Hzpi5JUL._SL500_.jpg",
+      "date": "2021/12/28"
+    },
+    {
+      "no": 4,
+      "title": "IT研究者のひらめき本棚 ビブリオ・トーク:私のオススメ",
+      "url": "https://bookmeter.com/books/12304502",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51KVs7sRy0L._SL500_.jpg",
+      "date": "2021/12/28"
+    },
+    {
+      "no": 5,
+      "title": "分散システムデザインパターン ―コンテナを使ったスケーラブルなサービスの設計",
+      "url": "https://bookmeter.com/books/13634220",
+      "author": "Brendan Burns",
+      "authorUrl": "https://bookmeter.com/search?author=Brendan+Burns",
+      "thumb": "https://m.media-amazon.com/images/I/41gt2b0uXpL._SL500_.jpg",
+      "date": "2021/12/13"
+    },
+    {
+      "no": 6,
+      "title": "コーチング以前の上司の常識 「教え方」の教科書",
+      "url": "https://bookmeter.com/books/5224409",
+      "author": "古川裕倫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8F%A4%E5%B7%9D%E8%A3%95%E5%80%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41AClTHFWfL._SL500_.jpg",
+      "date": "2021/12/13"
+    },
+    {
+      "no": 7,
+      "title": "ライオンのプライド 探偵になるクマ: 集まると楽しくなる英語の集合名詞えほん",
+      "url": "https://bookmeter.com/books/17234502",
+      "author": "前田 まゆみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%89%8D%E7%94%B0+%E3%81%BE%E3%82%86%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51dkOaQye2L._SL500_.jpg",
+      "date": "2021/12/13"
+    },
+    {
+      "no": 8,
+      "title": "Monday\u0026#39;s Troll",
+      "url": "https://bookmeter.com/books/4536914",
+      "author": "Jack Prelutsky",
+      "authorUrl": "https://bookmeter.com/search?author=Jack+Prelutsky",
+      "thumb": "https://m.media-amazon.com/images/I/518UiZm5RsL._SL500_.jpg",
+      "date": "2021/12/13"
+    },
+    {
+      "no": 9,
+      "title": "カウント2.9から立ち上がれ 逆境からの「復活力」",
+      "url": "https://bookmeter.com/books/13926397",
+      "author": "棚橋弘至",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%9A%E6%A9%8B%E5%BC%98%E8%87%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51ekPYLZP-L._SL500_.jpg",
+      "date": "2021/12/12"
+    },
+    {
+      "no": 10,
+      "title": "スポーツ・健康づくりの指導に役立つ 姿勢と動きの「なぜ」がわかる本 膝・下腿の筋編",
+      "url": "https://bookmeter.com/books/13234555",
+      "author": "土屋真人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%9C%9F%E5%B1%8B%E7%9C%9F%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51DnRWI1D-L._SL500_.jpg",
+      "date": "2021/12/12"
+    }
+  ],
+  "count": 10,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

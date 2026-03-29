@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ますだくんの1ねんせい日記 (えほんとなかよし 43)",
+      "url": "https://bookmeter.com/books/508947",
+      "author": "武田 美穂",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%AD%A6%E7%94%B0+%E7%BE%8E%E7%A9%82",
+      "thumb": "https://m.media-amazon.com/images/I/61keDmJxqYL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 2,
+      "title": "どうしたらいいかわからない君のための 人生の歩きかた図鑑",
+      "url": "https://bookmeter.com/books/13794475",
+      "author": "石井 光太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E4%BA%95+%E5%85%89%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51ntZ3EUzuL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 3,
+      "title": "『こち亀』社会論 超一級の文化史料を読み解く",
+      "url": "https://bookmeter.com/books/16212700",
+      "author": "稲田 豊史",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A8%B2%E7%94%B0+%E8%B1%8A%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/51HWvkuXpEL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 4,
+      "title": "おばけのゆかいなふなたび",
+      "url": "https://bookmeter.com/books/7071415",
+      "author": "ジャック デュケノワ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF+%E3%83%87%E3%83%A5%E3%82%B1%E3%83%8E%E3%83%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51plPrygsQL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 5,
+      "title": "オオカミがやってきた! (絵本・こどものひろば)",
+      "url": "https://bookmeter.com/books/630240",
+      "author": "うちだ ちえ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%86%E3%81%A1%E3%81%A0+%E3%81%A1%E3%81%88",
+      "thumb": "https://m.media-amazon.com/images/I/51c55YDibEL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 6,
+      "title": "天才こども建築家、世界を救う",
+      "url": "https://bookmeter.com/books/11200484",
+      "author": "アンドレア・ベイティー,デイヴィッド・ロバーツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A2%E3%83%BB%E3%83%99%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%2C%E3%83%87%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%83%AD%E3%83%90%E3%83%BC%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/6106jQHE4jL._SL500_.jpg",
+      "date": "2023/11/11"
+    },
+    {
+      "no": 7,
+      "title": "星空の地図",
+      "url": "https://bookmeter.com/books/162710",
+      "author": "藤井 旭",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E4%BA%95+%E6%97%AD",
+      "thumb": "https://m.media-amazon.com/images/I/615eMu191WL._SL500_.jpg",
+      "date": "2023/11/11"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

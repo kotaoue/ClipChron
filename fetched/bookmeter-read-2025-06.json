@@ -1,0 +1,585 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "2動物~パンダ、わに、フェネックほか (5回で折れる かざれる! あそべる! おりがみ)",
+      "url": "https://bookmeter.com/books/17081063",
+      "author": "いしかわ☆まりこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%84%E3%81%97%E3%81%8B%E3%82%8F%E2%98%86%E3%81%BE%E3%82%8A%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51ckBbYrW1L._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 2,
+      "title": "まほうつかいのノナばあさん",
+      "url": "https://bookmeter.com/books/37010",
+      "author": "トミー・デ・パオラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%87%E3%83%BB%E3%83%91%E3%82%AA%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51ScXEIzAOL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 3,
+      "title": "フランクリンとルナ、月へいく",
+      "url": "https://bookmeter.com/books/13555726",
+      "author": "ジェン・キャンベル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/514L+EloPVL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 4,
+      "title": "ピンクのぞうをしらないか",
+      "url": "https://bookmeter.com/books/534187",
+      "author": "佐々木マキ",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E3%80%85%E6%9C%A8%E3%83%9E%E3%82%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51rhIXEaSJL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 5,
+      "title": "おばけやしきにおひっこし",
+      "url": "https://bookmeter.com/books/395020",
+      "author": "カズノ コハラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AB%E3%82%BA%E3%83%8E+%E3%82%B3%E3%83%8F%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/615bJQ7mlnL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 6,
+      "title": "3 くらしをささえるひと (名人はっけん!  まちたんけん)",
+      "url": "https://bookmeter.com/books/13483535",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51RlMG9FE7L._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 7,
+      "title": "ゲーセン戦記-ミカド店長が見たアーケードゲームの半世紀 (中公新書ラクレ 797)",
+      "url": "https://bookmeter.com/books/21281797",
+      "author": "池田 稔",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B1%A0%E7%94%B0+%E7%A8%94",
+      "thumb": "https://m.media-amazon.com/images/I/51mNxV6ZtHL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 8,
+      "title": "模様と意味の本—明日誰かに話したくなる模様のはなし",
+      "url": "https://bookmeter.com/books/11125621",
+      "author": "ジュード・スチュアート",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88",
+      "thumb": "https://m.media-amazon.com/images/I/51354L09dBL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 9,
+      "title": "図解入門 よくわかる 最新 Salesforceの導入と運用 (How-nual Visual Guide Book)",
+      "url": "https://bookmeter.com/books/17087114",
+      "author": "長谷川 慎",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E8%B0%B7%E5%B7%9D+%E6%85%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51xdFf67oHL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 10,
+      "title": "これから大人になる君たちへ 学校では教えてくれない未来を生き抜くヒント",
+      "url": "https://bookmeter.com/books/19335650",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51mE398gfxL._SL500_.jpg",
+      "date": "2025/06/29"
+    },
+    {
+      "no": 11,
+      "title": "眠れなくなるほど面白い 図解 疲労回復の話: 科学的に正しい疲労回復法を専門医が徹底解説!",
+      "url": "https://bookmeter.com/books/22211993",
+      "author": "梶本 修身",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A2%B6%E6%9C%AC+%E4%BF%AE%E8%BA%AB",
+      "thumb": "https://m.media-amazon.com/images/I/518TEOcUj5L._SL500_.jpg",
+      "date": "2025/06/22"
+    },
+    {
+      "no": 12,
+      "title": "子供自転車スタートBOOK (エイムック 3606)",
+      "url": "https://bookmeter.com/books/11488646",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51AF6vk-VNL._SL500_.jpg",
+      "date": "2025/06/22"
+    },
+    {
+      "no": 13,
+      "title": "母がしんどい",
+      "url": "https://bookmeter.com/books/8164729",
+      "author": "田房 永子",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%94%B0%E6%88%BF+%E6%B0%B8%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/61hxzwp6IkL._SL500_.jpg",
+      "date": "2025/06/22"
+    },
+    {
+      "no": 14,
+      "title": "しんどいをその場で乗り切る症状別ツボ図鑑",
+      "url": "https://bookmeter.com/books/20350676",
+      "author": "泉 さくら",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B3%89+%E3%81%95%E3%81%8F%E3%82%89",
+      "thumb": "https://m.media-amazon.com/images/I/51MCVx9WR8L._SL500_.jpg",
+      "date": "2025/06/22"
+    },
+    {
+      "no": 15,
+      "title": "転生したらスライムだった件(18) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/18179477",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51QZfWYJMzS._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 16,
+      "title": "転生したらスライムだった件(17) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/17438539",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/511k8MKzFnL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 17,
+      "title": "転生したらスライムだった件(16) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/16958852",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51E0GAr6VoL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 18,
+      "title": "転生したらスライムだった件(15) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/16077164",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51igwZZqILL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 19,
+      "title": "転生したらスライムだった件(14) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/15504819",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51zKUYZ862L._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 20,
+      "title": "転生したらスライムだった件(13) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/14852934",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51ZR5XP145L._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 21,
+      "title": "転生したらスライムだった件(12) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/14056687",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51NZom0g67L._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 22,
+      "title": "転生したらスライムだった件(11) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/13609992",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51pcQU8EjuL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 23,
+      "title": "転生したらスライムだった件(10) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/13322031",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51q61mY6YtL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 24,
+      "title": "転生したらスライムだった件(9) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/13063215",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51Eh+rTlzsL._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 25,
+      "title": "転生したらスライムだった件(8) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/12854640",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51N0VhklB3L._SL500_.jpg",
+      "date": "2025/06/21"
+    },
+    {
+      "no": 26,
+      "title": "転生したらスライムだった件(7) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/12649596",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51MqwITqvGL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 27,
+      "title": "転生したらスライムだった件(6) 通常版: シリウス",
+      "url": "https://bookmeter.com/books/12435742",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51duYohLBjL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 28,
+      "title": "転生したらスライムだった件(5) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/12199061",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51fg8Aq+m1L._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 29,
+      "title": "転生したらスライムだった件(4) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/11599008",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51L8BTuuxSL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 30,
+      "title": "転生したらスライムだった件(3) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/11192243",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51P88B0ygEL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 31,
+      "title": "転生したらスライムだった件(2) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/10660382",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51FZmUO854L._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 32,
+      "title": "転生したらスライムだった件(1) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/9845567",
+      "author": "川上 泰樹,みっつばー",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E4%B8%8A+%E6%B3%B0%E6%A8%B9%2C%E3%81%BF%E3%81%A3%E3%81%A4%E3%81%B0%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51cWsdIlymL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 33,
+      "title": "終活勇者　１ (バンチコミックス)",
+      "url": "https://bookmeter.com/books/22236335",
+      "author": "じゅらい",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%98%E3%82%85%E3%82%89%E3%81%84",
+      "thumb": "https://m.media-amazon.com/images/I/51js-mBT6IL._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 34,
+      "title": "散歩しながら子どもに教えてあげられる草花図鑑",
+      "url": "https://bookmeter.com/books/15273258",
+      "author": "亀田 龍吉",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%80%E7%94%B0+%E9%BE%8D%E5%90%89",
+      "thumb": "https://m.media-amazon.com/images/I/51oeHGfgB1L._SL500_.jpg",
+      "date": "2025/06/20"
+    },
+    {
+      "no": 35,
+      "title": "漫画のプロが全力で教える 「描き文字」の基本",
+      "url": "https://bookmeter.com/books/20440994",
+      "author": "東京デザイン専門学校",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%B1%E4%BA%AC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+      "thumb": "https://m.media-amazon.com/images/I/51gGfjYFBpL._SL500_.jpg",
+      "date": "2025/06/15"
+    },
+    {
+      "no": 36,
+      "title": "実践で学ぶコード改善の極意　5行ルールで強く美しくリファクタリングする (Compass Booksシリーズ)",
+      "url": "https://bookmeter.com/books/22619555",
+      "author": "Christian Clausen（著）",
+      "authorUrl": "https://bookmeter.com/search?author=Christian+Clausen%EF%BC%88%E8%91%97%EF%BC%89",
+      "thumb": "https://m.media-amazon.com/images/I/51GzvFfa+SL._SL500_.jpg",
+      "date": "2025/06/15"
+    },
+    {
+      "no": 37,
+      "title": "プロの小説家が教える クリエイターのための怪異図鑑",
+      "url": "https://bookmeter.com/books/22056092",
+      "author": "秀島 迅,朝里 樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A7%80%E5%B3%B6+%E8%BF%85%2C%E6%9C%9D%E9%87%8C+%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51UKikctl2L._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 38,
+      "title": "NEWウォーリー ハリウッドへ いく",
+      "url": "https://bookmeter.com/books/13172923",
+      "author": "マーティン・ハンドフォード",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%89%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/61i+S92xk+L._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 39,
+      "title": "5 そだてる・とるひと (名人はっけん!  まちたんけん)",
+      "url": "https://bookmeter.com/books/13483540",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51fsQDZVe3L._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 40,
+      "title": "かいけつゾロリ きょうふの ダンジョン: かいけつゾロリシリーズ70 (かいけつゾロリシリーズ 70)",
+      "url": "https://bookmeter.com/books/18960223",
+      "author": "原 ゆたか,原 京子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8E%9F+%E3%82%86%E3%81%9F%E3%81%8B%2C%E5%8E%9F+%E4%BA%AC%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/615Rug8+orL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 41,
+      "title": "エルマーのたんじょうび? (ぞうのエルマーシリーズ)",
+      "url": "https://bookmeter.com/books/20148895",
+      "author": "デビッド・マッキー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AD%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51w7UoVQbmL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 42,
+      "title": "宇宙人っているの? (宇宙たんけんたい 6)",
+      "url": "https://bookmeter.com/books/484669",
+      "author": "フランクリン・M. ブランリー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%BBM.+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%AA%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51PSMZFKVKL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 43,
+      "title": "ジス・イズ・パリ",
+      "url": "https://bookmeter.com/books/552405",
+      "author": "ミロスラフ・サセック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%83%AD%E3%82%B9%E3%83%A9%E3%83%95%E3%83%BB%E3%82%B5%E3%82%BB%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51HlU1BUWTL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 44,
+      "title": "フィルムスクールで学ぶ101のアイデア",
+      "url": "https://bookmeter.com/books/3165933",
+      "author": "ニール・ランドー,マシュー・フレデリック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%2C%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51bcIm9+qfL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 45,
+      "title": "コードが動かないので帰れません！ 新人プログラマーのためのエラーが怖くなくなる本",
+      "url": "https://bookmeter.com/books/21483069",
+      "author": "桜庭 洋之,望月 幸太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A1%9C%E5%BA%AD+%E6%B4%8B%E4%B9%8B%2C%E6%9C%9B%E6%9C%88+%E5%B9%B8%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/515JYTXDkyL._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 46,
+      "title": "プロダクトマネージャーのしごと 第2版 ―1日目から使える実践ガイド",
+      "url": "https://bookmeter.com/books/21493000",
+      "author": "Matt LeMay",
+      "authorUrl": "https://bookmeter.com/search?author=Matt+LeMay",
+      "thumb": "https://m.media-amazon.com/images/I/41P6RbH+s6L._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 47,
+      "title": "18歳から100歳までの日本の未来を考える17のキーワード",
+      "url": "https://bookmeter.com/books/19922376",
+      "author": "樋口裕一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A8%8B%E5%8F%A3%E8%A3%95%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51uQJnlsJ3L._SL500_.jpg",
+      "date": "2025/06/14"
+    },
+    {
+      "no": 48,
+      "title": "プロダクトマネージャーのしごと 第2版 ―1日目から使える実践ガイド",
+      "url": "https://bookmeter.com/books/21493000",
+      "author": "Matt LeMay",
+      "authorUrl": "https://bookmeter.com/search?author=Matt+LeMay",
+      "thumb": "https://m.media-amazon.com/images/I/41P6RbH+s6L._SL500_.jpg",
+      "date": "2025/06/11"
+    },
+    {
+      "no": 49,
+      "title": "小学生になったら　ともだちずかん (単行本)",
+      "url": "https://bookmeter.com/books/22391189",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51f1J2Tft5L._SL500_.jpg",
+      "date": "2025/06/09"
+    },
+    {
+      "no": 50,
+      "title": "プロダクトマネージャーのしごと 第2版 ―1日目から使える実践ガイド",
+      "url": "https://bookmeter.com/books/21493000",
+      "author": "Matt LeMay",
+      "authorUrl": "https://bookmeter.com/search?author=Matt+LeMay",
+      "thumb": "https://m.media-amazon.com/images/I/41P6RbH+s6L._SL500_.jpg",
+      "date": "2025/06/09"
+    },
+    {
+      "no": 51,
+      "title": "Tarzan特別編集　科学的に正しいセルフマッサージ　完全版 (MAGAZINE HOUSE MOOK)",
+      "url": "https://bookmeter.com/books/22370257",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41Cz2vUuYKL._SL500_.jpg",
+      "date": "2025/06/08"
+    },
+    {
+      "no": 52,
+      "title": "小さくはじめよう —自分らしい事業を手づくりできる「マイクロ起業」メソッド",
+      "url": "https://bookmeter.com/books/21892231",
+      "author": "斉藤 徹",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%89%E8%97%A4+%E5%BE%B9",
+      "thumb": "https://m.media-amazon.com/images/I/511i8+ot2bL._SL500_.jpg",
+      "date": "2025/06/08"
+    },
+    {
+      "no": 53,
+      "title": "物語思考　「やりたいこと」が見つからなくて悩む人のキャリア設計術",
+      "url": "https://bookmeter.com/books/21529742",
+      "author": "けんすう（古川健介）",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%91%E3%82%93%E3%81%99%E3%81%86%EF%BC%88%E5%8F%A4%E5%B7%9D%E5%81%A5%E4%BB%8B%EF%BC%89",
+      "thumb": "https://m.media-amazon.com/images/I/51f1-8va4YL._SL500_.jpg",
+      "date": "2025/06/07"
+    },
+    {
+      "no": 54,
+      "title": "プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで",
+      "url": "https://bookmeter.com/books/20250760",
+      "author": "橋本 将功",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A9%8B%E6%9C%AC+%E5%B0%86%E5%8A%9F",
+      "thumb": "https://m.media-amazon.com/images/I/41CcUwwKd8L._SL500_.jpg",
+      "date": "2025/06/07"
+    },
+    {
+      "no": 55,
+      "title": "ソフトウェア開発現場の「失敗」集めてみた。 42の失敗事例で学ぶチーム開発のうまい進めかた",
+      "url": "https://bookmeter.com/books/21939327",
+      "author": "出石 聡史",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%87%BA%E7%9F%B3+%E8%81%A1%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/511GTt0qXhL._SL500_.jpg",
+      "date": "2025/06/04"
+    },
+    {
+      "no": 56,
+      "title": "ホットプレート\u0026amp;たこ焼き器 ラクうま活用レシピ (タツミムック)",
+      "url": "https://bookmeter.com/books/9896244",
+      "author": "松尾 絢子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E5%B0%BE+%E7%B5%A2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51vEVfXyVoL._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 57,
+      "title": "世界のミライ-統計から見えてくる",
+      "url": "https://bookmeter.com/books/15185918",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/511SzoMyp3L._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 58,
+      "title": "おちばのねどこで おやすみなさい",
+      "url": "https://bookmeter.com/books/18257156",
+      "author": "カレン・ジェイムソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61YwuMk4JQL._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 59,
+      "title": "世界のミライ-統計から見えてくる",
+      "url": "https://bookmeter.com/books/15185918",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/511SzoMyp3L._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 60,
+      "title": "感動を支える裏方: テレビ番組、サッカー、遊園地、ゲームなど",
+      "url": "https://bookmeter.com/books/13339714",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51PwtVjDb2L._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 61,
+      "title": "ジュエリーデザイナー (時代をつくるデザイナーになりたい!!)",
+      "url": "https://bookmeter.com/books/12795456",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/510woKr80XL._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 62,
+      "title": "はじめてのおやつ (ひとりでできる!For Kids!!)",
+      "url": "https://bookmeter.com/books/12186473",
+      "author": "寺西 恵里子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AF%BA%E8%A5%BF+%E6%81%B5%E9%87%8C%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/61Ah+g-WJzL._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 63,
+      "title": "日本語研究者がやさしく教える「きちんと伝わる」文章の授業",
+      "url": "https://bookmeter.com/books/20536191",
+      "author": "井伊 菜穂子,市江 愛,井上 雄太,本多 由美子",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%95%E4%BC%8A+%E8%8F%9C%E7%A9%82%E5%AD%90%2C%E5%B8%82%E6%B1%9F+%E6%84%9B%2C%E4%BA%95%E4%B8%8A+%E9%9B%84%E5%A4%AA%2C%E6%9C%AC%E5%A4%9A+%E7%94%B1%E7%BE%8E%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51bcYTSmBuL._SL500_.jpg",
+      "date": "2025/06/01"
+    },
+    {
+      "no": 64,
+      "title": "カボちゃんのうんどうかい (おはなしパレード)",
+      "url": "https://bookmeter.com/books/364242",
+      "author": "高山 栄子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E5%B1%B1+%E6%A0%84%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51G8HY5EQ2L._SL500_.jpg",
+      "date": "2025/06/01"
+    }
+  ],
+  "count": 64,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

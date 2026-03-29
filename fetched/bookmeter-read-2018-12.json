@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "なぜ人工知能は人と会話ができるのか (マイナビ新書)",
+      "url": "https://bookmeter.com/books/12142219",
+      "author": "三宅 陽一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E5%AE%85+%E9%99%BD%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51T-UWTqB6L._SL500_.jpg",
+      "date": "2018/12/26"
+    },
+    {
+      "no": 2,
+      "title": "大人の恐竜図鑑 (ちくま新書)",
+      "url": "https://bookmeter.com/books/12650670",
+      "author": "北村 雄一",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8C%97%E6%9D%91+%E9%9B%84%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/410xIzTR8eL._SL500_.jpg",
+      "date": "2018/12/26"
+    },
+    {
+      "no": 3,
+      "title": "人工知能はいかにして強くなるのか? 対戦型AIで学ぶ基本のしくみ (ブルーバックス 2001)",
+      "url": "https://bookmeter.com/books/11298898",
+      "author": "小野田 博一",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E9%87%8E%E7%94%B0+%E5%8D%9A%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/513Ch7LXn6L._SL500_.jpg",
+      "date": "2018/12/26"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

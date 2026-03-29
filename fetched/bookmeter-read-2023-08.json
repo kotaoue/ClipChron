@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "パンどろぼうとなぞのフランスパン",
+      "url": "https://bookmeter.com/books/18817428",
+      "author": "柴田 ケイコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9F%B4%E7%94%B0+%E3%82%B1%E3%82%A4%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51b4-D6+5RL._SL500_.jpg",
+      "date": "2023/08/09"
+    },
+    {
+      "no": 2,
+      "title": "拝啓人事部長殿(サイボウズ式ブックス)",
+      "url": "https://bookmeter.com/books/19823650",
+      "author": "高木一史",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%9C%A8%E4%B8%80%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/41FpcltyrSL._SL500_.jpg",
+      "date": "2023/08/09"
+    },
+    {
+      "no": 3,
+      "title": "まじょまつりにいこう (せなけいこのえ・ほ・ん 4)",
+      "url": "https://bookmeter.com/books/159973",
+      "author": "せな けいこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%9B%E3%81%AA+%E3%81%91%E3%81%84%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51y5NWDPKML._SL500_.jpg",
+      "date": "2023/08/09"
+    },
+    {
+      "no": 4,
+      "title": "拝啓人事部長殿(サイボウズ式ブックス)",
+      "url": "https://bookmeter.com/books/19823650",
+      "author": "高木一史",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%9C%A8%E4%B8%80%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/41FpcltyrSL._SL500_.jpg",
+      "date": "2023/08/05"
+    },
+    {
+      "no": 5,
+      "title": "Black and White: A Caldecott Award Winner (CALDECOTT MEDAL BOOK)",
+      "url": "https://bookmeter.com/books/3618585",
+      "author": "David Macaulay",
+      "authorUrl": "https://bookmeter.com/search?author=David+Macaulay",
+      "thumb": "https://m.media-amazon.com/images/I/41HueUa7f8L._SL500_.jpg",
+      "date": "2023/08/03"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

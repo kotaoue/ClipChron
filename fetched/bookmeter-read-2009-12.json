@@ -1,0 +1,225 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ガートルードのレシピ 1 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/535733",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51mS9dPOsZL._SL500_.jpg",
+      "date": "2009/12/31"
+    },
+    {
+      "no": 2,
+      "title": "輝夜姫 (第14巻) (白泉社文庫 し 2-29)",
+      "url": "https://bookmeter.com/books/530868",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51KetRTEwEL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 3,
+      "title": "輝夜姫 (第13巻) (白泉社文庫 し 2-28)",
+      "url": "https://bookmeter.com/books/480950",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51Sg7kyrRSL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 4,
+      "title": "輝夜姫 (第12巻) (白泉社文庫 し 2-27)",
+      "url": "https://bookmeter.com/books/530867",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/517QIRh3wPL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 5,
+      "title": "輝夜姫 (第11巻) (白泉社文庫 し 2-26)",
+      "url": "https://bookmeter.com/books/530865",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/61HrqmmnlcL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 6,
+      "title": "輝夜姫 (第10巻) (白泉社文庫 し 2-25)",
+      "url": "https://bookmeter.com/books/530864",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51Kl1Zd1rIL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 7,
+      "title": "輝夜姫 (第9巻) (白泉社文庫 し 2-24)",
+      "url": "https://bookmeter.com/books/530863",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/31IipTsfUGL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 8,
+      "title": "輝夜姫 (第8巻) (白泉社文庫 し 2-23)",
+      "url": "https://bookmeter.com/books/530862",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/512hph74RyL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 9,
+      "title": "輝夜姫 (第7巻) (白泉社文庫 し 2-22)",
+      "url": "https://bookmeter.com/books/530861",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/614YBy3FsLL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 10,
+      "title": "輝夜姫 (第6巻) (白泉社文庫 し 2-21)",
+      "url": "https://bookmeter.com/books/530859",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/317BgDX5h5L._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 11,
+      "title": "輝夜姫 (第5巻) (白泉社文庫 し 2-20)",
+      "url": "https://bookmeter.com/books/530858",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51Jq+0iLpAL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 12,
+      "title": "輝夜姫 (第4巻) (白泉社文庫 し 2-19)",
+      "url": "https://bookmeter.com/books/530856",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51jQGMubs-L._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 13,
+      "title": "輝夜姫 第3巻 (白泉社文庫 し 2-18)",
+      "url": "https://bookmeter.com/books/530855",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/514-nGGOBjL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 14,
+      "title": "輝夜姫 (第2巻) (白泉社文庫 し 2-17)",
+      "url": "https://bookmeter.com/books/530846",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51zWAVxo+mL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 15,
+      "title": "輝夜姫 第1巻 (白泉社文庫 し 2-16)",
+      "url": "https://bookmeter.com/books/530844",
+      "author": "清水 玲子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%8E%B2%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51jP7b9gKYL._SL500_.jpg",
+      "date": "2009/12/30"
+    },
+    {
+      "no": 16,
+      "title": "きのう何食べた? 3 (モーニングKC)",
+      "url": "https://bookmeter.com/books/576674",
+      "author": "よしなが ふみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%88%E3%81%97%E3%81%AA%E3%81%8C+%E3%81%B5%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/41MU2hsgQ+L._SL500_.jpg",
+      "date": "2009/12/29"
+    },
+    {
+      "no": 17,
+      "title": "きのう何食べた?(2) (モーニングKC)",
+      "url": "https://bookmeter.com/books/572975",
+      "author": "よしなが ふみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%88%E3%81%97%E3%81%AA%E3%81%8C+%E3%81%B5%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/41LM5D-MhfL._SL500_.jpg",
+      "date": "2009/12/29"
+    },
+    {
+      "no": 18,
+      "title": "きのう何食べた?(1) (モーニングKC)",
+      "url": "https://bookmeter.com/books/580515",
+      "author": "よしなが ふみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%88%E3%81%97%E3%81%AA%E3%81%8C+%E3%81%B5%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/41rdq5KZOiL._SL500_.jpg",
+      "date": "2009/12/29"
+    },
+    {
+      "no": 19,
+      "title": "乙女座・スピカ・真珠星 -タカハシマコ短編集- (マーガレットコミックス)",
+      "url": "https://bookmeter.com/books/579470",
+      "author": "タカハシ マコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%BF%E3%82%AB%E3%83%8F%E3%82%B7+%E3%83%9E%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51t5QGGqUuL._SL500_.jpg",
+      "date": "2009/12/29"
+    },
+    {
+      "no": 20,
+      "title": "風の男　白洲次郎 (新潮文庫)",
+      "url": "https://bookmeter.com/books/574815",
+      "author": "青柳 恵介",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%9D%92%E6%9F%B3+%E6%81%B5%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51AoYmpssrL._SL500_.jpg",
+      "date": "2009/12/28"
+    },
+    {
+      "no": 21,
+      "title": "本格推理委員会 (角川文庫 ひ 18-1)",
+      "url": "https://bookmeter.com/books/572716",
+      "author": "日向 まさみち",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%97%A5%E5%90%91+%E3%81%BE%E3%81%95%E3%81%BF%E3%81%A1",
+      "thumb": "https://m.media-amazon.com/images/I/51EEMTL26NL._SL500_.jpg",
+      "date": "2009/12/22"
+    },
+    {
+      "no": 22,
+      "title": "コップ一杯の戦争 (1981年) (集英社文庫)",
+      "url": "https://bookmeter.com/books/572763",
+      "author": "小松 左京",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E6%9D%BE+%E5%B7%A6%E4%BA%AC",
+      "thumb": "https://m.media-amazon.com/images/I/61gSBxVrhGL._SL500_.jpg",
+      "date": "2009/12/22"
+    },
+    {
+      "no": 23,
+      "title": "空から墜ちてきた歴史 (1981年)",
+      "url": "https://bookmeter.com/books/572760",
+      "author": "小松 左京",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E6%9D%BE+%E5%B7%A6%E4%BA%AC",
+      "thumb": "https://m.media-amazon.com/images/I/41nlIBNRu1L._SL500_.jpg",
+      "date": "2009/12/22"
+    },
+    {
+      "no": 24,
+      "title": "相棒 season5上 (朝日文庫 い 68-9)",
+      "url": "https://bookmeter.com/books/574665",
+      "author": "碇 卯人(ノベライズ),輿水泰弘 ほか(脚本)",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A2%87+%E5%8D%AF%E4%BA%BA%28%E3%83%8E%E3%83%99%E3%83%A9%E3%82%A4%E3%82%BA%29%2C%E8%BC%BF%E6%B0%B4%E6%B3%B0%E5%BC%98+%E3%81%BB%E3%81%8B%28%E8%84%9A%E6%9C%AC%29",
+      "thumb": "https://m.media-amazon.com/images/I/41RJbQpl11L._SL500_.jpg",
+      "date": "2009/12/09"
+    }
+  ],
+  "count": 24,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

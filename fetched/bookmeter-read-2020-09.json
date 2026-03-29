@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Penguin Readers: Level 2 DANTE\u0026#39;S PEAK (Penguin Readers (Graded Readers))",
+      "url": "https://bookmeter.com/books/1644970",
+      "author": "Dewey Gram",
+      "authorUrl": "https://bookmeter.com/search?author=Dewey+Gram",
+      "thumb": "https://m.media-amazon.com/images/I/51E84HRDtWL._SL500_.jpg",
+      "date": "2020/09/21"
+    },
+    {
+      "no": 2,
+      "title": "NETFLIX コンテンツ帝国の野望 :GAFAを超える最強IT企業",
+      "url": "https://bookmeter.com/books/13892465",
+      "author": "ジーナ・キーティング",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51f6Lp2AsHL._SL500_.jpg",
+      "date": "2020/09/21"
+    },
+    {
+      "no": 3,
+      "title": "Penguin Readers: Level 3 PSYCHO (Penguin Readers (Graded Readers))",
+      "url": "https://bookmeter.com/books/594114",
+      "author": "Robert Bloch",
+      "authorUrl": "https://bookmeter.com/search?author=Robert+Bloch",
+      "thumb": "https://m.media-amazon.com/images/I/41Ee5U3q4OL._SL500_.jpg",
+      "date": "2020/09/21"
+    },
+    {
+      "no": 4,
+      "title": "元気が出る! 映画の英語(SCREEN新書)",
+      "url": "https://bookmeter.com/books/404830",
+      "author": "藤枝 善之",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E6%9E%9D+%E5%96%84%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/41CXo6tdy5L._SL500_.jpg",
+      "date": "2020/09/05"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

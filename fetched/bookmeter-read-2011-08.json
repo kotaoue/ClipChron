@@ -1,0 +1,504 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ルポ　若者ホームレス (ちくま新書 883)",
+      "url": "https://bookmeter.com/books/2032332",
+      "author": "飯島 裕子,ビッグイシュー基金",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A3%AF%E5%B3%B6+%E8%A3%95%E5%AD%90%2C%E3%83%93%E3%83%83%E3%82%B0%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E5%9F%BA%E9%87%91",
+      "thumb": "https://m.media-amazon.com/images/I/411avWw2Q+L._SL500_.jpg",
+      "date": "2011/08/29"
+    },
+    {
+      "no": 2,
+      "title": "名波浩 泥まみれのナンバー10 (地球スポーツライブラリー)",
+      "url": "https://bookmeter.com/books/466017",
+      "author": "平山 譲",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E5%B1%B1+%E8%AD%B2",
+      "thumb": "https://m.media-amazon.com/images/I/51FTIXjEyvL._SL500_.jpg",
+      "date": "2011/08/27"
+    },
+    {
+      "no": 3,
+      "title": "ウィザードリィ日記: 熟年世代のパソコン・アドヴェンチャー (角川文庫 や 4-2)",
+      "url": "https://bookmeter.com/books/171100",
+      "author": "矢野 徹",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%A2%E9%87%8E+%E5%BE%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51NcLIP5CXL._SL500_.jpg",
+      "date": "2011/08/27"
+    },
+    {
+      "no": 4,
+      "title": "ウィザードリィ日記: 熟年世代のパソコン・アドヴェンチャー (角川文庫 や 4-2)",
+      "url": "https://bookmeter.com/books/171100",
+      "author": "矢野 徹",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%A2%E9%87%8E+%E5%BE%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51NcLIP5CXL._SL500_.jpg",
+      "date": "2011/08/27"
+    },
+    {
+      "no": 5,
+      "title": "豊国論―日本の未来のために (文春文庫)",
+      "url": "https://bookmeter.com/books/96161",
+      "author": "堺屋 太一",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A0%BA%E5%B1%8B+%E5%A4%AA%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/411AqrHVFqL._SL500_.jpg",
+      "date": "2011/08/27"
+    },
+    {
+      "no": 6,
+      "title": "魔人探偵脳噛ネウロ 23 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/552258",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51qVE9+hLCL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 7,
+      "title": "魔人探偵脳噛ネウロ 22 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/552257",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51VfhmgN70L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 8,
+      "title": "魔人探偵脳噛ネウロ 21 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/554655",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51szUKKobdL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 9,
+      "title": "魔人探偵脳噛ネウロ 20 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/555102",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51ethqcXowL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 10,
+      "title": "魔人探偵脳噛ネウロ 19 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557570",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51ATvu3WYML._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 11,
+      "title": "魔人探偵脳噛ネウロ 18 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557568",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/512ppN7LQyL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 12,
+      "title": "魔人探偵脳噛ネウロ 17 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557566",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/512fAdTOUAL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 13,
+      "title": "魔人探偵脳噛ネウロ 16 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557563",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51Vank1ouzL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 14,
+      "title": "魔人探偵脳噛ネウロ 15 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557562",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/512v1mPcS7L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 15,
+      "title": "魔人探偵脳噛ネウロ 14 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557556",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51lzzvKGd5L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 16,
+      "title": "魔人探偵脳噛ネウロ 14 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557556",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51lzzvKGd5L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 17,
+      "title": "魔人探偵脳噛ネウロ 13 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557554",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51gLk4H-w7L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 18,
+      "title": "魔人探偵脳噛ネウロ 12 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557552",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51i5mtZVEAL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 19,
+      "title": "魔人探偵脳噛ネウロ 11 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557550",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/514WrXw5o4L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 20,
+      "title": "魔人探偵脳噛ネウロ 11 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557550",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/514WrXw5o4L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 21,
+      "title": "魔人探偵脳噛ネウロ 10 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557549",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51U1uWAdSgL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 22,
+      "title": "魔人探偵脳噛ネウロ 9 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557548",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51vRR6XWI6L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 23,
+      "title": "魔人探偵脳噛ネウロ 8 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557547",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51L+nncIIyL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 24,
+      "title": "魔人探偵脳噛ネウロ 7 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557546",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51ac0CZ+SdL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 25,
+      "title": "魔人探偵脳噛ネウロ 6 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557545",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51lSXQua17L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 26,
+      "title": "魔人探偵脳噛ネウロ 5 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557544",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51xltMLnFfL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 27,
+      "title": "魔人探偵脳噛ネウロ 3 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557542",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/61UGaBUZsrL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 28,
+      "title": "魔人探偵脳噛ネウロ 4 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557543",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/518qMchx2nL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 29,
+      "title": "魔人探偵脳噛ネウロ 3 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557542",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/61UGaBUZsrL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 30,
+      "title": "魔人探偵脳噛ネウロ 2 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557541",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/51LNurhCoPL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 31,
+      "title": "魔人探偵脳噛ネウロ 1 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/557540",
+      "author": "松井 優征",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81",
+      "thumb": "https://m.media-amazon.com/images/I/61-MJlZkodL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 32,
+      "title": "少年ジャンプNEXT!2011SUMMER (サマー) 2011年 9/20号 [雑誌]",
+      "url": "https://bookmeter.com/books/4038971",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61KHHdR2dVL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 33,
+      "title": "おとなの1ペ-ジ心理学 (第3巻) (ヤングキングコミックス)",
+      "url": "https://bookmeter.com/books/2965889",
+      "author": "ゆうき ゆう",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%86%E3%81%8D+%E3%82%86%E3%81%86",
+      "thumb": "https://m.media-amazon.com/images/I/61+WzMxesLL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 34,
+      "title": "おとなの1ページ心理学 2 (ヤングキングコミックス)",
+      "url": "https://bookmeter.com/books/546589",
+      "author": "ゆうき ゆう",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%86%E3%81%8D+%E3%82%86%E3%81%86",
+      "thumb": "https://m.media-amazon.com/images/I/616yLwSeB8L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 35,
+      "title": "おとなの1ページ心理学 (ヤングキングコミックス)",
+      "url": "https://bookmeter.com/books/546588",
+      "author": "ゆうき ゆう",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%86%E3%81%8D+%E3%82%86%E3%81%86",
+      "thumb": "https://m.media-amazon.com/images/I/61NTrn3TRbL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 36,
+      "title": "ジャングルの王者ターちゃん 7 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380573",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/512pwseMbEL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 37,
+      "title": "ジャングルの王者ターちゃん 6 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380572",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51Yp6wrr49L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 38,
+      "title": "ジャングルの王者ターちゃん 5 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380571",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/61YmLBGYP3L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 39,
+      "title": "ジャングルの王者ターちゃん 4 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380570",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/61LAvwq+j3L._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 40,
+      "title": "ジャングルの王者ターちゃん 3 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380569",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/61ZmBLvKfRL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 41,
+      "title": "ジャングルの王者ターちゃん 2 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/380568",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51x0g+cUeTL._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 42,
+      "title": "ジャングルの王者ターちゃん 1 ジャングルの王者だの巻 (ジャンプコミックスデラックス)",
+      "url": "https://bookmeter.com/books/380567",
+      "author": "徳弘 正也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E5%BC%98+%E6%AD%A3%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/61B1sx47QML._SL500_.jpg",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 43,
+      "title": "週刊少年チャンピオン 通巻２１２１号",
+      "url": "https://bookmeter.com/books/4072148",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://bookmeter.com/images/common/book.png",
+      "date": "2011/08/18"
+    },
+    {
+      "no": 44,
+      "title": "文庫改訂版 あの金で何が買えたか―史上最大のむだづかい’91~’01 (角川文庫)",
+      "url": "https://bookmeter.com/books/515808",
+      "author": "村上 龍",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E4%B8%8A+%E9%BE%8D",
+      "thumb": "https://m.media-amazon.com/images/I/41yuwjBvfzL._SL500_.jpg",
+      "date": "2011/08/17"
+    },
+    {
+      "no": 45,
+      "title": "文庫改訂版 あの金で何が買えたか―史上最大のむだづかい’91~’01 (角川文庫)",
+      "url": "https://bookmeter.com/books/515808",
+      "author": "村上 龍",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E4%B8%8A+%E9%BE%8D",
+      "thumb": "https://m.media-amazon.com/images/I/41yuwjBvfzL._SL500_.jpg",
+      "date": "2011/08/17"
+    },
+    {
+      "no": 46,
+      "title": "教養としてのゲーム史 (ちくま新書 917)",
+      "url": "https://bookmeter.com/books/3892634",
+      "author": "多根 清史",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%9A%E6%A0%B9+%E6%B8%85%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/41n4z0RCSjL._SL500_.jpg",
+      "date": "2011/08/15"
+    },
+    {
+      "no": 47,
+      "title": "図書館革命 図書館戦争シリーズ (4) (角川文庫)",
+      "url": "https://bookmeter.com/books/3199631",
+      "author": "有川 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%B7%9D+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/41o0YDmvlRL._SL500_.jpg",
+      "date": "2011/08/12"
+    },
+    {
+      "no": 48,
+      "title": "図書館危機 図書館戦争シリーズ (3) (角川文庫)",
+      "url": "https://bookmeter.com/books/3095341",
+      "author": "有川 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%B7%9D+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51zKDLWqhpL._SL500_.jpg",
+      "date": "2011/08/11"
+    },
+    {
+      "no": 49,
+      "title": "図書館内乱 図書館戦争シリーズ (2) (角川文庫)",
+      "url": "https://bookmeter.com/books/3056841",
+      "author": "有川 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%B7%9D+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/4147YE0umcL._SL500_.jpg",
+      "date": "2011/08/11"
+    },
+    {
+      "no": 50,
+      "title": "図書館戦争 図書館戦争シリーズ (1) (角川文庫)",
+      "url": "https://bookmeter.com/books/3056844",
+      "author": "有川 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%B7%9D+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/41LpSydVTIL._SL500_.jpg",
+      "date": "2011/08/08"
+    },
+    {
+      "no": 51,
+      "title": "ジョシの制服 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/912652",
+      "author": "サカモト ミク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B5%E3%82%AB%E3%83%A2%E3%83%88+%E3%83%9F%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/512u5XA2VpL._SL500_.jpg",
+      "date": "2011/08/08"
+    },
+    {
+      "no": 52,
+      "title": "英語と日本語のあいだ (講談社現代新書 2086)",
+      "url": "https://bookmeter.com/books/2035243",
+      "author": "菅原 克也",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8F%85%E5%8E%9F+%E5%85%8B%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/416JH5fTLfL._SL500_.jpg",
+      "date": "2011/08/04"
+    },
+    {
+      "no": 53,
+      "title": "火星年代記 (ハヤカワ文庫SF)",
+      "url": "https://bookmeter.com/books/614463",
+      "author": "レイ ブラッドベリ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%82%A4+%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%99%E3%83%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51EQb-Kss8L._SL500_.jpg",
+      "date": "2011/08/03"
+    },
+    {
+      "no": 54,
+      "title": "火星年代記 (ハヤカワ文庫 NV 114)",
+      "url": "https://bookmeter.com/books/572335",
+      "author": "レイ・ブラッドベリ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%99%E3%83%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51flnY4LPQL._SL500_.jpg",
+      "date": "2011/08/03"
+    },
+    {
+      "no": 55,
+      "title": "幻想の未来/文化への不満 (光文社古典新訳文庫 Bフ 1-1)",
+      "url": "https://bookmeter.com/books/538492",
+      "author": "ジークムント フロイト",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%A0%E3%83%B3%E3%83%88+%E3%83%95%E3%83%AD%E3%82%A4%E3%83%88",
+      "thumb": "https://m.media-amazon.com/images/I/41kOOty8AnL._SL500_.jpg",
+      "date": "2011/08/01"
+    }
+  ],
+  "count": 55,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

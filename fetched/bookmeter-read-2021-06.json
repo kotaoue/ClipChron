@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Last Stop on Market Street",
+      "url": "https://bookmeter.com/books/10435674",
+      "author": "Matt de la Peña",
+      "authorUrl": "https://bookmeter.com/search?author=Matt+de+la+Pe%C3%B1a",
+      "thumb": "https://m.media-amazon.com/images/I/51ZGz60RhhL._SL500_.jpg",
+      "date": "2021/06/26"
+    },
+    {
+      "no": 2,
+      "title": "The Tale of Little Pig Robinson (Peter Rabbit)",
+      "url": "https://bookmeter.com/books/2184935",
+      "author": "Beatrix Potter",
+      "authorUrl": "https://bookmeter.com/search?author=Beatrix+Potter",
+      "thumb": "https://m.media-amazon.com/images/I/41y1k4o2mXL._SL500_.jpg",
+      "date": "2021/06/21"
+    },
+    {
+      "no": 3,
+      "title": "入門 老荘思想 (ちくま新書 1079)",
+      "url": "https://bookmeter.com/books/8107621",
+      "author": "湯浅 邦弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B9%AF%E6%B5%85+%E9%82%A6%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/41kueiziKML._SL500_.jpg",
+      "date": "2021/06/20"
+    },
+    {
+      "no": 4,
+      "title": "問題解決大全",
+      "url": "https://bookmeter.com/books/12570394",
+      "author": "読書猿",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AA%AD%E6%9B%B8%E7%8C%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51v3h88hfNL._SL500_.jpg",
+      "date": "2021/06/06"
+    },
+    {
+      "no": 5,
+      "title": "アイデア大全",
+      "url": "https://bookmeter.com/books/11638331",
+      "author": "読書猿",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AA%AD%E6%9B%B8%E7%8C%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51X3yeXv8OL._SL500_.jpg",
+      "date": "2021/06/06"
+    },
+    {
+      "no": 6,
+      "title": "会議が絶対うまくいく法",
+      "url": "https://bookmeter.com/books/18534",
+      "author": "マイケル・ドイル,デイヴィッド・ストラウス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%89%E3%82%A4%E3%83%AB%2C%E3%83%87%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51A4-L4F2hL._SL500_.jpg",
+      "date": "2021/06/06"
+    },
+    {
+      "no": 7,
+      "title": "中学英語から始める 洋書の世界",
+      "url": "https://bookmeter.com/books/16644299",
+      "author": "林 剛司",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9E%97+%E5%89%9B%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51mi5RqySaL._SL500_.jpg",
+      "date": "2021/06/05"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

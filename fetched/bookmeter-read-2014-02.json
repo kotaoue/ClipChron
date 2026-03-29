@@ -1,0 +1,117 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "SF英雄群像 (1979年) (ハヤカワ文庫―JA)",
+      "url": "https://bookmeter.com/books/40069",
+      "author": "野田 昌宏",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%87%8E%E7%94%B0+%E6%98%8C%E5%AE%8F",
+      "thumb": "https://m.media-amazon.com/images/I/41E3JXDRs4L._SL500_.jpg",
+      "date": "2014/02/28"
+    },
+    {
+      "no": 2,
+      "title": "敵は海賊・海賊課の一日 (ハヤカワ文庫 JA カ 3-14)",
+      "url": "https://bookmeter.com/books/533308",
+      "author": "神林 長平",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A5%9E%E6%9E%97+%E9%95%B7%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/519N7TvzPCL._SL500_.jpg",
+      "date": "2014/02/23"
+    },
+    {
+      "no": 3,
+      "title": "あなたのための物語 (ハヤカワ文庫 JA ハ 6-1)",
+      "url": "https://bookmeter.com/books/3339718",
+      "author": "長谷　敏司",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E8%B0%B7%E3%80%80%E6%95%8F%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/41N5WOKI9bL._SL500_.jpg",
+      "date": "2014/02/23"
+    },
+    {
+      "no": 4,
+      "title": "あなたのための物語 (ハヤカワ文庫 JA ハ 6-1)",
+      "url": "https://bookmeter.com/books/3339718",
+      "author": "長谷　敏司",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%95%B7%E8%B0%B7%E3%80%80%E6%95%8F%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/41N5WOKI9bL._SL500_.jpg",
+      "date": "2014/02/23"
+    },
+    {
+      "no": 5,
+      "title": "敵は海賊・不敵な休暇 (ハヤカワ文庫 JA カ 3-13)",
+      "url": "https://bookmeter.com/books/544360",
+      "author": "神林 長平",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A5%9E%E6%9E%97+%E9%95%B7%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/411oNZXXA3L._SL500_.jpg",
+      "date": "2014/02/21"
+    },
+    {
+      "no": 6,
+      "title": "バットマン:バトル・フォー・ザ・カウル",
+      "url": "https://bookmeter.com/books/7851789",
+      "author": "トニー・S・ダニエル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BBS%E3%83%BB%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51yN9j1GcmL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 7,
+      "title": "バットマン:アンダー・ザ・レッドフード",
+      "url": "https://bookmeter.com/books/7752978",
+      "author": "ジャド・ウィニック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A3%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/519TMmXPkPL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 8,
+      "title": "バットマン・アンド・サン",
+      "url": "https://bookmeter.com/books/4609155",
+      "author": "グラント・モリソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51PKscBXvCL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 9,
+      "title": "バットマン：ブラックグローブ (ShoPro Books)",
+      "url": "https://bookmeter.com/books/4737080",
+      "author": "グラント・モリソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/515ahJ2K6xL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 10,
+      "title": "バットマン：ラーズ・アル・グールの復活",
+      "url": "https://bookmeter.com/books/4613340",
+      "author": "グラント・モリソン,ポール・ディニ,ピーター・ミリガン,ファビアン・ニシーザ,キース・シャンパン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3%2C%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A3%E3%83%8B%2C%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%AA%E3%82%AC%E3%83%B3%2C%E3%83%95%E3%82%A1%E3%83%93%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B7%E3%83%BC%E3%82%B6%2C%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/617dP-F0QHL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 11,
+      "title": "バットマン・アンド・サン",
+      "url": "https://bookmeter.com/books/4609155",
+      "author": "グラント・モリソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51PKscBXvCL._SL500_.jpg",
+      "date": "2014/02/16"
+    },
+    {
+      "no": 12,
+      "title": "美女と魔物のバッティングセンター (幻冬舎文庫)",
+      "url": "https://bookmeter.com/books/4760600",
+      "author": "木下 半太",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%A8%E4%B8%8B+%E5%8D%8A%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51fNLZJuLSL._SL500_.jpg",
+      "date": "2014/02/14"
+    }
+  ],
+  "count": 12,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

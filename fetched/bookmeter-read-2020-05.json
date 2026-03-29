@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "世界一やさしいトリガーポイントの探し方・押し方",
+      "url": "https://bookmeter.com/books/15099466",
+      "author": "大谷 素明",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E8%B0%B7+%E7%B4%A0%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/31E+vSerT9L._SL500_.jpg",
+      "date": "2020/05/27"
+    },
+    {
+      "no": 2,
+      "title": "中学・高校6年間の英語をこの1冊でざっと復習する",
+      "url": "https://bookmeter.com/books/8169183",
+      "author": "稲田 一",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A8%B2%E7%94%B0+%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51d898khUXL._SL500_.jpg",
+      "date": "2020/05/04"
+    },
+    {
+      "no": 3,
+      "title": "生物から見た世界 (岩波文庫 青 943-1)",
+      "url": "https://bookmeter.com/books/17360",
+      "author": "ユクスキュル,クリサート",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%A6%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%AB%2C%E3%82%AF%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%88",
+      "thumb": "https://m.media-amazon.com/images/I/51YQ133VV7L._SL500_.jpg",
+      "date": "2020/05/03"
+    },
+    {
+      "no": 4,
+      "title": "アメコミヒーローの倫理学 10人のスーパーヒーローによる世界を救う10の方法",
+      "url": "https://bookmeter.com/books/13522127",
+      "author": "トラヴィス・スミス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/4153IrbxSQL._SL500_.jpg",
+      "date": "2020/05/02"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

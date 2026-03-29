@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "あなたの隣の発達障害",
+      "url": "https://bookmeter.com/books/13564453",
+      "author": "本田 秀夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%AC%E7%94%B0+%E7%A7%80%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51c8X4Hrz9L._SL500_.jpg",
+      "date": "2021/05/31"
+    },
+    {
+      "no": 2,
+      "title": "ちゃんと知りたい 大人の発達障害がわかる本 【増補改訂版】",
+      "url": "https://bookmeter.com/books/7090077",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61SmH1ISkvL._SL500_.jpg",
+      "date": "2021/05/31"
+    },
+    {
+      "no": 3,
+      "title": "ユニコーン企業のひみつ ―Spotifyで学んだソフトウェアづくりと働き方",
+      "url": "https://bookmeter.com/books/17686278",
+      "author": "Jonathan Rasmusson",
+      "authorUrl": "https://bookmeter.com/search?author=Jonathan+Rasmusson",
+      "thumb": "https://m.media-amazon.com/images/I/41cE5EmeezL._SL500_.jpg",
+      "date": "2021/05/03"
+    },
+    {
+      "no": 4,
+      "title": "Corduroy",
+      "url": "https://bookmeter.com/books/205498",
+      "author": "Don Freeman",
+      "authorUrl": "https://bookmeter.com/search?author=Don+Freeman",
+      "thumb": "https://m.media-amazon.com/images/I/51idIT4yZAL._SL500_.jpg",
+      "date": "2021/05/02"
+    },
+    {
+      "no": 5,
+      "title": "Mysterious Island (Penguin Active Readers, Level 2)",
+      "url": "https://bookmeter.com/books/495646",
+      "author": "Jules Verne",
+      "authorUrl": "https://bookmeter.com/search?author=Jules+Verne",
+      "thumb": "https://m.media-amazon.com/images/I/41iAk6OUhsL._SL500_.jpg",
+      "date": "2021/05/02"
+    },
+    {
+      "no": 6,
+      "title": "“困った職場\u0026quot;を劇的に変える 話し合う技術を磨く",
+      "url": "https://bookmeter.com/books/99038",
+      "author": "ピープルフォーカス・コンサルティング",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%94%E3%83%BC%E3%83%97%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51+g8WgSLEL._SL500_.jpg",
+      "date": "2021/05/01"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "フォーエバー・イービル（THE NEW 52!） (ShoPro Books THE NEW52!)",
+      "url": "https://bookmeter.com/books/9771115",
+      "author": "ジェフ・ジョーンズ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/61zAxd28XPL._SL500_.jpg",
+      "date": "2015/12/12"
+    },
+    {
+      "no": 2,
+      "title": "ジャスティス・リーグ：トリニティ・ウォー（THE NEW 52!）",
+      "url": "https://bookmeter.com/books/9754800",
+      "author": "ジェフ・ジョーンズ他",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%E4%BB%96",
+      "thumb": "https://m.media-amazon.com/images/I/61FEDW8BvUL._SL500_.jpg",
+      "date": "2015/12/12"
+    },
+    {
+      "no": 3,
+      "title": "聖☆おにいさん　通常版(12)",
+      "url": "https://bookmeter.com/books/9872263",
+      "author": "中村 光",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%9D%91+%E5%85%89",
+      "thumb": "https://m.media-amazon.com/images/I/51iFaDmpopL._SL500_.jpg",
+      "date": "2015/12/06"
+    },
+    {
+      "no": 4,
+      "title": "ベルリンは鐘(2): 少年チャンピオン・コミックス・タップ!",
+      "url": "https://bookmeter.com/books/9811029",
+      "author": "ニャロメロン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8B%E3%83%A3%E3%83%AD%E3%83%A1%E3%83%AD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51B5M6ZyD4L._SL500_.jpg",
+      "date": "2015/12/06"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "スター・ウォーズ学 (新潮新書)",
+      "url": "https://bookmeter.com/books/10082020",
+      "author": "清水 節\u0026quot;,\u0026quot;柴尾 英令",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B8%85%E6%B0%B4+%E7%AF%80%22%2C%22%E6%9F%B4%E5%B0%BE+%E8%8B%B1%E4%BB%A4",
+      "thumb": "https://m.media-amazon.com/images/I/51D68dpkCgL._SL500_.jpg",
+      "date": "2023/04/22"
+    },
+    {
+      "no": 2,
+      "title": "Penguin Readers: Level 1 THE GIFT OF THE MAGI AND OTHER STORIES (Penguin Readers, Level 1)",
+      "url": "https://bookmeter.com/books/494798",
+      "author": "Pearson Longman",
+      "authorUrl": "https://bookmeter.com/search?author=Pearson+Longman",
+      "thumb": "https://m.media-amazon.com/images/I/51yh9hOC9uL._SL500_.jpg",
+      "date": "2023/04/22"
+    },
+    {
+      "no": 3,
+      "title": "マンガ学 マンガによるマンガのためのマンガ理論 完全新訳版",
+      "url": "https://bookmeter.com/books/15018518",
+      "author": "スコット・マクラウド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/51-HkJ5I3YL._SL500_.jpg",
+      "date": "2023/04/22"
+    },
+    {
+      "no": 4,
+      "title": "夜のミッキーマウス",
+      "url": "https://bookmeter.com/books/473158",
+      "author": "谷川 俊太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%B0%B7%E5%B7%9D+%E4%BF%8A%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41NVTuvkJYL._SL500_.jpg",
+      "date": "2023/04/02"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

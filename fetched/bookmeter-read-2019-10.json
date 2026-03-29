@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "菜食への疑問に答える13章: 生き方が変わる、生き方を変える",
+      "url": "https://bookmeter.com/books/11272791",
+      "author": "シェリー・F. コーブ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BBF.+%E3%82%B3%E3%83%BC%E3%83%96",
+      "thumb": "https://m.media-amazon.com/images/I/511esfK9XLL._SL500_.jpg",
+      "date": "2019/10/27"
+    },
+    {
+      "no": 2,
+      "title": "Effective DevOps ―4本柱による持続可能な組織文化の育て方",
+      "url": "https://bookmeter.com/books/12705449",
+      "author": "Jennifer Davis,Ryn Daniels",
+      "authorUrl": "https://bookmeter.com/search?author=Jennifer+Davis%2CRyn+Daniels",
+      "thumb": "https://m.media-amazon.com/images/I/51hSE7AENQL._SL500_.jpg",
+      "date": "2019/10/21"
+    },
+    {
+      "no": 3,
+      "title": "プラットフォーム革命――経済を支配するビジネスモデルはどう機能し、どう作られるのか",
+      "url": "https://bookmeter.com/books/12556624",
+      "author": "アレックス・モザド,ニコラス・L・ジョンソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%A2%E3%82%B6%E3%83%89%2C%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BBL%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/514nTpRrCAL._SL500_.jpg",
+      "date": "2019/10/20"
+    },
+    {
+      "no": 4,
+      "title": "エンジニアのための図解思考 再入門講座 情報の“本質\u0026quot;を理解するための実践テクニック",
+      "url": "https://bookmeter.com/books/670222",
+      "author": "開米 瑞浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%96%8B%E7%B1%B3+%E7%91%9E%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51NLCbQgiqL._SL500_.jpg",
+      "date": "2019/10/02"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,207 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ブレイクスルー・トライアル (宝島社文庫 C い 3-1)",
+      "url": "https://bookmeter.com/books/570890",
+      "author": "伊園 旬",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BC%8A%E5%9C%92+%E6%97%AC",
+      "thumb": "https://m.media-amazon.com/images/I/51HU6PX4xPL._SL500_.jpg",
+      "date": "2010/01/31"
+    },
+    {
+      "no": 2,
+      "title": "ずっと好きだったくせに (少コミフラワーコミックス)",
+      "url": "https://bookmeter.com/books/378825",
+      "author": "華夜",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8F%AF%E5%A4%9C",
+      "thumb": "https://m.media-amazon.com/images/I/51zXhYmwnpL._SL500_.jpg",
+      "date": "2010/01/31"
+    },
+    {
+      "no": 3,
+      "title": "俺と悪魔のブルーズ(4) (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/379183",
+      "author": "平本 アキラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E6%9C%AC+%E3%82%A2%E3%82%AD%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51hdHCg0-ZL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 4,
+      "title": "俺と悪魔のブルーズ(3) (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/507507",
+      "author": "平本 アキラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E6%9C%AC+%E3%82%A2%E3%82%AD%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51VE7128ZXL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 5,
+      "title": "俺と悪魔のブルーズ(2) (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/507506",
+      "author": "平本 アキラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E6%9C%AC+%E3%82%A2%E3%82%AD%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51G0Z7ZA5XL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 6,
+      "title": "俺と悪魔のブルーズ(1) (アフタヌーンKC)",
+      "url": "https://bookmeter.com/books/507505",
+      "author": "平本 アキラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B9%B3%E6%9C%AC+%E3%82%A2%E3%82%AD%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51VJjK5xG8L._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 7,
+      "title": "遊☆戯☆王R 5 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/97543",
+      "author": "伊藤 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BC%8A%E8%97%A4+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51xxBxM57xL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 8,
+      "title": "遊☆戯☆王R 4 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/102217",
+      "author": "伊藤 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BC%8A%E8%97%A4+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/5100pPhVVXL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 9,
+      "title": "遊☆戯☆王R 3 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/5540",
+      "author": "高橋 和希,伊藤 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%A9%8B+%E5%92%8C%E5%B8%8C%2C%E4%BC%8A%E8%97%A4+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51zJHHaAeIL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 10,
+      "title": "遊☆戯☆王R 2 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/5538",
+      "author": "高橋 和希,伊藤 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%A9%8B+%E5%92%8C%E5%B8%8C%2C%E4%BC%8A%E8%97%A4+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/516oOXs0kLL._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 11,
+      "title": "遊☆戯☆王R 1 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/5541",
+      "author": "高橋 和希,伊藤 彰",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%A9%8B+%E5%92%8C%E5%B8%8C%2C%E4%BC%8A%E8%97%A4+%E5%BD%B0",
+      "thumb": "https://m.media-amazon.com/images/I/615pf3F6JML._SL500_.jpg",
+      "date": "2010/01/26"
+    },
+    {
+      "no": 12,
+      "title": "ブラックペアン1988(下) (講談社文庫 か 115-2)",
+      "url": "https://bookmeter.com/books/570658",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41QRf53edbL._SL500_.jpg",
+      "date": "2010/01/22"
+    },
+    {
+      "no": 13,
+      "title": "ブラックペアン1988(上) (講談社文庫 か 115-1)",
+      "url": "https://bookmeter.com/books/569539",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/51p9zj7jxiL._SL500_.jpg",
+      "date": "2010/01/22"
+    },
+    {
+      "no": 14,
+      "title": "賢者の贈り物 (PHP NOVELS)",
+      "url": "https://bookmeter.com/books/494669",
+      "author": "石持 浅海",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E6%8C%81+%E6%B5%85%E6%B5%B7",
+      "thumb": "https://m.media-amazon.com/images/I/51LuAlxLG2L._SL500_.jpg",
+      "date": "2010/01/22"
+    },
+    {
+      "no": 15,
+      "title": "イノセント・ゲリラの祝祭 (下) (宝島社文庫 C か 1-8)",
+      "url": "https://bookmeter.com/books/575838",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41Xvs7lDIqL._SL500_.jpg",
+      "date": "2010/01/22"
+    },
+    {
+      "no": 16,
+      "title": "イノセント・ゲリラの祝祭 (上) (宝島社文庫 C か 1-7)",
+      "url": "https://bookmeter.com/books/575837",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41rteVUmUaL._SL500_.jpg",
+      "date": "2010/01/22"
+    },
+    {
+      "no": 17,
+      "title": "恍惚の人 (新潮文庫)",
+      "url": "https://bookmeter.com/books/490535",
+      "author": "有吉 佐和子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%90%89+%E4%BD%90%E5%92%8C%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51KMPOLNWGL._SL500_.jpg",
+      "date": "2010/01/14"
+    },
+    {
+      "no": 18,
+      "title": "バクマン。 6 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/580340",
+      "author": "大場 つぐみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E5%A0%B4+%E3%81%A4%E3%81%90%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51T61A-ycZL._SL500_.jpg",
+      "date": "2010/01/13"
+    },
+    {
+      "no": 19,
+      "title": "聖・はいぱあ警備隊 第1巻 (白泉社文庫 も 2-1)",
+      "url": "https://bookmeter.com/books/509206",
+      "author": "森生 まさみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E7%94%9F+%E3%81%BE%E3%81%95%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51JCKoBttEL._SL500_.jpg",
+      "date": "2010/01/13"
+    },
+    {
+      "no": 20,
+      "title": "SKET DANCE 11 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566293",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51UH7envlOL._SL500_.jpg",
+      "date": "2010/01/06"
+    },
+    {
+      "no": 21,
+      "title": "コンクリート・ノイズ (白泉社文庫 も 2-9)",
+      "url": "https://bookmeter.com/books/509205",
+      "author": "森生 まさみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E7%94%9F+%E3%81%BE%E3%81%95%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/317w16W+nAL._SL500_.jpg",
+      "date": "2010/01/06"
+    },
+    {
+      "no": 22,
+      "title": "しゅごキャラ! 1 (講談社コミックスなかよし)",
+      "url": "https://bookmeter.com/books/578947",
+      "author": "PEACH-PIT",
+      "authorUrl": "https://bookmeter.com/search?author=PEACH-PIT",
+      "thumb": "https://m.media-amazon.com/images/I/51iJrQwKqtL._SL500_.jpg",
+      "date": "2010/01/03"
+    }
+  ],
+  "count": 22,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "大戦前夜〈下〉―ポスリーン・ウォー〈1〉 (ハヤカワ文庫SF)",
+      "url": "https://bookmeter.com/books/621146",
+      "author": "ジョン リンゴー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%83%B3+%E3%83%AA%E3%83%B3%E3%82%B4%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51BhKicZJ0L._SL500_.jpg",
+      "date": "2014/04/27"
+    },
+    {
+      "no": 2,
+      "title": "大戦前夜〈上〉―ポスリーン・ウォー〈1〉 (ハヤカワ文庫SF)",
+      "url": "https://bookmeter.com/books/621145",
+      "author": "ジョン リンゴー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%83%B3+%E3%83%AA%E3%83%B3%E3%82%B4%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51PYeWIIXML._SL500_.jpg",
+      "date": "2014/04/27"
+    },
+    {
+      "no": 3,
+      "title": "猫のゆりかご (ハヤカワ文庫 SF 353)",
+      "url": "https://bookmeter.com/books/579411",
+      "author": "カート・ヴォネガット・ジュニア",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AB%E3%83%BC%E3%83%88%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%8D%E3%82%AC%E3%83%83%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2",
+      "thumb": "https://m.media-amazon.com/images/I/51OhrtUbd3L._SL500_.jpg",
+      "date": "2014/04/15"
+    },
+    {
+      "no": 4,
+      "title": "ブラインドサイト〈下〉 (創元SF文庫)",
+      "url": "https://bookmeter.com/books/7361382",
+      "author": "ピーター ワッツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC+%E3%83%AF%E3%83%83%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/510w-NStHwL._SL500_.jpg",
+      "date": "2014/04/15"
+    },
+    {
+      "no": 5,
+      "title": "ブラインドサイト〈上〉 (創元SF文庫)",
+      "url": "https://bookmeter.com/books/7362424",
+      "author": "ピーター ワッツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC+%E3%83%AF%E3%83%83%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/515vHHUxe7L._SL500_.jpg",
+      "date": "2014/04/15"
+    },
+    {
+      "no": 6,
+      "title": "バットマン:ブルース・ウェインの帰還",
+      "url": "https://bookmeter.com/books/7944860",
+      "author": "グラント・モリソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/615annnxAPL._SL500_.jpg",
+      "date": "2014/04/10"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

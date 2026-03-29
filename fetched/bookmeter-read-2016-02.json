@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "探偵綺譚‾石黒正数短編集‾ (リュウコミックス)",
+      "url": "https://bookmeter.com/books/570838",
+      "author": "石黒 正数",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E9%BB%92+%E6%AD%A3%E6%95%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51l850o5iOL._SL500_.jpg",
+      "date": "2016/02/15"
+    },
+    {
+      "no": 2,
+      "title": "ネムルバカ (リュウコミックス)",
+      "url": "https://bookmeter.com/books/572706",
+      "author": "石黒 正数",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E9%BB%92+%E6%AD%A3%E6%95%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51ON+Hl9PhL._SL500_.jpg",
+      "date": "2016/02/15"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

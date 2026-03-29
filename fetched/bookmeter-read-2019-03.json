@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "信頼学の教室 (講談社現代新書 2347)",
+      "url": "https://bookmeter.com/books/10060373",
+      "author": "中谷内 一也",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E8%B0%B7%E5%86%85+%E4%B8%80%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51b3-qQUShL._SL500_.jpg",
+      "date": "2019/03/18"
+    },
+    {
+      "no": 2,
+      "title": "1990年代論 (河出ブックス)",
+      "url": "https://bookmeter.com/books/12141157",
+      "author": "大澤聡",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E6%BE%A4%E8%81%A1",
+      "thumb": "https://m.media-amazon.com/images/I/51XprVutwHL._SL500_.jpg",
+      "date": "2019/03/10"
+    },
+    {
+      "no": 3,
+      "title": "マインクラフト 革命的ゲームの真実 (単行本)",
+      "url": "https://bookmeter.com/books/7976703",
+      "author": "ダニエル・ゴールドベリ,リーヌス・ラーション",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%99%E3%83%AA%2C%E3%83%AA%E3%83%BC%E3%83%8C%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41vAuaLIsZL._SL500_.jpg",
+      "date": "2019/03/10"
+    },
+    {
+      "no": 4,
+      "title": "人工知能のための哲学塾",
+      "url": "https://bookmeter.com/books/11077260",
+      "author": "三宅 陽一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E5%AE%85+%E9%99%BD%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51u-sp1tXkL._SL500_.jpg",
+      "date": "2019/03/05"
+    },
+    {
+      "no": 5,
+      "title": "eスポーツ論 ゲームが体育競技になる日",
+      "url": "https://bookmeter.com/books/13073932",
+      "author": "筧 誠一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%A7+%E8%AA%A0%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51wm8fOQGlL._SL500_.jpg",
+      "date": "2019/03/02"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

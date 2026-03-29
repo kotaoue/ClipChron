@@ -1,0 +1,135 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Software Design (ソフトウェア デザイン) 2014年 12月号 [雑誌]",
+      "url": "https://bookmeter.com/books/8971059",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51GqcO4TbbL._SL500_.jpg",
+      "date": "2014/12/31"
+    },
+    {
+      "no": 2,
+      "title": "少年ジャンプNEXT! (ネクスト) 2014 vol.6 2015年 2/10号 [雑誌]",
+      "url": "https://bookmeter.com/books/9156285",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61RINoSxdnL._SL500_.jpg",
+      "date": "2014/12/31"
+    },
+    {
+      "no": 3,
+      "title": "Software Design (ソフトウェア デザイン) 2014年 11月号 [雑誌]",
+      "url": "https://bookmeter.com/books/8383411",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51VIH9w+Q-L._SL500_.jpg",
+      "date": "2014/12/28"
+    },
+    {
+      "no": 4,
+      "title": "Software Design (ソフトウェア デザイン) 2014年 10月号 [雑誌]",
+      "url": "https://bookmeter.com/books/8290374",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51gMA6BhkEL._SL500_.jpg",
+      "date": "2014/12/28"
+    },
+    {
+      "no": 5,
+      "title": "日経ソフトウエア 2015年 02月号",
+      "url": "https://bookmeter.com/books/9133951",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61eIpf%2BtolL._SL500_.jpg",
+      "date": "2014/12/28"
+    },
+    {
+      "no": 6,
+      "title": "ゴジラの精神史 (フィギュール彩 13)",
+      "url": "https://bookmeter.com/books/7995874",
+      "author": "小野 俊太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E9%87%8E+%E4%BF%8A%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51VftTHmnUL._SL500_.jpg",
+      "date": "2014/12/28"
+    },
+    {
+      "no": 7,
+      "title": "自伝小橋建太: 悔いは、ない",
+      "url": "https://bookmeter.com/books/6802511",
+      "author": "小橋 建太",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E6%A9%8B+%E5%BB%BA%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51gtOLUlUQL._SL500_.jpg",
+      "date": "2014/12/28"
+    },
+    {
+      "no": 8,
+      "title": "マイケル・ムーア、語る。",
+      "url": "https://bookmeter.com/books/6786703",
+      "author": "マイケル・ムーア",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%A0%E3%83%BC%E3%82%A2",
+      "thumb": "https://m.media-amazon.com/images/I/41R2DbUAuHL._SL500_.jpg",
+      "date": "2014/12/25"
+    },
+    {
+      "no": 9,
+      "title": "ベルリンは鐘(1)(少年チャンピオン・コミックス・タップ! )",
+      "url": "https://bookmeter.com/books/8963976",
+      "author": "ニャロメロン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8B%E3%83%A3%E3%83%AD%E3%83%A1%E3%83%AD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51UelL9BAAL._SL500_.jpg",
+      "date": "2014/12/23"
+    },
+    {
+      "no": 10,
+      "title": "YouTubeは僕たち家族の日常をお金に換えてくれました 「動画投稿」という生き方・働き方 (一般書)",
+      "url": "https://bookmeter.com/books/7800579",
+      "author": "妄想グルメ 伊藤元亮",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A6%84%E6%83%B3%E3%82%B0%E3%83%AB%E3%83%A1+%E4%BC%8A%E8%97%A4%E5%85%83%E4%BA%AE",
+      "thumb": "https://m.media-amazon.com/images/I/51EP05OfvOL._SL500_.jpg",
+      "date": "2014/12/14"
+    },
+    {
+      "no": 11,
+      "title": "日経ソフトウエア 2015年 01月号",
+      "url": "https://bookmeter.com/books/9024328",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61V0RzNGLQL._SL500_.jpg",
+      "date": "2014/12/14"
+    },
+    {
+      "no": 12,
+      "title": "最新2014年版 帝国データバンクのパッとわかる業界地図 (宝島SUGOI文庫)",
+      "url": "https://bookmeter.com/books/6818409",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51I66gMtKNL._SL500_.jpg",
+      "date": "2014/12/14"
+    },
+    {
+      "no": 13,
+      "title": "ドキュメント電王戦: その時、人は何を考えたのか (一般書)",
+      "url": "https://bookmeter.com/books/7122746",
+      "author": "夢枕獏,海堂尊,貴志祐介",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A2%E6%9E%95%E7%8D%8F%2C%E6%B5%B7%E5%A0%82%E5%B0%8A%2C%E8%B2%B4%E5%BF%97%E7%A5%90%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51BGgUSdJvL._SL500_.jpg",
+      "date": "2014/12/14"
+    },
+    {
+      "no": 14,
+      "title": "自転車ビルダー入門 (シクロツーリストブックス)",
+      "url": "https://bookmeter.com/books/4594540",
+      "author": "今野　真一",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%8A%E9%87%8E%E3%80%80%E7%9C%9F%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51t7wGrEj2L._SL500_.jpg",
+      "date": "2014/12/14"
+    }
+  ],
+  "count": 14,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

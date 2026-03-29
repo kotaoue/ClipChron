@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "プログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問",
+      "url": "https://bookmeter.com/books/9841545",
+      "author": "増井 敏克",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A2%97%E4%BA%95+%E6%95%8F%E5%85%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51sAbdAaewL._SL500_.jpg",
+      "date": "2018/03/31"
+    },
+    {
+      "no": 2,
+      "title": "終わりなき日常を生きろ: オウム完全克服マニュアル",
+      "url": "https://bookmeter.com/books/568602",
+      "author": "宮台 真司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E5%8F%B0+%E7%9C%9F%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/510442WK4RL._SL500_.jpg",
+      "date": "2018/03/25"
+    },
+    {
+      "no": 3,
+      "title": "戦後リベラルの終焉 なぜ左翼は社会を変えられなかったのか (PHP新書)",
+      "url": "https://bookmeter.com/books/9707240",
+      "author": "池田 信夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B1%A0%E7%94%B0+%E4%BF%A1%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51UxhBD3ykL._SL500_.jpg",
+      "date": "2018/03/05"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "紙の動物園 (ケン・リュウ短篇傑作集1)",
+      "url": "https://bookmeter.com/books/11705166",
+      "author": "ケン リュウ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B1%E3%83%B3+%E3%83%AA%E3%83%A5%E3%82%A6",
+      "thumb": "https://m.media-amazon.com/images/I/416KIYAYBoL._SL500_.jpg",
+      "date": "2018/05/23"
+    },
+    {
+      "no": 2,
+      "title": "会議のマネジメント - 周到な準備、即興的な判断 (中公新書 2397)",
+      "url": "https://bookmeter.com/books/11172079",
+      "author": "加藤 文俊",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8A%A0%E8%97%A4+%E6%96%87%E4%BF%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41KOpXF5fbL._SL500_.jpg",
+      "date": "2018/05/17"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

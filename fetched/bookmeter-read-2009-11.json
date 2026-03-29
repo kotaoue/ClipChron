@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "楽園のトリル (1) (プリンセスコミックス)",
+      "url": "https://bookmeter.com/books/562923",
+      "author": "藤田 麻貴",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E7%94%B0+%E9%BA%BB%E8%B2%B4",
+      "thumb": "https://m.media-amazon.com/images/I/41CaFx3QdIL._SL500_.jpg",
+      "date": "2009/11/29"
+    },
+    {
+      "no": 2,
+      "title": "相棒season4上 (朝日文庫 い 68-7)",
+      "url": "https://bookmeter.com/books/451467",
+      "author": "輿水 泰弘,碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2C%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51l8KvMAiLL._SL500_.jpg",
+      "date": "2009/11/29"
+    },
+    {
+      "no": 3,
+      "title": "禁断のパンダ 下 (宝島社文庫 C た 4-2)",
+      "url": "https://bookmeter.com/books/557537",
+      "author": "拓未 司",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8B%93%E6%9C%AA+%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51rpf7McZtL._SL500_.jpg",
+      "date": "2009/11/28"
+    },
+    {
+      "no": 4,
+      "title": "禁断のパンダ 上 (宝島社文庫 C た 4-1)",
+      "url": "https://bookmeter.com/books/557536",
+      "author": "拓未 司",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8B%93%E6%9C%AA+%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51T4o891etL._SL500_.jpg",
+      "date": "2009/11/28"
+    },
+    {
+      "no": 5,
+      "title": "帝の至宝 (第1巻) (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/274156",
+      "author": "仲野 えみこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%B2%E9%87%8E+%E3%81%88%E3%81%BF%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51bN7Z68ilL._SL500_.jpg",
+      "date": "2009/11/23"
+    },
+    {
+      "no": 6,
+      "title": "相棒season3下 (朝日文庫 い 68-6)",
+      "url": "https://bookmeter.com/books/451462",
+      "author": "輿水 泰弘,碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2C%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/61Jt+6kv0VL._SL500_.jpg",
+      "date": "2009/11/18"
+    },
+    {
+      "no": 7,
+      "title": "相棒season3上 (朝日文庫 い 68-5)",
+      "url": "https://bookmeter.com/books/451461",
+      "author": "輿水 泰弘,碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2C%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/41fnzt8UEhL._SL500_.jpg",
+      "date": "2009/11/18"
+    },
+    {
+      "no": 8,
+      "title": "相棒season2 下 (朝日文庫 い 68-4)",
+      "url": "https://bookmeter.com/books/505822",
+      "author": "輿水 泰弘,碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2C%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/41iEybg60aL._SL500_.jpg",
+      "date": "2009/11/12"
+    },
+    {
+      "no": 9,
+      "title": "相棒season2 上 (朝日文庫 い 68-3)",
+      "url": "https://bookmeter.com/books/505821",
+      "author": "輿水 泰弘,碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2C%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/412jOiREB3L._SL500_.jpg",
+      "date": "2009/11/10"
+    },
+    {
+      "no": 10,
+      "title": "相棒season1 (朝日文庫 い 68-2)",
+      "url": "https://bookmeter.com/books/105968",
+      "author": "輿水 泰弘/ 碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2F+%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51sQKmaRuWL._SL500_.jpg",
+      "date": "2009/11/08"
+    },
+    {
+      "no": 11,
+      "title": "相棒 警視庁ふたりだけの特命係 (朝日文庫 い 68-1)",
+      "url": "https://bookmeter.com/books/105284",
+      "author": "輿水 泰弘/碇 卯人",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%BC%BF%E6%B0%B4+%E6%B3%B0%E5%BC%98%2F%E7%A2%87+%E5%8D%AF%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51wzP0AecyL._SL500_.jpg",
+      "date": "2009/11/06"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "オープン・イノベーションのマネジメント -- 高い経営成果を生む仕組みづくり",
+      "url": "https://bookmeter.com/books/9621574",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41Ik3WqiElL._SL500_.jpg",
+      "date": "2019/07/12"
+    },
+    {
+      "no": 2,
+      "title": "徳丸浩のWebセキュリティ教室",
+      "url": "https://bookmeter.com/books/9808931",
+      "author": "徳丸 浩",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%B3%E4%B8%B8+%E6%B5%A9",
+      "thumb": "https://m.media-amazon.com/images/I/41C7Mr-hGnL._SL500_.jpg",
+      "date": "2019/07/08"
+    },
+    {
+      "no": 3,
+      "title": "子どもから始まる新しい教育 (国際モンテッソーリ協会(AMI)公認シリーズ)",
+      "url": "https://bookmeter.com/books/12199266",
+      "author": "マリア・モンテッソーリ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%86%E3%83%83%E3%82%BD%E3%83%BC%E3%83%AA",
+      "thumb": "https://m.media-amazon.com/images/I/5128qveJO2L._SL500_.jpg",
+      "date": "2019/07/06"
+    },
+    {
+      "no": 4,
+      "title": "リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)",
+      "url": "https://bookmeter.com/books/5148925",
+      "author": "Dustin Boswell,Trevor Foucher",
+      "authorUrl": "https://bookmeter.com/search?author=Dustin+Boswell%2CTrevor+Foucher",
+      "thumb": "https://m.media-amazon.com/images/I/51xHT9ZnmNL._SL500_.jpg",
+      "date": "2019/07/05"
+    },
+    {
+      "no": 5,
+      "title": "時間術大全 人生が本当に変わる「87の時間ワザ」",
+      "url": "https://bookmeter.com/books/13955276",
+      "author": "ジェイク・ナップ,ジョン・ゼラツキー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%8A%E3%83%83%E3%83%97%2C%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BC%E3%83%A9%E3%83%84%E3%82%AD%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51eo1QkiPoL._SL500_.jpg",
+      "date": "2019/07/05"
+    },
+    {
+      "no": 6,
+      "title": "退屈すれば脳はひらめく―7つのステップでスマホを手放す",
+      "url": "https://bookmeter.com/books/12377883",
+      "author": "マヌーシュ・ゾモロディ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%8C%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%BE%E3%83%A2%E3%83%AD%E3%83%87%E3%82%A3",
+      "thumb": "https://m.media-amazon.com/images/I/511l7ZBqScL._SL500_.jpg",
+      "date": "2019/07/03"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

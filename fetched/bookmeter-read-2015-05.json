@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "野球のプレーに、「偶然」はない ~テレビ中継・球場での観戦を楽しむ29の視点~",
+      "url": "https://bookmeter.com/books/6505300",
+      "author": "工藤公康",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%A5%E8%97%A4%E5%85%AC%E5%BA%B7",
+      "thumb": "https://m.media-amazon.com/images/I/51GopADeS+L._SL500_.jpg",
+      "date": "2015/05/31"
+    },
+    {
+      "no": 2,
+      "title": "文法いらずの 「単語ラリー」英会話 (青春新書インテリジェンス)",
+      "url": "https://bookmeter.com/books/8059898",
+      "author": "晴山陽一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%99%B4%E5%B1%B1%E9%99%BD%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/41Wne7z9kTL._SL500_.jpg",
+      "date": "2015/05/17"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,261 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "いつでも､どこでも､1回20秒で硬い体が超ラクになる! スキマ★ストレッチ",
+      "url": "https://bookmeter.com/books/20172568",
+      "author": "中野ジェームズ修一",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E9%87%8E%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E4%BF%AE%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/511lgwtKtiL._SL500_.jpg",
+      "date": "2026/01/29"
+    },
+    {
+      "no": 2,
+      "title": "おうちでボードゲーム for ママ\u0026amp;キッズ",
+      "url": "https://bookmeter.com/books/11070939",
+      "author": "すごろくや",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%99%E3%81%94%E3%82%8D%E3%81%8F%E3%82%84",
+      "thumb": "https://m.media-amazon.com/images/I/61cVGboPAZL._SL500_.jpg",
+      "date": "2026/01/28"
+    },
+    {
+      "no": 3,
+      "title": "食物アレルギーのひみつ （学研まんがでよくわかるシリーズ）",
+      "url": "https://bookmeter.com/books/12427715",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://img.bookmeter.com/book_image/SL300/192/1508498104542485.png",
+      "date": "2026/01/28"
+    },
+    {
+      "no": 4,
+      "title": "平成レトロの世界 山下メロ・コレクション ([テキスト])",
+      "url": "https://bookmeter.com/books/20334304",
+      "author": "山下メロ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E4%B8%8B%E3%83%A1%E3%83%AD",
+      "thumb": "https://m.media-amazon.com/images/I/5194RmAfkyL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 5,
+      "title": "デザインあ みるほん",
+      "url": "https://bookmeter.com/books/12738543",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/31YTNJT6L5L._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 6,
+      "title": "日本人の20世紀・くらしのうつりかわり〈6〉小学校",
+      "url": "https://bookmeter.com/books/1232529",
+      "author": "小林 巧",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E6%9E%97+%E5%B7%A7",
+      "thumb": "https://m.media-amazon.com/images/I/51KB4XYDY1L._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 7,
+      "title": "[新版]トーベ・ヤンソンのムーミン絵本 ムーミン谷へのふしぎな旅 (講談社の翻訳絵本 トーベ・ヤンソンのムーミン絵本 新版)",
+      "url": "https://bookmeter.com/books/13578827",
+      "author": "トーベ・ヤンソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%BC%E3%83%99%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51GNZTTQ-bL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 8,
+      "title": "身近すぎて気づかない、偉大な発明図鑑",
+      "url": "https://bookmeter.com/books/22280290",
+      "author": "クライブ・ギフォード",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/51IJDA5U5yL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 9,
+      "title": "寿司",
+      "url": "https://bookmeter.com/books/8616267",
+      "author": "和の技術を知る会",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%92%8C%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E7%9F%A5%E3%82%8B%E4%BC%9A",
+      "thumb": "https://m.media-amazon.com/images/I/615hmWEAPsL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 10,
+      "title": "だらだら動物図鑑",
+      "url": "https://bookmeter.com/books/7843250",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/614eNnNZTKL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 11,
+      "title": "わくわくなぞなぞランド 小学1・2年生",
+      "url": "https://bookmeter.com/books/1427894",
+      "author": "本間 正夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%AC%E9%96%93+%E6%AD%A3%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/61r8QUBsByL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 12,
+      "title": "2010年代海外SF傑作選 (ハヤカワ文庫 SF エ 7-2)",
+      "url": "https://bookmeter.com/books/16897472",
+      "author": "ピーター トライアス,郝 景芳,アナリー ニューイッツ,ピーター ワッツ,サム・J ミラー,チャールズ ユウ,ケン リュウ,陳 楸帆,チャイナ ミエヴィル,カリン ティドベック,テッド チャン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%82%B9%2C%E9%83%9D+%E6%99%AF%E8%8A%B3%2C%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%BC+%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%83%E3%83%84%2C%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC+%E3%83%AF%E3%83%83%E3%83%84%2C%E3%82%B5%E3%83%A0%E3%83%BBJ+%E3%83%9F%E3%83%A9%E3%83%BC%2C%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA+%E3%83%A6%E3%82%A6%2C%E3%82%B1%E3%83%B3+%E3%83%AA%E3%83%A5%E3%82%A6%2C%E9%99%B3+%E6%A5%B8%E5%B8%86%2C%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A+%E3%83%9F%E3%82%A8%E3%83%B4%E3%82%A3%E3%83%AB%2C%E3%82%AB%E3%83%AA%E3%83%B3+%E3%83%86%E3%82%A3%E3%83%89%E3%83%99%E3%83%83%E3%82%AF%2C%E3%83%86%E3%83%83%E3%83%89+%E3%83%81%E3%83%A3%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41tnT1edtAL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 13,
+      "title": "うさもふ。",
+      "url": "https://bookmeter.com/books/5918733",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41M3bOBLuHL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 14,
+      "title": "もしかしたら名探偵 (ミルキー杉山のあなたも名探偵)",
+      "url": "https://bookmeter.com/books/472057",
+      "author": "杉山 亮",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%89%E5%B1%B1+%E4%BA%AE",
+      "thumb": "https://m.media-amazon.com/images/I/41NGdl8MDHL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 15,
+      "title": "あかちゃんパンダ (パンダだいすきシリーズ)",
+      "url": "https://bookmeter.com/books/12562144",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51rRMM8psdL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 16,
+      "title": "かわいいパンダ (パンダだいすきシリーズ)",
+      "url": "https://bookmeter.com/books/12630082",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51jYm2-tBnL._SL500_.jpg",
+      "date": "2026/01/25"
+    },
+    {
+      "no": 17,
+      "title": "10歳から知っておきたいお金の心得〜大切なのは、稼ぎ方・使い方・考え方 (10歳に贈るシリーズ)",
+      "url": "https://bookmeter.com/books/14762010",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51wcCX9cV-L._SL500_.jpg",
+      "date": "2026/01/18"
+    },
+    {
+      "no": 18,
+      "title": "いとしのレトロ玩具: もう逢えないと思ってた、がここにある (らんぷの本)",
+      "url": "https://bookmeter.com/books/21214805",
+      "author": "井口 令菜",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%95%E5%8F%A3+%E4%BB%A4%E8%8F%9C",
+      "thumb": "https://m.media-amazon.com/images/I/51u1KVcMJmL._SL500_.jpg",
+      "date": "2026/01/17"
+    },
+    {
+      "no": 19,
+      "title": "東大の先生! 超わかりやすくビジネスに効くアートを教えてください!",
+      "url": "https://bookmeter.com/books/15583743",
+      "author": "三浦 俊彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E6%B5%A6+%E4%BF%8A%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/5141kKRgHgL._SL500_.jpg",
+      "date": "2026/01/13"
+    },
+    {
+      "no": 20,
+      "title": "地域限定ハローキティ15周年記念オフィシャルナビゲートブック2013 (M-ON! ANNEX 564号)",
+      "url": "https://bookmeter.com/books/6702199",
+      "author": "サンリオ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51GysRgMSyL._SL500_.jpg",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 21,
+      "title": "お肉のひみつ",
+      "url": "https://bookmeter.com/books/14933984",
+      "author": "学研",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AD%A6%E7%A0%94",
+      "thumb": "https://img.bookmeter.com/book_image/SL300/266/1574647543043709.jpg",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 22,
+      "title": "まんがファッション",
+      "url": "https://bookmeter.com/books/4568207",
+      "author": "竹村真奈",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AB%B9%E6%9D%91%E7%9C%9F%E5%A5%88",
+      "thumb": "https://m.media-amazon.com/images/I/51DIcYV2ZpL._SL500_.jpg",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 23,
+      "title": "テーブルマナーの絵本",
+      "url": "https://bookmeter.com/books/4343568",
+      "author": "高野 紀子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8E+%E7%B4%80%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51nr95kexyL._SL500_.jpg",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 24,
+      "title": "にっぽんの図鑑(小学館の子ども図鑑プレNEO) (幼児~小学生向け)",
+      "url": "https://bookmeter.com/books/9120407",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61OFblfYyDL._SL500_.jpg",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 25,
+      "title": "友だちってなんだろう?たくさんいたら幸せなの?: 考える力が生きる力になる!子ども哲学教室",
+      "url": "https://bookmeter.com/books/22804511",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL500_.gif",
+      "date": "2026/01/12"
+    },
+    {
+      "no": 26,
+      "title": "amazonのすごい会議: ジェフ・ベゾスが生んだマネジメントの技法",
+      "url": "https://bookmeter.com/books/16512929",
+      "author": "佐藤 将之",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E8%97%A4+%E5%B0%86%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51MnNC7IayL._SL500_.jpg",
+      "date": "2026/01/02"
+    },
+    {
+      "no": 27,
+      "title": "心と体を元気にセルフケア! 自分で押せるツボ",
+      "url": "https://bookmeter.com/books/20222025",
+      "author": "柳本真弓",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9F%B3%E6%9C%AC%E7%9C%9F%E5%BC%93",
+      "thumb": "https://m.media-amazon.com/images/I/51cdSqyShnL._SL500_.jpg",
+      "date": "2026/01/02"
+    },
+    {
+      "no": 28,
+      "title": "100点のほめ方",
+      "url": "https://bookmeter.com/books/16340777",
+      "author": "原 邦雄",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8E%9F+%E9%82%A6%E9%9B%84",
+      "thumb": "https://m.media-amazon.com/images/I/41pUHog79zL._SL500_.jpg",
+      "date": "2026/01/01"
+    }
+  ],
+  "count": 28,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

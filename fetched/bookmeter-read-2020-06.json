@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "近未来のコア・テクノロジー ニューラルネットワーク、データマイニング、ブロックチェーン、ロボティクス、量子コンピュータが1冊でわかる",
+      "url": "https://bookmeter.com/books/13117389",
+      "author": "三津村 直貴",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E6%B4%A5%E6%9D%91+%E7%9B%B4%E8%B2%B4",
+      "thumb": "https://m.media-amazon.com/images/I/411J3hTOZCL._SL500_.jpg",
+      "date": "2020/06/28"
+    },
+    {
+      "no": 2,
+      "title": "技術者のためのテクニカルライティング入門講座",
+      "url": "https://bookmeter.com/books/13195512",
+      "author": "髙橋 慈子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%99%E6%A9%8B+%E6%85%88%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51SVf5G3N0L._SL500_.jpg",
+      "date": "2020/06/28"
+    },
+    {
+      "no": 3,
+      "title": "座り仕事の疲れがぜんぶとれるコリほぐしストレッチ 首・肩・腰が軽くなる!",
+      "url": "https://bookmeter.com/books/15881337",
+      "author": "なぁさん",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%AA%E3%81%81%E3%81%95%E3%82%93",
+      "thumb": "https://m.media-amazon.com/images/I/51gfmROno2L._SL500_.jpg",
+      "date": "2020/06/20"
+    },
+    {
+      "no": 4,
+      "title": "しかめっ面にさせるゲームは成功する 悔しさをモチベーションに変えるゲームデザイン",
+      "url": "https://bookmeter.com/books/10115714",
+      "author": "イェスパー・ユール",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A4%E3%82%A7%E3%82%B9%E3%83%91%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51CdPMkGp0L._SL500_.jpg",
+      "date": "2020/06/20"
+    },
+    {
+      "no": 5,
+      "title": "改訂2版 みんなのGo言語",
+      "url": "https://bookmeter.com/books/14321940",
+      "author": "松木 雅幸,mattn,藤原 俊一郎,中島 大一,上田 拓也,牧 大輔,鈴木 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E6%9C%A8+%E9%9B%85%E5%B9%B8%2Cmattn%2C%E8%97%A4%E5%8E%9F+%E4%BF%8A%E4%B8%80%E9%83%8E%2C%E4%B8%AD%E5%B3%B6+%E5%A4%A7%E4%B8%80%2C%E4%B8%8A%E7%94%B0+%E6%8B%93%E4%B9%9F%2C%E7%89%A7+%E5%A4%A7%E8%BC%94%2C%E9%88%B4%E6%9C%A8+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51jif840ScL._SL500_.jpg",
+      "date": "2020/06/15"
+    },
+    {
+      "no": 6,
+      "title": "FQ JAPAN \u0026lt;2020夏号\u0026gt; 家族で過ごす\u0026quot;おうち時間\u0026quot; (VOL.55)",
+      "url": "https://bookmeter.com/books/16011083",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51PQhf4BWjL._SL500_.jpg",
+      "date": "2020/06/07"
+    },
+    {
+      "no": 7,
+      "title": "[普及版]ジェネラティブ・アート―Processingによる実践ガイド",
+      "url": "https://bookmeter.com/books/9019515",
+      "author": "マット・ピアソン,Matt Pearson",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%83%E3%83%88%E3%83%BB%E3%83%94%E3%82%A2%E3%82%BD%E3%83%B3%2CMatt+Pearson",
+      "thumb": "https://m.media-amazon.com/images/I/41Eq81vSVPL._SL500_.jpg",
+      "date": "2020/06/07"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

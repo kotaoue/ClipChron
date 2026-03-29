@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "サムライたちの辞世の句 (もっと知りたい日本史(のこと))",
+      "url": "https://bookmeter.com/books/13961972",
+      "author": "初田 景都,大友 宗哉",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%88%9D%E7%94%B0+%E6%99%AF%E9%83%BD%2C%E5%A4%A7%E5%8F%8B+%E5%AE%97%E5%93%89",
+      "thumb": "https://m.media-amazon.com/images/I/51I8rq7VI8L._SL500_.jpg",
+      "date": "2022/06/26"
+    },
+    {
+      "no": 2,
+      "title": "Puss in Boots (Caldecott Honor Book)",
+      "url": "https://bookmeter.com/books/1759634",
+      "author": "Charles Perrault",
+      "authorUrl": "https://bookmeter.com/search?author=Charles+Perrault",
+      "thumb": "https://m.media-amazon.com/images/I/51LgQFOG94L._SL500_.jpg",
+      "date": "2022/06/26"
+    },
+    {
+      "no": 3,
+      "title": "イラッとしたときのとっさの対応術",
+      "url": "https://bookmeter.com/books/623117",
+      "author": "内藤 誼人",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E8%AA%BC%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/41QRPt-Tz+L._SL500_.jpg",
+      "date": "2022/06/26"
+    },
+    {
+      "no": 4,
+      "title": "Officer Buckle and Gloria (CALDECOTT MEDAL BOOK)",
+      "url": "https://bookmeter.com/books/83273",
+      "author": "Peggy Rathmann",
+      "authorUrl": "https://bookmeter.com/search?author=Peggy+Rathmann",
+      "thumb": "https://m.media-amazon.com/images/I/61ULVTYGouL._SL500_.jpg",
+      "date": "2022/06/12"
+    },
+    {
+      "no": 5,
+      "title": "2歳から12歳の脳がグングン育つ!論理の力",
+      "url": "https://bookmeter.com/books/13763499",
+      "author": "出口汪",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%87%BA%E5%8F%A3%E6%B1%AA",
+      "thumb": "https://m.media-amazon.com/images/I/41++dXEJF8L._SL500_.jpg",
+      "date": "2022/06/12"
+    },
+    {
+      "no": 6,
+      "title": "一瞬で相手の心をつかむ「声」のつくり方",
+      "url": "https://bookmeter.com/books/267618",
+      "author": "秋竹 朋子",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A7%8B%E7%AB%B9+%E6%9C%8B%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/41fg11KPWEL._SL500_.jpg",
+      "date": "2022/06/03"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

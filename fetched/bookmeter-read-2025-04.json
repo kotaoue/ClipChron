@@ -1,0 +1,171 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "氷柱の声",
+      "url": "https://bookmeter.com/books/18223846",
+      "author": "くどう れいん",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%8F%E3%81%A9%E3%81%86+%E3%82%8C%E3%81%84%E3%82%93",
+      "thumb": "https://m.media-amazon.com/images/I/41dRH8vguIL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 2,
+      "title": "最新版 図解 介護保険のしくみと使い方がわかる本 (介護ライブラリー)",
+      "url": "https://bookmeter.com/books/18368983",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51n3cbTNhHL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 3,
+      "title": "人生後半の戦略書 ハーバード大教授が教える人生とキャリアを再構築する方法",
+      "url": "https://bookmeter.com/books/20484912",
+      "author": "アーサー・Ｃ・ブルックス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%BB%EF%BC%A3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51MQiNpYuML._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 4,
+      "title": "王さま魔女のひみつ (ぼくは王さま 2-10)",
+      "url": "https://bookmeter.com/books/68839",
+      "author": "寺村 輝夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AF%BA%E6%9D%91+%E8%BC%9D%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51yQaVMO3SL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 5,
+      "title": "脳が若返る! かんたんルービックキューブ",
+      "url": "https://bookmeter.com/books/13083023",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51s2BogSL0L._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 6,
+      "title": "世界のどうぶつ絵本",
+      "url": "https://bookmeter.com/books/10130393",
+      "author": "前田 まゆみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%89%8D%E7%94%B0+%E3%81%BE%E3%82%86%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51VoSReZm7S._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 7,
+      "title": "どうなっているの?だんめん図鑑",
+      "url": "https://bookmeter.com/books/11030380",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51f3kqc3jTL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 8,
+      "title": "しらべ図鑑マナペディア なんでも日本一",
+      "url": "https://bookmeter.com/books/9962820",
+      "author": "グループ・コロンブス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%BB%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%96%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51hdBXdKYfL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 9,
+      "title": "おばけのキルト",
+      "url": "https://bookmeter.com/books/18305709",
+      "author": "リール・ネイソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8D%E3%82%A4%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51LReRe57SS._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 10,
+      "title": "いつだって ともだち (世界の絵本)",
+      "url": "https://bookmeter.com/books/236377",
+      "author": "モニカ バイツェ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%A2%E3%83%8B%E3%82%AB+%E3%83%90%E3%82%A4%E3%83%84%E3%82%A7",
+      "thumb": "https://m.media-amazon.com/images/I/41a+mylscPL._SL500_.jpg",
+      "date": "2025/04/29"
+    },
+    {
+      "no": 11,
+      "title": "ふたりはともだち (ミセスこどもの本)",
+      "url": "https://bookmeter.com/books/533910",
+      "author": "アーノルド・ローベル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%99%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/61LJ9Xux5pL._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 12,
+      "title": "小さなピスケのはじめての旅",
+      "url": "https://bookmeter.com/books/12672509",
+      "author": "二木 真希子",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%8C%E6%9C%A8+%E7%9C%9F%E5%B8%8C%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/614N2ZS85CL._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 13,
+      "title": "フレンズ・ルール―友だちって最高! (少女のためのルール・ブック)",
+      "url": "https://bookmeter.com/books/605526",
+      "author": "アシュリー ライス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC+%E3%83%A9%E3%82%A4%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/517HFBZNQGL._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 14,
+      "title": "すがたをかえる食べものずかん: 大豆・米・麦・とうもろこし・いも・牛乳・魚",
+      "url": "https://bookmeter.com/books/11230767",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51az8AuqCcL._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 15,
+      "title": "学校にある道具使い方事典　はさみ・電流計からライン引きまで (楽しい調べ学習シリーズ)",
+      "url": "https://bookmeter.com/books/12643565",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51FzjELum7L._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 16,
+      "title": "よるのあいだに…",
+      "url": "https://bookmeter.com/books/20172263",
+      "author": "ポリー・フェイバー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9D%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%90%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51OP7sInquL._SL500_.jpg",
+      "date": "2025/04/12"
+    },
+    {
+      "no": 17,
+      "title": "ゴリラ裁判の日",
+      "url": "https://bookmeter.com/books/20676502",
+      "author": "須藤 古都離",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A0%88%E8%97%A4+%E5%8F%A4%E9%83%BD%E9%9B%A2",
+      "thumb": "https://m.media-amazon.com/images/I/51CuzTqQGnL._SL500_.jpg",
+      "date": "2025/04/11"
+    },
+    {
+      "no": 18,
+      "title": "登校しぶり・不登校の子に親ができること (健康ライブラリー イラスト版)",
+      "url": "https://bookmeter.com/books/14313323",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/510jfDdm5NL._SL500_.jpg",
+      "date": "2025/04/11"
+    }
+  ],
+  "count": 18,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

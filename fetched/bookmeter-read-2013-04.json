@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "金糸雀が啼く夜: 薬屋探偵妖綺談 (講談社ノベルス タT- 4)",
+      "url": "https://bookmeter.com/books/557108",
+      "author": "高里 椎奈",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8C+%E6%A4%8E%E5%A5%88",
+      "thumb": "https://m.media-amazon.com/images/I/51m770SJugL._SL500_.jpg",
+      "date": "2013/04/30"
+    },
+    {
+      "no": 2,
+      "title": "聖女の救済 (文春文庫)",
+      "url": "https://bookmeter.com/books/4701578",
+      "author": "東野　圭吾",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%B1%E9%87%8E%E3%80%80%E5%9C%AD%E5%90%BE",
+      "thumb": "https://m.media-amazon.com/images/I/514QmaklwrL._SL500_.jpg",
+      "date": "2013/04/19"
+    },
+    {
+      "no": 3,
+      "title": "悪魔と詐欺師: 薬屋探偵妖綺談 (講談社ノベルス タT- 3)",
+      "url": "https://bookmeter.com/books/557107",
+      "author": "高里 椎奈",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8C+%E6%A4%8E%E5%A5%88",
+      "thumb": "https://m.media-amazon.com/images/I/31RiAKqXepL._SL500_.jpg",
+      "date": "2013/04/14"
+    },
+    {
+      "no": 4,
+      "title": "ファンタジーの秘密 (ちゅうせき叢書)",
+      "url": "https://bookmeter.com/books/1756924",
+      "author": "脇 明子",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%84%87+%E6%98%8E%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/31+x8sDXLPL._SL500_.jpg",
+      "date": "2013/04/08"
+    },
+    {
+      "no": 5,
+      "title": "ドラゴンリップ 刑事・竜めぐみの体当たり捜査",
+      "url": "https://bookmeter.com/books/5266078",
+      "author": "鯨 統一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AF%A8+%E7%B5%B1%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/515aYukBdeL._SL500_.jpg",
+      "date": "2013/04/08"
+    },
+    {
+      "no": 6,
+      "title": "ベストセラー・ライトノベルのしくみ　キャラクター小説の競争戦略",
+      "url": "https://bookmeter.com/books/4742953",
+      "author": "飯田一史",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A3%AF%E7%94%B0%E4%B8%80%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/51OggWVU36L._SL500_.jpg",
+      "date": "2013/04/08"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

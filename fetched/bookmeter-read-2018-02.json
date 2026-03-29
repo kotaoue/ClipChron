@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "オルタード・カーボン(下)",
+      "url": "https://bookmeter.com/books/493467",
+      "author": "リチャード・モーガン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41LDEZEx94L._SL500_.jpg",
+      "date": "2018/02/28"
+    },
+    {
+      "no": 2,
+      "title": "オルタード・カーボン(上)",
+      "url": "https://bookmeter.com/books/493466",
+      "author": "リチャード・モーガン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41NcO2811sL._SL500_.jpg",
+      "date": "2018/02/28"
+    },
+    {
+      "no": 3,
+      "title": "日本劣化論 (ちくま新書)",
+      "url": "https://bookmeter.com/books/8108053",
+      "author": "笠井 潔,白井 聡",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AC%A0%E4%BA%95+%E6%BD%94%2C%E7%99%BD%E4%BA%95+%E8%81%A1",
+      "thumb": "https://m.media-amazon.com/images/I/41-esJxZdIL._SL500_.jpg",
+      "date": "2018/02/20"
+    },
+    {
+      "no": 4,
+      "title": "だっこ練習ノート",
+      "url": "https://bookmeter.com/books/1539387",
+      "author": "横内 眞知子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A8%AA%E5%86%85+%E7%9C%9E%E7%9F%A5%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51GC5ZVPG4L._SL500_.jpg",
+      "date": "2018/02/11"
+    },
+    {
+      "no": 5,
+      "title": "増補版 アメリカから\u0026lt;自由\u0026gt;が消える (扶桑社新書)",
+      "url": "https://bookmeter.com/books/12038553",
+      "author": "堤 未果",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A0%A4+%E6%9C%AA%E6%9E%9C",
+      "thumb": "https://m.media-amazon.com/images/I/413wPtIyD5L._SL500_.jpg",
+      "date": "2018/02/05"
+    },
+    {
+      "no": 6,
+      "title": "６歳までの子どものほめ方叱り方　「叱ってばかり…」の毎日が変わる！",
+      "url": "https://bookmeter.com/books/4677114",
+      "author": "植松紀子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A4%8D%E6%9D%BE%E7%B4%80%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51MQwlAfEwL._SL500_.jpg",
+      "date": "2018/02/04"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

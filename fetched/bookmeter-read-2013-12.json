@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "犬の足あと猫のひげ (中公文庫 た 80-1)",
+      "url": "https://bookmeter.com/books/395935",
+      "author": "武田 花",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%AD%A6%E7%94%B0+%E8%8A%B1",
+      "thumb": "https://m.media-amazon.com/images/I/41m0DSgcMlL._SL500_.jpg",
+      "date": "2013/12/01"
+    },
+    {
+      "no": 2,
+      "title": "眠れなくなる夢十夜 (新潮文庫)",
+      "url": "https://bookmeter.com/books/555853",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41xq+o-MDgL._SL500_.jpg",
+      "date": "2013/12/01"
+    },
+    {
+      "no": 3,
+      "title": "敵は海賊 海賊版 (ハヤカワ文庫 JA カ 3-42)",
+      "url": "https://bookmeter.com/books/628741",
+      "author": "神林 長平",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A5%9E%E6%9E%97+%E9%95%B7%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51e724xdkYL._SL500_.jpg",
+      "date": "2013/12/01"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

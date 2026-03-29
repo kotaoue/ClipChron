@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "新書で入門 ジャズの歴史",
+      "url": "https://bookmeter.com/books/566301",
+      "author": "相倉 久人",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9B%B8%E5%80%89+%E4%B9%85%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51eoGqe7K8L._SL500_.jpg",
+      "date": "2018/06/24"
+    },
+    {
+      "no": 2,
+      "title": "ゆるす力 (幻冬舎新書)",
+      "url": "https://bookmeter.com/books/5241042",
+      "author": "植西 聰",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A4%8D%E8%A5%BF+%E8%81%B0",
+      "thumb": "https://m.media-amazon.com/images/I/31ESVGZg9pL._SL500_.jpg",
+      "date": "2018/06/03"
+    },
+    {
+      "no": 3,
+      "title": "組織のなかで人を育てる -- 企業内人材育成とキャリア形成の方法",
+      "url": "https://bookmeter.com/books/11057510",
+      "author": "佐藤 厚",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E8%97%A4+%E5%8E%9A",
+      "thumb": "https://m.media-amazon.com/images/I/41NOTVNQkAL._SL500_.jpg",
+      "date": "2018/06/03"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

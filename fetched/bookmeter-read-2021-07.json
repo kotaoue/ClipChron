@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Big Fat Cat AND THE GHOST AVENUE",
+      "url": "https://bookmeter.com/books/13175",
+      "author": "向山 貴彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%90%91%E5%B1%B1+%E8%B2%B4%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51Zu4ZYxbgL._SL500_.jpg",
+      "date": "2021/07/25"
+    },
+    {
+      "no": 2,
+      "title": "知ってるつもり　無知の科学 (早川書房)",
+      "url": "https://bookmeter.com/books/12854910",
+      "author": "スティーブン スローマン,フィリップ ファーンバック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3+%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%B3%2C%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97+%E3%83%95%E3%82%A1%E3%83%BC%E3%83%B3%E3%83%90%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/41rR2kT3-CL._SL500_.jpg",
+      "date": "2021/07/25"
+    },
+    {
+      "no": 3,
+      "title": "組織力を高める テレワーク時代の新マネジメント",
+      "url": "https://bookmeter.com/books/16654620",
+      "author": "成瀬 岳人",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%90%E7%80%AC+%E5%B2%B3%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51aUTWLnVhL._SL500_.jpg",
+      "date": "2021/07/25"
+    },
+    {
+      "no": 4,
+      "title": "Good Team 成果を出し続けるチームの創り方",
+      "url": "https://bookmeter.com/books/16178045",
+      "author": "齋藤秀樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%BD%8B%E8%97%A4%E7%A7%80%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51W9D4IGS2L._SL500_.jpg",
+      "date": "2021/07/11"
+    },
+    {
+      "no": 5,
+      "title": "OODA LOOP(ウーダループ)",
+      "url": "https://bookmeter.com/books/13409817",
+      "author": "チェット リチャーズ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%81%E3%82%A7%E3%83%83%E3%83%88+%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51NHngUGOFL._SL500_.jpg",
+      "date": "2021/07/11"
+    },
+    {
+      "no": 6,
+      "title": "みるみる話し上手になる本―あなたの『声力』を磨く実践トレーニング",
+      "url": "https://bookmeter.com/books/101120",
+      "author": "倉島 麻帆",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%80%89%E5%B3%B6+%E9%BA%BB%E5%B8%86",
+      "thumb": "https://m.media-amazon.com/images/I/51EiEzsKi8L._SL500_.jpg",
+      "date": "2021/07/11"
+    },
+    {
+      "no": 7,
+      "title": "図解 組織を変えるファシリテーターの道具箱 働きがいと成果を両立させるパワーツール50",
+      "url": "https://bookmeter.com/books/16466933",
+      "author": "森 時彦,伊藤 保,松田 光憲",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E6%99%82%E5%BD%A6%2C%E4%BC%8A%E8%97%A4+%E4%BF%9D%2C%E6%9D%BE%E7%94%B0+%E5%85%89%E6%86%B2",
+      "thumb": "https://m.media-amazon.com/images/I/514U4zzXKpL._SL500_.jpg",
+      "date": "2021/07/08"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

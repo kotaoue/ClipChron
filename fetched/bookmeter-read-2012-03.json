@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "火村英生に捧げる犯罪",
+      "url": "https://bookmeter.com/books/562666",
+      "author": "有栖川 有栖",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E6%A0%96%E5%B7%9D+%E6%9C%89%E6%A0%96",
+      "thumb": "https://m.media-amazon.com/images/I/51cif7paujL._SL500_.jpg",
+      "date": "2012/03/26"
+    },
+    {
+      "no": 2,
+      "title": "アンビエント・ファインダビリティ ―ウェブ、検索、そしてコミュニケーションをめぐる旅",
+      "url": "https://bookmeter.com/books/11697",
+      "author": "Peter Morville",
+      "authorUrl": "https://bookmeter.com/search?author=Peter+Morville",
+      "thumb": "https://m.media-amazon.com/images/I/51JAKEE21DL._SL500_.jpg",
+      "date": "2012/03/20"
+    },
+    {
+      "no": 3,
+      "title": "密やかな教育: 〈やおい・ボーイズラブ〉前史",
+      "url": "https://bookmeter.com/books/77483",
+      "author": "石田 美紀",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E7%94%B0+%E7%BE%8E%E7%B4%80",
+      "thumb": "https://m.media-amazon.com/images/I/51Z18oRpJuL._SL500_.jpg",
+      "date": "2012/03/20"
+    },
+    {
+      "no": 4,
+      "title": "俺の偉人達",
+      "url": "https://bookmeter.com/books/1414066",
+      "author": "三代目魚武浜田 成夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E4%BB%A3%E7%9B%AE%E9%AD%9A%E6%AD%A6%E6%B5%9C%E7%94%B0+%E6%88%90%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/518RMvRrV2L._SL500_.jpg",
+      "date": "2012/03/20"
+    },
+    {
+      "no": 5,
+      "title": "SDガンダム三国伝　風雲豪傑編（2）　＜完＞ (KCデラックス)",
+      "url": "https://bookmeter.com/books/60869",
+      "author": "ときた 洸一",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A8%E3%81%8D%E3%81%9F+%E6%B4%B8%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/61yR0vzx3IL._SL500_.jpg",
+      "date": "2012/03/01"
+    },
+    {
+      "no": 6,
+      "title": "SDガンダム三国伝　風雲豪傑編（1） (KCデラックス)",
+      "url": "https://bookmeter.com/books/300061",
+      "author": "ときた 洸一",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A8%E3%81%8D%E3%81%9F+%E6%B4%B8%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/61ytvh%2BUS9L._SL500_.jpg",
+      "date": "2012/03/01"
+    },
+    {
+      "no": 7,
+      "title": "ロートレック荘事件 (新潮文庫)",
+      "url": "https://bookmeter.com/books/567386",
+      "author": "筒井 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%92%E4%BA%95+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/51ywZ-4QoRL._SL500_.jpg",
+      "date": "2012/03/01"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

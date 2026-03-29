@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "へんな言葉の通になる: 豊かな日本語、オノマトペの世界 (祥伝社新書 83)",
+      "url": "https://bookmeter.com/books/3845",
+      "author": "得猪 外明",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%BE%97%E7%8C%AA+%E5%A4%96%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/413Rk4pR8mL._SL500_.jpg",
+      "date": "2015/03/27"
+    },
+    {
+      "no": 2,
+      "title": "Self-Reference ENGINE (ハヤカワ文庫 JA エ 1-1)",
+      "url": "https://bookmeter.com/books/577678",
+      "author": "円城 塔",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%86%E5%9F%8E+%E5%A1%94",
+      "thumb": "https://m.media-amazon.com/images/I/41nQiE2nAgL._SL500_.jpg",
+      "date": "2015/03/22"
+    },
+    {
+      "no": 3,
+      "title": "3月のライオン 10 (ヤングアニマルコミックス)",
+      "url": "https://bookmeter.com/books/8343668",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51Pqci5ZypL._SL500_.jpg",
+      "date": "2015/03/10"
+    },
+    {
+      "no": 4,
+      "title": "3月のライオン 9 (ヤングアニマルコミックス)",
+      "url": "https://bookmeter.com/books/7134497",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/61H7kvMsU-L._SL500_.jpg",
+      "date": "2015/03/10"
+    },
+    {
+      "no": 5,
+      "title": "ラグビーを観に行こう! (シリーズ・スポーツを観る)",
+      "url": "https://bookmeter.com/books/1423741",
+      "author": "上野 裕一,加治佐 おいどん",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%8A%E9%87%8E+%E8%A3%95%E4%B8%80%2C%E5%8A%A0%E6%B2%BB%E4%BD%90+%E3%81%8A%E3%81%84%E3%81%A9%E3%82%93",
+      "thumb": "https://m.media-amazon.com/images/I/51H4DWYYN8L._SL500_.jpg",
+      "date": "2015/03/08"
+    },
+    {
+      "no": 6,
+      "title": "安田均のボードゲーム大好き!―ドイツゲームのニューウェーブ",
+      "url": "https://bookmeter.com/books/169803",
+      "author": "安田 均",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%89%E7%94%B0+%E5%9D%87",
+      "thumb": "https://m.media-amazon.com/images/I/21HPE027M2L._SL500_.jpg",
+      "date": "2015/03/08"
+    },
+    {
+      "no": 7,
+      "title": "東大卒プロゲーマー 論理は結局、情熱にかなわない (PHP新書)",
+      "url": "https://bookmeter.com/books/8169673",
+      "author": "ときど",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A8%E3%81%8D%E3%81%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51aJGFl9-cL._SL500_.jpg",
+      "date": "2015/03/08"
+    },
+    {
+      "no": 8,
+      "title": "日本語テクニカルライティング",
+      "url": "https://bookmeter.com/books/15729",
+      "author": "高橋 昭男",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%A9%8B+%E6%98%AD%E7%94%B7",
+      "thumb": "https://m.media-amazon.com/images/I/41T9CRVJXFL._SL500_.jpg",
+      "date": "2015/03/02"
+    }
+  ],
+  "count": 8,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

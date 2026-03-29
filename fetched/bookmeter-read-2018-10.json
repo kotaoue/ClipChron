@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "うたがいの神様",
+      "url": "https://bookmeter.com/books/4111102",
+      "author": "千原 ジュニア",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%83%E5%8E%9F+%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2",
+      "thumb": "https://m.media-amazon.com/images/I/41M8czG-9nL._SL500_.jpg",
+      "date": "2018/10/08"
+    },
+    {
+      "no": 2,
+      "title": "もっとなっとく 使えるスポーツサイエンス (KSスポーツ医科学書)",
+      "url": "https://bookmeter.com/books/11545252",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41DAdefYCKL._SL500_.jpg",
+      "date": "2018/10/08"
+    },
+    {
+      "no": 3,
+      "title": "イラッとしない思考術",
+      "url": "https://bookmeter.com/books/8314873",
+      "author": "安藤 俊介",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%89%E8%97%A4+%E4%BF%8A%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/519cXuH-8jL._SL500_.jpg",
+      "date": "2018/10/07"
+    },
+    {
+      "no": 4,
+      "title": "仮面ライダー昆虫記",
+      "url": "https://bookmeter.com/books/341297",
+      "author": "稲垣 栄洋",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A8%B2%E5%9E%A3+%E6%A0%84%E6%B4%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51XDYSQCKCL._SL500_.jpg",
+      "date": "2018/10/01"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

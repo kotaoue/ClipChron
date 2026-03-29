@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ハリウッド式 THE WORKOUT - 分単位で自分史上最高の身体をつくる 脳と身体のコネクトメソッド -",
+      "url": "https://bookmeter.com/books/12206443",
+      "author": "北島 達也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8C%97%E5%B3%B6+%E9%81%94%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51mNjgfeMFL._SL500_.jpg",
+      "date": "2021/01/31"
+    },
+    {
+      "no": 2,
+      "title": "自然 (絵でわかる楽しい英語辞典)",
+      "url": "https://bookmeter.com/books/2073918",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://bookmeter.com/images/common/book.png",
+      "date": "2021/01/09"
+    },
+    {
+      "no": 3,
+      "title": "手を伸ばせ、そしてコマンドを入力しろ",
+      "url": "https://bookmeter.com/books/12734405",
+      "author": "藤田 祥平",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E7%94%B0+%E7%A5%A5%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51i9ennQ9-L._SL500_.jpg",
+      "date": "2021/01/07"
+    },
+    {
+      "no": 4,
+      "title": "遊☆戯☆王 オフィシャルカードゲーム デュエルモンスターズ マスターガイド 6 (愛蔵版コミックス)",
+      "url": "https://bookmeter.com/books/15048663",
+      "author": "Vジャンプ編集部",
+      "authorUrl": "https://bookmeter.com/search?author=V%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8",
+      "thumb": "https://m.media-amazon.com/images/I/41-314XlN+L._SL500_.jpg",
+      "date": "2021/01/05"
+    },
+    {
+      "no": 5,
+      "title": "「もっと話したい！」と思われる人の４４のルール",
+      "url": "https://bookmeter.com/books/6652190",
+      "author": "吉原珠央",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%90%89%E5%8E%9F%E7%8F%A0%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/41T6xoyc9eL._SL500_.jpg",
+      "date": "2021/01/02"
+    },
+    {
+      "no": 6,
+      "title": "Alice In Wonderland (Penguin Readers, Level 2)",
+      "url": "https://bookmeter.com/books/305278",
+      "author": "Lewis Carroll",
+      "authorUrl": "https://bookmeter.com/search?author=Lewis+Carroll",
+      "thumb": "https://m.media-amazon.com/images/I/511aDF47qdL._SL500_.jpg",
+      "date": "2021/01/02"
+    },
+    {
+      "no": 7,
+      "title": "英語のしくみ《新版》 (言葉のしくみ)",
+      "url": "https://bookmeter.com/books/7998318",
+      "author": "関山 健治",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%96%A2%E5%B1%B1+%E5%81%A5%E6%B2%BB",
+      "thumb": "https://m.media-amazon.com/images/I/41iTsEmQEoL._SL500_.jpg",
+      "date": "2021/01/02"
+    },
+    {
+      "no": 8,
+      "title": "困難な成熟",
+      "url": "https://bookmeter.com/books/9835217",
+      "author": "内田樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51suzK+09vL._SL500_.jpg",
+      "date": "2021/01/01"
+    }
+  ],
+  "count": 8,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "失敗の本質: 日本軍の組織論的研究 (中公文庫 と 18-1)",
+      "url": "https://bookmeter.com/books/507067",
+      "author": "戸部 良一,寺本 義也,鎌田 伸一,杉之尾 孝生,村井 友秀,野中 郁次郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%B8%E9%83%A8+%E8%89%AF%E4%B8%80%2C%E5%AF%BA%E6%9C%AC+%E7%BE%A9%E4%B9%9F%2C%E9%8E%8C%E7%94%B0+%E4%BC%B8%E4%B8%80%2C%E6%9D%89%E4%B9%8B%E5%B0%BE+%E5%AD%9D%E7%94%9F%2C%E6%9D%91%E4%BA%95+%E5%8F%8B%E7%A7%80%2C%E9%87%8E%E4%B8%AD+%E9%83%81%E6%AC%A1%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/5115eMQCIzL._SL500_.jpg",
+      "date": "2022/10/27"
+    },
+    {
+      "no": 2,
+      "title": "具体と抽象 ―世界が変わって見える知性のしくみ",
+      "url": "https://bookmeter.com/books/11600996",
+      "author": "細谷 功",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%B4%B0%E8%B0%B7+%E5%8A%9F",
+      "thumb": "https://m.media-amazon.com/images/I/41guGljpZoL._SL500_.jpg",
+      "date": "2022/10/22"
+    },
+    {
+      "no": 3,
+      "title": "良いFAQの書き方──ユーザーの「わからない」を解決するための文章術 WEB+DB PRESS plus",
+      "url": "https://bookmeter.com/books/18569737",
+      "author": "樋口 恵一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A8%8B%E5%8F%A3+%E6%81%B5%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41Y-JHPvNNL._SL500_.jpg",
+      "date": "2022/10/22"
+    },
+    {
+      "no": 4,
+      "title": "ザ・ダークパターン ユーザーの心や行動をあざむくデザイン",
+      "url": "https://bookmeter.com/books/19948015",
+      "author": "仲野佑希",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%B2%E9%87%8E%E4%BD%91%E5%B8%8C",
+      "thumb": "https://m.media-amazon.com/images/I/51JM6+w8L+L._SL500_.jpg",
+      "date": "2022/10/18"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

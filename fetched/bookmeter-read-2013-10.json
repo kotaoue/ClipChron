@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "アリアドネの弾丸(下) (宝島社文庫 『このミス』大賞シリーズ)",
+      "url": "https://bookmeter.com/books/4919414",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41cavOstGkL._SL500_.jpg",
+      "date": "2013/10/24"
+    },
+    {
+      "no": 2,
+      "title": "アリアドネの弾丸(上) (宝島社文庫 『このミス』大賞シリーズ)",
+      "url": "https://bookmeter.com/books/4919411",
+      "author": "海堂 尊",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E5%A0%82+%E5%B0%8A",
+      "thumb": "https://m.media-amazon.com/images/I/41qbz0793ML._SL500_.jpg",
+      "date": "2013/10/24"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

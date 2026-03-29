@@ -1,0 +1,153 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "「書く」ための「聞く」技術",
+      "url": "https://bookmeter.com/books/1901731",
+      "author": "小田 豊二",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E7%94%B0+%E8%B1%8A%E4%BA%8C",
+      "thumb": "https://m.media-amazon.com/images/I/51937Z0KPDL._SL500_.jpg",
+      "date": "2023/01/28"
+    },
+    {
+      "no": 2,
+      "title": "未来をつくる言葉: わかりあえなさをつなぐために",
+      "url": "https://bookmeter.com/books/15019349",
+      "author": "ドミニク・チェン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AF%E3%83%BB%E3%83%81%E3%82%A7%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/31cpOGAEBCL._SL500_.jpg",
+      "date": "2023/01/27"
+    },
+    {
+      "no": 3,
+      "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信\u0026amp;共有のコツとテクニック",
+      "url": "https://bookmeter.com/books/20236152",
+      "author": "IPUSIRON,増井 敏克",
+      "authorUrl": "https://bookmeter.com/search?author=IPUSIRON%2C%E5%A2%97%E4%BA%95+%E6%95%8F%E5%85%8B",
+      "thumb": "https://m.media-amazon.com/images/I/5142Ab9276L._SL500_.jpg",
+      "date": "2023/01/27"
+    },
+    {
+      "no": 4,
+      "title": "「動き」の天才になる!: 筋トレ・ストレッチ以前の運動センスを高める方法",
+      "url": "https://bookmeter.com/books/16059408",
+      "author": "JIDAI",
+      "authorUrl": "https://bookmeter.com/search?author=JIDAI",
+      "thumb": "https://m.media-amazon.com/images/I/51Cnb-XIkFL._SL500_.jpg",
+      "date": "2023/01/27"
+    },
+    {
+      "no": 5,
+      "title": "フリーカルチャーをつくるためのガイドブック クリエイティブ・コモンズによる創造の循環",
+      "url": "https://bookmeter.com/books/4796848",
+      "author": "ドミニク・チェン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AF%E3%83%BB%E3%83%81%E3%82%A7%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51pDWTdSdlL._SL500_.jpg",
+      "date": "2023/01/18"
+    },
+    {
+      "no": 6,
+      "title": "メタファーとしての発酵 (Make: Japan Books)",
+      "url": "https://bookmeter.com/books/18434002",
+      "author": "Sandor Ellix Katz",
+      "authorUrl": "https://bookmeter.com/search?author=Sandor+Ellix+Katz",
+      "thumb": "https://m.media-amazon.com/images/I/416GscAaGtL._SL500_.jpg",
+      "date": "2023/01/18"
+    },
+    {
+      "no": 7,
+      "title": "創作する遺伝子 僕が愛したMEMEたち (新潮文庫)",
+      "url": "https://bookmeter.com/books/14506430",
+      "author": "小島 秀夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E5%B3%B6+%E7%A7%80%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41Mdi95sPML._SL500_.jpg",
+      "date": "2023/01/17"
+    },
+    {
+      "no": 8,
+      "title": "アブナイこうえん (ほるぷ創作絵本)",
+      "url": "https://bookmeter.com/books/18453945",
+      "author": "山本 孝",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E6%9C%AC+%E5%AD%9D",
+      "thumb": "https://m.media-amazon.com/images/I/61TLaSgg1tL._SL500_.jpg",
+      "date": "2023/01/12"
+    },
+    {
+      "no": 9,
+      "title": "あいつもともだち (おれたち、ともだち!)",
+      "url": "https://bookmeter.com/books/528190",
+      "author": "内田 麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0+%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/619Vh-lLdjL._SL500_.jpg",
+      "date": "2023/01/12"
+    },
+    {
+      "no": 10,
+      "title": "ノラネコぐんだん おすしやさん (コドモエのえほん)",
+      "url": "https://bookmeter.com/books/9912601",
+      "author": "工藤ノリコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%A5%E8%97%A4%E3%83%8E%E3%83%AA%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61VhCJu3M7L._SL500_.jpg",
+      "date": "2023/01/12"
+    },
+    {
+      "no": 11,
+      "title": "ノラネコぐんだん カレーライス (コドモエのえほん)",
+      "url": "https://bookmeter.com/books/14493806",
+      "author": "工藤 ノリコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%A5%E8%97%A4+%E3%83%8E%E3%83%AA%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51l+TJmY+PL._SL500_.jpg",
+      "date": "2023/01/12"
+    },
+    {
+      "no": 12,
+      "title": "「だから、生きる。」",
+      "url": "https://bookmeter.com/books/9861636",
+      "author": "つんく♂",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A4%E3%82%93%E3%81%8F%E2%99%82",
+      "thumb": "https://m.media-amazon.com/images/I/21FnC9FUPaL._SL500_.jpg",
+      "date": "2023/01/11"
+    },
+    {
+      "no": 13,
+      "title": "プログラミング言語Go (ADDISON-WESLEY PROFESSIONAL COMPUTING SERIES)",
+      "url": "https://bookmeter.com/books/10779926",
+      "author": "Alan A.A. Donovan,Brian W. Kernighan",
+      "authorUrl": "https://bookmeter.com/search?author=Alan+A.A.+Donovan%2CBrian+W.+Kernighan",
+      "thumb": "https://m.media-amazon.com/images/I/41meaSLNFfL._SL500_.jpg",
+      "date": "2023/01/09"
+    },
+    {
+      "no": 14,
+      "title": "歌おう、感電するほどの喜びを！〔新版〕 (ハヤカワ文庫 SF フ 16-8)",
+      "url": "https://bookmeter.com/books/9757813",
+      "author": "レイ・ブラッドベリ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%99%E3%83%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51xKrAfWRLL._SL500_.jpg",
+      "date": "2023/01/09"
+    },
+    {
+      "no": 15,
+      "title": "銀河鉄道の夜 (フォア文庫 B)",
+      "url": "https://bookmeter.com/books/361182",
+      "author": "宮沢 賢治",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E6%B2%A2+%E8%B3%A2%E6%B2%BB",
+      "thumb": "https://m.media-amazon.com/images/I/512NnDoNsYL._SL500_.jpg",
+      "date": "2023/01/04"
+    },
+    {
+      "no": 16,
+      "title": "物語論 (講談社現代新書 2129)",
+      "url": "https://bookmeter.com/books/4322846",
+      "author": "木村 俊介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%A8%E6%9D%91+%E4%BF%8A%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51PRMEVJdvL._SL500_.jpg",
+      "date": "2023/01/04"
+    }
+  ],
+  "count": 16,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "この本を書いたのは誰だ?: 統計で探る“文章の指紋”",
+      "url": "https://bookmeter.com/books/15603917",
+      "author": "村上 征勝",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E4%B8%8A+%E5%BE%81%E5%8B%9D",
+      "thumb": "https://m.media-amazon.com/images/I/513BmNi8MfL._SL500_.jpg",
+      "date": "2024/02/10"
+    },
+    {
+      "no": 2,
+      "title": "トレイルブレイザー: 企業が本気で社会を変える10の思考",
+      "url": "https://bookmeter.com/books/16070118",
+      "author": "マーク ベニオフ,モニカ ラングレー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%BC%E3%82%AF+%E3%83%99%E3%83%8B%E3%82%AA%E3%83%95%2C%E3%83%A2%E3%83%8B%E3%82%AB+%E3%83%A9%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/517U5W0pCqL._SL500_.jpg",
+      "date": "2024/02/10"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

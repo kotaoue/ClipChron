@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "モナリザの微笑 (光文社文庫)",
+      "url": "https://bookmeter.com/books/335021",
+      "author": "斎藤 純",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%8E%E8%97%A4+%E7%B4%94",
+      "thumb": "https://m.media-amazon.com/images/I/518EMTYQF4L._SL500_.jpg",
+      "date": "2012/11/12"
+    },
+    {
+      "no": 2,
+      "title": "コナミノベルス「サイレントヒル」 (KONAMI OFFICIAL BOOKS)",
+      "url": "https://bookmeter.com/books/421027",
+      "author": "山下 定",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E4%B8%8B+%E5%AE%9A",
+      "thumb": "https://m.media-amazon.com/images/I/41XKaWZ5YJL._SL500_.jpg",
+      "date": "2012/11/12"
+    },
+    {
+      "no": 3,
+      "title": "ケルベロス 鋼鉄の猟犬 (幻冬舎文庫)",
+      "url": "https://bookmeter.com/books/5534421",
+      "author": "押井 守",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8A%BC%E4%BA%95+%E5%AE%88",
+      "thumb": "https://m.media-amazon.com/images/I/519WGCoYlpL._SL500_.jpg",
+      "date": "2012/11/07"
+    },
+    {
+      "no": 4,
+      "title": "刺青殺人事件 新装版 (光文社文庫)",
+      "url": "https://bookmeter.com/books/523696",
+      "author": "高木 彬光",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%9C%A8+%E5%BD%AC%E5%85%89",
+      "thumb": "https://m.media-amazon.com/images/I/51Y4+gOwSfL._SL500_.jpg",
+      "date": "2012/11/07"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

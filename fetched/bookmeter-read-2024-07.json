@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "1日1分読むだけで身につくお金大全100",
+      "url": "https://bookmeter.com/books/19112611",
+      "author": "頼藤 太希,高山 一恵",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A0%BC%E8%97%A4+%E5%A4%AA%E5%B8%8C%2C%E9%AB%98%E5%B1%B1+%E4%B8%80%E6%81%B5",
+      "thumb": "https://m.media-amazon.com/images/I/51DVolG-R4L._SL500_.jpg",
+      "date": "2024/07/21"
+    },
+    {
+      "no": 2,
+      "title": "HOW FINANCE WORKS ハーバード・ビジネス・スクール ファイナンス講座",
+      "url": "https://bookmeter.com/books/15221638",
+      "author": "ミヒル・A・デサイ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%83%92%E3%83%AB%E3%83%BBA%E3%83%BB%E3%83%87%E3%82%B5%E3%82%A4",
+      "thumb": "https://m.media-amazon.com/images/I/310a3sav2oL._SL500_.jpg",
+      "date": "2024/07/20"
+    },
+    {
+      "no": 3,
+      "title": "１冊目に読みたい DXの教科書 (なるほど図解)",
+      "url": "https://bookmeter.com/books/20068271",
+      "author": "荒瀬光宏",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E7%80%AC%E5%85%89%E5%AE%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51QuZ4hGWLL._SL500_.jpg",
+      "date": "2024/07/20"
+    },
+    {
+      "no": 4,
+      "title": "お金の知恵は45歳までに身につけなさい",
+      "url": "https://bookmeter.com/books/4774368",
+      "author": "山崎 俊輔",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%B4%8E+%E4%BF%8A%E8%BC%94",
+      "thumb": "https://m.media-amazon.com/images/I/51iF74eAV3L._SL500_.jpg",
+      "date": "2024/07/10"
+    },
+    {
+      "no": 5,
+      "title": "おおもりこもりてんこもり (ポプラちいさなおはなし)",
+      "url": "https://bookmeter.com/books/462884",
+      "author": "藤 真知子",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4+%E7%9C%9F%E7%9F%A5%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51+u8FErh7L._SL500_.jpg",
+      "date": "2024/07/10"
+    },
+    {
+      "no": 6,
+      "title": "ウォーキングの科学 10歳若返る、本当に効果的な歩き方 (ブルーバックス 2113)",
+      "url": "https://bookmeter.com/books/14497778",
+      "author": "能勢 博",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%83%BD%E5%8B%A2+%E5%8D%9A",
+      "thumb": "https://m.media-amazon.com/images/I/41zOInr8KIL._SL500_.jpg",
+      "date": "2024/07/10"
+    },
+    {
+      "no": 7,
+      "title": "ペンギンたくはいびん (どうわがいっぱい 60)",
+      "url": "https://bookmeter.com/books/462772",
+      "author": "斉藤 洋",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%89%E8%97%A4+%E6%B4%8B",
+      "thumb": "https://m.media-amazon.com/images/I/41h42+xxxGL._SL500_.jpg",
+      "date": "2024/07/06"
+    },
+    {
+      "no": 8,
+      "title": "ヨハネスブルグの天使たち (ハヤカワSFシリーズ Jコレクション)",
+      "url": "https://bookmeter.com/books/6767289",
+      "author": "宮内悠介",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E5%86%85%E6%82%A0%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/41jrcHgGSEL._SL500_.jpg",
+      "date": "2024/07/06"
+    },
+    {
+      "no": 9,
+      "title": "にほんごを まなぶ えほん (1) はじめまして・きいてみよう",
+      "url": "https://bookmeter.com/books/18607755",
+      "author": "スーザン ももこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%83%BC%E3%82%B6%E3%83%B3+%E3%82%82%E3%82%82%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/51w7RgUUMYL._SL500_.jpg",
+      "date": "2024/07/06"
+    },
+    {
+      "no": 10,
+      "title": "ジュマンジ",
+      "url": "https://bookmeter.com/books/464976",
+      "author": "クリス・ヴァン・オールズバーグ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC%E3%82%B0",
+      "thumb": "https://m.media-amazon.com/images/I/31NHJVFQ3HL._SL500_.jpg",
+      "date": "2024/07/06"
+    },
+    {
+      "no": 11,
+      "title": "ぼくはアイスクリーム博士",
+      "url": "https://bookmeter.com/books/12778299",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51t7VLeBnQL._SL500_.jpg",
+      "date": "2024/07/06"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

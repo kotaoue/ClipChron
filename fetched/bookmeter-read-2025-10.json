@@ -1,0 +1,117 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "学研まんがでよくわかるシリーズ９９　コンピュータのひみつ",
+      "url": "https://bookmeter.com/books/9754690",
+      "author": "ひろゆうこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%B2%E3%82%8D%E3%82%86%E3%81%86%E3%81%93",
+      "thumb": "https://bookmeter.com/images/common/book.png",
+      "date": "2025/10/24"
+    },
+    {
+      "no": 2,
+      "title": "かあさんうさぎと金のくつ (児童書)",
+      "url": "https://bookmeter.com/books/19529575",
+      "author": "デュボース・ヘイワード,いしぞねりえ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%83%A5%E3%83%9C%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%98%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%89%2C%E3%81%84%E3%81%97%E3%81%9E%E3%81%AD%E3%82%8A%E3%81%88",
+      "thumb": "https://m.media-amazon.com/images/I/413n1qpxi4L._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 3,
+      "title": "もしもトイレがなかったら (ちしきのもり)",
+      "url": "https://bookmeter.com/books/16915876",
+      "author": "加藤 篤",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8A%A0%E8%97%A4+%E7%AF%A4",
+      "thumb": "https://m.media-amazon.com/images/I/41DsBYqflrL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 4,
+      "title": "魔法の庭ものがたり１０　わがまま姫と魔法のバラ (ポプラ物語館)",
+      "url": "https://bookmeter.com/books/4256052",
+      "author": "あんびるやすこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%82%E3%82%93%E3%81%B3%E3%82%8B%E3%82%84%E3%81%99%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/61tjJ-Ln+yL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 5,
+      "title": "魔女のマジョランさん ケンタの世界一まずいクッキー (GO!GO!ブックス 6)",
+      "url": "https://bookmeter.com/books/21204196",
+      "author": "石井 睦美",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E4%BA%95+%E7%9D%A6%E7%BE%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51LkP8OQXfL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 6,
+      "title": "まじょのナニーさん 空とぶメリーゴーラウンド (単行本)",
+      "url": "https://bookmeter.com/books/20019765",
+      "author": "藤 真知子",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4+%E7%9C%9F%E7%9F%A5%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51f39NIuI1L._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 7,
+      "title": "もしもトイレがなかったら (ちしきのもり)",
+      "url": "https://bookmeter.com/books/16915876",
+      "author": "加藤 篤",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8A%A0%E8%97%A4+%E7%AF%A4",
+      "thumb": "https://m.media-amazon.com/images/I/41DsBYqflrL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 8,
+      "title": "ひるもよるも名探偵 (ミルキー杉山のあなたも名探偵)",
+      "url": "https://bookmeter.com/books/494164",
+      "author": "杉山 亮",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%89%E5%B1%B1+%E4%BA%AE",
+      "thumb": "https://m.media-amazon.com/images/I/51hllgAAMWL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 9,
+      "title": "決定版・ゲームの神様 横井軍平のことば (P-Vine Books)",
+      "url": "https://bookmeter.com/books/5341662",
+      "author": "横井軍平",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A8%AA%E4%BA%95%E8%BB%8D%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41EtRETfWPL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 10,
+      "title": "脳に収まるコードの書き方 ―複雑さを避け持続可能にするための経験則とテクニック",
+      "url": "https://bookmeter.com/books/21968383",
+      "author": "Mark Seemann",
+      "authorUrl": "https://bookmeter.com/search?author=Mark+Seemann",
+      "thumb": "https://m.media-amazon.com/images/I/41-D9lxwVcL._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 11,
+      "title": "GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ",
+      "url": "https://bookmeter.com/books/21468656",
+      "author": "千田 和央",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%83%E7%94%B0+%E5%92%8C%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/41CD9znIR+L._SL500_.jpg",
+      "date": "2025/10/13"
+    },
+    {
+      "no": 12,
+      "title": "幸せになる坐禅 誰でも5分でできる脱ストレス禅セラピー",
+      "url": "https://bookmeter.com/books/17932439",
+      "author": "藤井 隆英",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%A4%E4%BA%95+%E9%9A%86%E8%8B%B1",
+      "thumb": "https://m.media-amazon.com/images/I/51U4LWoP+IS._SL500_.jpg",
+      "date": "2025/10/13"
+    }
+  ],
+  "count": 12,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

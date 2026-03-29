@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Twelve Y.O. (講談社文庫 ふ 59-1)",
+      "url": "https://bookmeter.com/books/569984",
+      "author": "福井 晴敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A6%8F%E4%BA%95+%E6%99%B4%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51JBSO-EoKL._SL500_.jpg",
+      "date": "2010/04/29"
+    },
+    {
+      "no": 2,
+      "title": "SKET DANCE 13 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566279",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51XZppoKCFL._SL500_.jpg",
+      "date": "2010/04/17"
+    },
+    {
+      "no": 3,
+      "title": "SKET DANCE 12 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/566294",
+      "author": "篠原 健太",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AF%A0%E5%8E%9F+%E5%81%A5%E5%A4%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51osv4taDKL._SL500_.jpg",
+      "date": "2010/04/17"
+    },
+    {
+      "no": 4,
+      "title": "鴨川ホルモー (角川文庫)",
+      "url": "https://bookmeter.com/books/579034",
+      "author": "万城目 学",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%87%E5%9F%8E%E7%9B%AE+%E5%AD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/516JxEl0Z2L._SL500_.jpg",
+      "date": "2010/04/12"
+    },
+    {
+      "no": 5,
+      "title": "シブすぎ技術に男泣き!",
+      "url": "https://bookmeter.com/books/564513",
+      "author": "見ル野 栄司",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%A6%8B%E3%83%AB%E9%87%8E+%E6%A0%84%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51P3CHTNy+L._SL500_.jpg",
+      "date": "2010/04/09"
+    },
+    {
+      "no": 6,
+      "title": "町長選挙 (文春文庫 お 38-3)",
+      "url": "https://bookmeter.com/books/580582",
+      "author": "奥田 英朗",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A5%A5%E7%94%B0+%E8%8B%B1%E6%9C%97",
+      "thumb": "https://m.media-amazon.com/images/I/518s-Qu-sxL._SL500_.jpg",
+      "date": "2010/04/09"
+    },
+    {
+      "no": 7,
+      "title": "黒薔薇アリス (2) (プリンセスコミックス)",
+      "url": "https://bookmeter.com/books/577726",
+      "author": "水城 せとな",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E5%9F%8E+%E3%81%9B%E3%81%A8%E3%81%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51PkDSsMO-L._SL500_.jpg",
+      "date": "2010/04/09"
+    },
+    {
+      "no": 8,
+      "title": "黒薔薇アリス (1) (プリンセスコミックス)",
+      "url": "https://bookmeter.com/books/577724",
+      "author": "水城 せとな",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E5%9F%8E+%E3%81%9B%E3%81%A8%E3%81%AA",
+      "thumb": "https://m.media-amazon.com/images/I/51wF3obJAxL._SL500_.jpg",
+      "date": "2010/04/09"
+    }
+  ],
+  "count": 8,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ゲームニクスとは何か: 日本発、世界基準のものづくり法則 (幻冬舎新書 さ 3-1)",
+      "url": "https://bookmeter.com/books/106644",
+      "author": "サイトウ アキヒロ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A6+%E3%82%A2%E3%82%AD%E3%83%92%E3%83%AD",
+      "thumb": "https://m.media-amazon.com/images/I/41xDlPaqw5L._SL500_.jpg",
+      "date": "2019/04/21"
+    },
+    {
+      "no": 2,
+      "title": "半径1メートルの想像力 サブカル時代の子ども若者",
+      "url": "https://bookmeter.com/books/8128216",
+      "author": "山崎 鎮親",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%B4%8E+%E9%8E%AE%E8%A6%AA",
+      "thumb": "https://m.media-amazon.com/images/I/61YHsP2FwrL._SL500_.jpg",
+      "date": "2019/04/18"
+    },
+    {
+      "no": 3,
+      "title": "ボードゲーム デザイナー ガイドブック 〜ボードゲーム デザイナーを目指す人への実践的なアドバイス",
+      "url": "https://bookmeter.com/books/12813862",
+      "author": "トム・ヴェルネック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%A0%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51CYdMi9VNL._SL500_.jpg",
+      "date": "2019/04/07"
+    },
+    {
+      "no": 4,
+      "title": "スーパーベターになろう!",
+      "url": "https://bookmeter.com/books/9964002",
+      "author": "ジェイン マクゴニガル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%B3+%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51a21XrAtoL._SL500_.jpg",
+      "date": "2019/04/07"
+    },
+    {
+      "no": 5,
+      "title": "理系のための法律入門 第2版 デキる社会人に不可欠な知識と倫理 (ブルーバックス 1958)",
+      "url": "https://bookmeter.com/books/10232684",
+      "author": "井野邊 陽",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%95%E9%87%8E%E9%82%8A+%E9%99%BD",
+      "thumb": "https://m.media-amazon.com/images/I/41Z0Jmgo6+L._SL500_.jpg",
+      "date": "2019/04/06"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

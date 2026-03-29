@@ -1,0 +1,126 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "〈世界〉はそもそもデタラメである (ダ・ヴィンチブックス)",
+      "url": "https://bookmeter.com/books/479286",
+      "author": "宮台 真司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E5%8F%B0+%E7%9C%9F%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/4148XbMPTNL._SL500_.jpg",
+      "date": "2012/07/31"
+    },
+    {
+      "no": 2,
+      "title": "笑うな (新潮文庫)",
+      "url": "https://bookmeter.com/books/576177",
+      "author": "筒井 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%92%E4%BA%95+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/41+MtKIcXoL._SL500_.jpg",
+      "date": "2012/07/23"
+    },
+    {
+      "no": 3,
+      "title": "リングサイド プロレスから見えるアメリカ文化の真実",
+      "url": "https://bookmeter.com/books/57144",
+      "author": "スコット・M・ビークマン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BBM%E3%83%BB%E3%83%93%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41qu2yop2xL._SL500_.jpg",
+      "date": "2012/07/16"
+    },
+    {
+      "no": 4,
+      "title": "わかりやすい野球のルール (Sports series)",
+      "url": "https://bookmeter.com/books/142950",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51iIi0fNLPL._SL500_.jpg",
+      "date": "2012/07/16"
+    },
+    {
+      "no": 5,
+      "title": "鬼太郎夜話 (ちくま文庫 み 4-16 水木しげる妖怪まんが集 8)",
+      "url": "https://bookmeter.com/books/444312",
+      "author": "水木 しげる",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B0%B4%E6%9C%A8+%E3%81%97%E3%81%92%E3%82%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51NswhL90nL._SL500_.jpg",
+      "date": "2012/07/16"
+    },
+    {
+      "no": 6,
+      "title": "伝染歌 (講談社文庫)",
+      "url": "https://bookmeter.com/books/372127",
+      "author": "秋元 康",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A7%8B%E5%85%83+%E5%BA%B7",
+      "thumb": "https://m.media-amazon.com/images/I/41RpKGzYn+L._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 7,
+      "title": "思想地図β vol.2 震災以後",
+      "url": "https://bookmeter.com/books/4061470",
+      "author": "東浩紀,津田大介,和合亮一,藤村龍至,佐々木俊尚,竹熊健太郎,八代嘉美,猪瀬直樹,村上隆,鈴木謙介,福嶋亮大,浅子佳英,石垣のりこ,瀬名秀明,中川恵一,新津保建秀",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%B1%E6%B5%A9%E7%B4%80%2C%E6%B4%A5%E7%94%B0%E5%A4%A7%E4%BB%8B%2C%E5%92%8C%E5%90%88%E4%BA%AE%E4%B8%80%2C%E8%97%A4%E6%9D%91%E9%BE%8D%E8%87%B3%2C%E4%BD%90%E3%80%85%E6%9C%A8%E4%BF%8A%E5%B0%9A%2C%E7%AB%B9%E7%86%8A%E5%81%A5%E5%A4%AA%E9%83%8E%2C%E5%85%AB%E4%BB%A3%E5%98%89%E7%BE%8E%2C%E7%8C%AA%E7%80%AC%E7%9B%B4%E6%A8%B9%2C%E6%9D%91%E4%B8%8A%E9%9A%86%2C%E9%88%B4%E6%9C%A8%E8%AC%99%E4%BB%8B%2C%E7%A6%8F%E5%B6%8B%E4%BA%AE%E5%A4%A7%2C%E6%B5%85%E5%AD%90%E4%BD%B3%E8%8B%B1%2C%E7%9F%B3%E5%9E%A3%E3%81%AE%E3%82%8A%E3%81%93%2C%E7%80%AC%E5%90%8D%E7%A7%80%E6%98%8E%2C%E4%B8%AD%E5%B7%9D%E6%81%B5%E4%B8%80%2C%E6%96%B0%E6%B4%A5%E4%BF%9D%E5%BB%BA%E7%A7%80",
+      "thumb": "https://m.media-amazon.com/images/I/51mrkiMeL2L._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 8,
+      "title": "エディプスの恋人 (新潮文庫)",
+      "url": "https://bookmeter.com/books/575393",
+      "author": "筒井 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%92%E4%BA%95+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/61PZRgh3TyL._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 9,
+      "title": "七瀬ふたたび (新潮文庫)",
+      "url": "https://bookmeter.com/books/575390",
+      "author": "筒井 康隆",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%AD%92%E4%BA%95+%E5%BA%B7%E9%9A%86",
+      "thumb": "https://m.media-amazon.com/images/I/519wa-wpQlL._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 10,
+      "title": "DCユニバース：レガシーズ　Vol.2 (DC COMICS)",
+      "url": "https://bookmeter.com/books/4735149",
+      "author": "レン・ウェイン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/610FNogf7cL._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 11,
+      "title": "DCユニバース：レガシーズ　Vol.1",
+      "url": "https://bookmeter.com/books/4668464",
+      "author": "レン・ウェイン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61seQT8qXxL._SL500_.jpg",
+      "date": "2012/07/08"
+    },
+    {
+      "no": 12,
+      "title": "トリプルプレイ助悪郎 (講談社ノベルス ニJ- 19)",
+      "url": "https://bookmeter.com/books/556107",
+      "author": "西尾 維新",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%A5%BF%E5%B0%BE+%E7%B6%AD%E6%96%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51N7dq62qAL._SL500_.jpg",
+      "date": "2012/07/02"
+    },
+    {
+      "no": 13,
+      "title": "野茂英雄: 日米の野球をどう変えたか (PHP新書 714)",
+      "url": "https://bookmeter.com/books/2308652",
+      "author": "ロバート ホワイティング",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+      "thumb": "https://m.media-amazon.com/images/I/41zbEbyK99L._SL500_.jpg",
+      "date": "2012/07/01"
+    }
+  ],
+  "count": 13,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

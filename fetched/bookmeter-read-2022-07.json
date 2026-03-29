@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "平成ゴジラ クロニクル",
+      "url": "https://bookmeter.com/books/284984",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51ZXj26dZrL._SL500_.jpg",
+      "date": "2022/07/31"
+    },
+    {
+      "no": 2,
+      "title": "IT用語図鑑[エンジニア編] 開発・Web制作で知っておきたい頻出キーワード256",
+      "url": "https://bookmeter.com/books/18407980",
+      "author": "増井 敏克",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A2%97%E4%BA%95+%E6%95%8F%E5%85%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51AUO1gp-eL._SL500_.jpg",
+      "date": "2022/07/31"
+    },
+    {
+      "no": 3,
+      "title": "ディズニープリンセス",
+      "url": "https://bookmeter.com/books/18647600",
+      "author": "チャールズ・ソロモン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%BD%E3%83%AD%E3%83%A2%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51FRFiy93NL._SL500_.jpg",
+      "date": "2022/07/31"
+    },
+    {
+      "no": 4,
+      "title": "東京星空散歩",
+      "url": "https://bookmeter.com/books/466390",
+      "author": "林 完次",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9E%97+%E5%AE%8C%E6%AC%A1",
+      "thumb": "https://m.media-amazon.com/images/I/41Ca8WhIBVL._SL500_.jpg",
+      "date": "2022/07/23"
+    },
+    {
+      "no": 5,
+      "title": "I Will Not Ever Never Eat a Tomato (Charlie and Lola)",
+      "url": "https://bookmeter.com/books/4588298",
+      "author": "Lauren Child",
+      "authorUrl": "https://bookmeter.com/search?author=Lauren+Child",
+      "thumb": "https://m.media-amazon.com/images/I/71P4JDTFC0L._SL500_.gif",
+      "date": "2022/07/18"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

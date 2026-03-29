@@ -1,0 +1,99 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "不調が消えて、身体が整うセルフケア大全",
+      "url": "https://bookmeter.com/books/20954718",
+      "author": "小柳弐魄",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E6%9F%B3%E5%BC%90%E9%AD%84",
+      "thumb": "https://m.media-amazon.com/images/I/51FrXARhQjL._SL500_.jpg",
+      "date": "2024/05/26"
+    },
+    {
+      "no": 2,
+      "title": "アイデアのつくり方",
+      "url": "https://bookmeter.com/books/104675",
+      "author": "ジェームス W.ヤング",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9+W.%E3%83%A4%E3%83%B3%E3%82%B0",
+      "thumb": "https://m.media-amazon.com/images/I/51cWVtqch8L._SL500_.jpg",
+      "date": "2024/05/21"
+    },
+    {
+      "no": 3,
+      "title": "世界「失敗」製品図鑑 「攻めた失敗」20例でわかる成功への近道",
+      "url": "https://bookmeter.com/books/18633741",
+      "author": "荒木 博行",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E6%9C%A8+%E5%8D%9A%E8%A1%8C",
+      "thumb": "https://m.media-amazon.com/images/I/518e2wMeEkL._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 4,
+      "title": "あなたも脱出できる 脱出ゲームのすべて",
+      "url": "https://bookmeter.com/books/19696287",
+      "author": "L・E・ホール",
+      "authorUrl": "https://bookmeter.com/search?author=L%E3%83%BBE%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41AMoYqh1ML._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 5,
+      "title": "もりのおべんとうやさん (もりはおもしろランド 9)",
+      "url": "https://bookmeter.com/books/457891",
+      "author": "舟崎 靖子",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%88%9F%E5%B4%8E+%E9%9D%96%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/61LDTu+WGtL._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 6,
+      "title": "まいごの ワンちゃん あずかってます",
+      "url": "https://bookmeter.com/books/5502113",
+      "author": "アダム ストーワー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%80%E3%83%A0+%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AF%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51QQjy9+B-L._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 7,
+      "title": "運動が得意になる! 体育のコツ絵事典 かけっこから鉄ぼう・球技まで",
+      "url": "https://bookmeter.com/books/6862370",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51FE1KziyCS._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 8,
+      "title": "トーキョー ドリーム マラソン (講談社の創作絵本シリーズ)",
+      "url": "https://bookmeter.com/books/15059078",
+      "author": "コマヤスカン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B3%E3%83%9E%E3%83%A4%E3%82%B9%E3%82%AB%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61cGIz7zVUL._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 9,
+      "title": "夜をまもる騎士　アウル",
+      "url": "https://bookmeter.com/books/20458215",
+      "author": "クリストファー・デニス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%87%E3%83%8B%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51Pl6Ha0AhL._SL500_.jpg",
+      "date": "2024/05/05"
+    },
+    {
+      "no": 10,
+      "title": "akinoichigoの簡単！絵本のおべんとう (みんなのレシピ)",
+      "url": "https://bookmeter.com/books/4601911",
+      "author": "稲熊 由夏",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A8%B2%E7%86%8A+%E7%94%B1%E5%A4%8F",
+      "thumb": "https://m.media-amazon.com/images/I/5135WOgFnuL._SL500_.jpg",
+      "date": "2024/05/05"
+    }
+  ],
+  "count": 10,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

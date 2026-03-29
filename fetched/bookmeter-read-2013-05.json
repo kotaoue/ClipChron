@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "iPhone\u0026amp;Androidアプリ内課金プログラミング完全ガイド (Smart Mobile Developer)",
+      "url": "https://bookmeter.com/books/5612672",
+      "author": "佐藤 航陽,加藤 勝也,瀬戸 健二,日高 正博",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E8%97%A4+%E8%88%AA%E9%99%BD%2C%E5%8A%A0%E8%97%A4+%E5%8B%9D%E4%B9%9F%2C%E7%80%AC%E6%88%B8+%E5%81%A5%E4%BA%8C%2C%E6%97%A5%E9%AB%98+%E6%AD%A3%E5%8D%9A",
+      "thumb": "https://m.media-amazon.com/images/I/51rAyrFhl6L._SL500_.jpg",
+      "date": "2013/05/27"
+    },
+    {
+      "no": 2,
+      "title": "ゲームの作り方 Unityで覚える遊びのアルゴリズム",
+      "url": "https://bookmeter.com/books/6417268",
+      "author": "加藤 政樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8A%A0%E8%97%A4+%E6%94%BF%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51OblTnXS+L._SL500_.jpg",
+      "date": "2013/05/27"
+    },
+    {
+      "no": 3,
+      "title": "本当は知らない: 薬屋探偵妖綺談 (講談社ノベルス タT- 7)",
+      "url": "https://bookmeter.com/books/557114",
+      "author": "高里 椎奈",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8C+%E6%A4%8E%E5%A5%88",
+      "thumb": "https://m.media-amazon.com/images/I/51IIFWMuyEL._SL500_.jpg",
+      "date": "2013/05/27"
+    },
+    {
+      "no": 4,
+      "title": "緑陰の雨灼けた月: 薬屋探偵妖綺談 (講談社ノベルス タT- 5)",
+      "url": "https://bookmeter.com/books/557110",
+      "author": "高里 椎奈",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8C+%E6%A4%8E%E5%A5%88",
+      "thumb": "https://m.media-amazon.com/images/I/41RxjLGb7bL._SL500_.jpg",
+      "date": "2013/05/07"
+    },
+    {
+      "no": 5,
+      "title": "鬱ごはん(1) (ヤングチャンピオン烈コミックス)",
+      "url": "https://bookmeter.com/books/6516633",
+      "author": "施川ユウキ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%BD%E5%B7%9D%E3%83%A6%E3%82%A6%E3%82%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51l7nEFpKzL._SL500_.jpg",
+      "date": "2013/05/04"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "シリコンバレーの英語　スタートアップ天国のしくみ",
+      "url": "https://bookmeter.com/books/9772536",
+      "author": "ロッシェル・カップ,スティーブン・ガンツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AD%E3%83%83%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%83%E3%83%97%2C%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/51B0FOLnivL._SL500_.jpg",
+      "date": "2020/03/30"
+    },
+    {
+      "no": 2,
+      "title": "Penguin Readers: Level 2 THE SCARLET LETTER",
+      "url": "https://bookmeter.com/books/1014400",
+      "author": "Nathaniel Hawthorne",
+      "authorUrl": "https://bookmeter.com/search?author=Nathaniel+Hawthorne",
+      "thumb": "https://m.media-amazon.com/images/I/51Kl8xichwL._SL500_.jpg",
+      "date": "2020/03/30"
+    },
+    {
+      "no": 3,
+      "title": "問題解決力とコーディング力を鍛える 英語のいろは",
+      "url": "https://bookmeter.com/books/13223350",
+      "author": "鈴木 達矢",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E9%81%94%E7%9F%A2",
+      "thumb": "https://m.media-amazon.com/images/I/41DulsWXGtL._SL500_.jpg",
+      "date": "2020/03/28"
+    },
+    {
+      "no": 4,
+      "title": "シャオミ 爆買いを生む戦略",
+      "url": "https://bookmeter.com/books/9924139",
+      "author": "黎万強",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%BB%8E%E4%B8%87%E5%BC%B7",
+      "thumb": "https://m.media-amazon.com/images/I/51QqanNPqaL._SL500_.jpg",
+      "date": "2020/03/01"
+    },
+    {
+      "no": 5,
+      "title": "FQ JAPAN \u0026lt;2020春号\u0026gt; 特集「男性の育休」入門 (VOL.54)",
+      "url": "https://bookmeter.com/books/15479365",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51pQTAV31eL._SL500_.jpg",
+      "date": "2020/03/01"
+    }
+  ],
+  "count": 5,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

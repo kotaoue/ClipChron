@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "コロロギ岳から木星トロヤへ (ハヤカワ文庫 JA オ 6-20)",
+      "url": "https://bookmeter.com/books/6569369",
+      "author": "小川 一水",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E5%B7%9D+%E4%B8%80%E6%B0%B4",
+      "thumb": "https://m.media-amazon.com/images/I/51aTtN8unxL._SL500_.jpg",
+      "date": "2015/06/27"
+    },
+    {
+      "no": 2,
+      "title": "本日も　独りでできるもん",
+      "url": "https://bookmeter.com/books/610437",
+      "author": "森下えみこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E4%B8%8B%E3%81%88%E3%81%BF%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/41+58EkVCTL._SL500_.jpg",
+      "date": "2015/06/13"
+    },
+    {
+      "no": 3,
+      "title": "これからの「正義」の話をしよう (ハヤカワ・ノンフィクション文庫)",
+      "url": "https://bookmeter.com/books/4343571",
+      "author": "マイケル サンデル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB+%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51YrDFZXSEL._SL500_.jpg",
+      "date": "2015/06/10"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

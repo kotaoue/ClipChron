@@ -1,0 +1,162 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "七つの大罪(3) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/6800415",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/6148-CVeQ+L._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 2,
+      "title": "七つの大罪(2) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/6515754",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/61xSfHH7KDL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 3,
+      "title": "七つの大罪(1) (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/6085234",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/61EoriFSI0L._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 4,
+      "title": "空手小公子物語(2) (ヤンマガKCスペシャル)",
+      "url": "https://bookmeter.com/books/6544903",
+      "author": "馬場 康誌",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A6%AC%E5%A0%B4+%E5%BA%B7%E8%AA%8C",
+      "thumb": "https://m.media-amazon.com/images/I/51flu0WZ9GL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 5,
+      "title": "バキ外伝 創面 1 (少年チャンピオン・コミックスエクストラ)",
+      "url": "https://bookmeter.com/books/5829786",
+      "author": "板垣 恵介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BF%E5%9E%A3+%E6%81%B5%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51EpyDNs5rL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 6,
+      "title": "エクゾスカル零 4 (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/6459550",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/5189JMzgYHL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 7,
+      "title": "エクゾスカル零 3 (チャンピオンREDコミックス)",
+      "url": "https://bookmeter.com/books/5220537",
+      "author": "山口 貴由",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3+%E8%B2%B4%E7%94%B1",
+      "thumb": "https://m.media-amazon.com/images/I/61KGhXaCkjL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 8,
+      "title": "血界戦線 7 ―マクロの決死圏― (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/6807201",
+      "author": "内藤 泰弘",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E8%97%A4+%E6%B3%B0%E5%BC%98",
+      "thumb": "https://m.media-amazon.com/images/I/51QYJdx1d+L._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 9,
+      "title": "さよなら絶望先生 第30集 (少年マガジンコミックス)",
+      "url": "https://bookmeter.com/books/5220548",
+      "author": "久米田 康治",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B9%85%E7%B1%B3%E7%94%B0+%E5%BA%B7%E6%B2%BB",
+      "thumb": "https://m.media-amazon.com/images/I/51MWU36ajQL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 10,
+      "title": "修羅の門 第弐門(9) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/6515171",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51mJKJai8BL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 11,
+      "title": "修羅の門 第弐門(8) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/5753549",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51cqc+eFa9L._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 12,
+      "title": "修羅の門 第弐門(7) (月刊マガジンコミックス)",
+      "url": "https://bookmeter.com/books/5442297",
+      "author": "川原 正敏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%8E%9F+%E6%AD%A3%E6%95%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51MfcSx+wRL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 13,
+      "title": "巫鎖呱 MISAKO 1 (ヤングジャンプコミックス)",
+      "url": "https://bookmeter.com/books/6800140",
+      "author": "柴田 ヨクサル",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9F%B4%E7%94%B0+%E3%83%A8%E3%82%AF%E3%82%B5%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51Wu5QRsmKL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 14,
+      "title": "日本・現代・美術",
+      "url": "https://bookmeter.com/books/473254",
+      "author": "椹木 野衣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A4%B9%E6%9C%A8+%E9%87%8E%E8%A1%A3",
+      "thumb": "https://m.media-amazon.com/images/I/21o7GdF6-dL._SL500_.jpg",
+      "date": "2013/06/23"
+    },
+    {
+      "no": 15,
+      "title": "服従の心理 改訂版新装: アイヒマン実験 (河出・現代の名著)",
+      "url": "https://bookmeter.com/books/523891",
+      "author": "スタンレー ミルグラム",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC+%E3%83%9F%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%A0",
+      "thumb": "https://m.media-amazon.com/images/I/41erJ0ckfBL._SL500_.jpg",
+      "date": "2013/06/12"
+    },
+    {
+      "no": 16,
+      "title": "ようこそ地球さん (新潮文庫)",
+      "url": "https://bookmeter.com/books/573938",
+      "author": "星 新一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%98%9F+%E6%96%B0%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51KzAtEzpaL._SL500_.jpg",
+      "date": "2013/06/12"
+    },
+    {
+      "no": 17,
+      "title": "キリンヤガ (ハヤカワ文庫 SF レ 3-4)",
+      "url": "https://bookmeter.com/books/425370",
+      "author": "マイク レズニック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%82%A4%E3%82%AF+%E3%83%AC%E3%82%BA%E3%83%8B%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51-kB35aKvL._SL500_.jpg",
+      "date": "2013/06/12"
+    }
+  ],
+  "count": 17,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

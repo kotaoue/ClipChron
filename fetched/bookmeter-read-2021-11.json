@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "知ったかぶりキリスト教入門 イエス・聖書・教会の基本の教養99 (幻冬舎新書)",
+      "url": "https://bookmeter.com/books/12471515",
+      "author": "中村 圭志",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%9D%91+%E5%9C%AD%E5%BF%97",
+      "thumb": "https://m.media-amazon.com/images/I/41wEH4Fq24L._SL500_.jpg",
+      "date": "2021/11/28"
+    },
+    {
+      "no": 2,
+      "title": "名僧のことばでわかる仏教入門 (宝島社新書)",
+      "url": "https://bookmeter.com/books/17187625",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51mrXo6lDVL._SL500_.jpg",
+      "date": "2021/11/28"
+    },
+    {
+      "no": 3,
+      "title": "ずっと受けたかったソフトウェアエンジニアリングの新人研修 第3版 エンジニアになったら押さえておきたい基礎知識",
+      "url": "https://bookmeter.com/books/13265960",
+      "author": "飯村 結香子,大森 久美子,西原 琢夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A3%AF%E6%9D%91+%E7%B5%90%E9%A6%99%E5%AD%90%2C%E5%A4%A7%E6%A3%AE+%E4%B9%85%E7%BE%8E%E5%AD%90%2C%E8%A5%BF%E5%8E%9F+%E7%90%A2%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/510z2oHftQL._SL500_.jpg",
+      "date": "2021/11/14"
+    },
+    {
+      "no": 4,
+      "title": "自分のタイプを理解すればマネジメントは成功する",
+      "url": "https://bookmeter.com/books/6497188",
+      "author": "デボラ・ザック,Devora Zack",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%83%9C%E3%83%A9%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AF%2CDevora+Zack",
+      "thumb": "https://m.media-amazon.com/images/I/41v6RmksmUL._SL500_.jpg",
+      "date": "2021/11/14"
+    },
+    {
+      "no": 5,
+      "title": "お寺と神社の作法ブック: 冠婚葬祭とお参りのマナ-",
+      "url": "https://bookmeter.com/books/78462",
+      "author": "田中 治郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%94%B0%E4%B8%AD+%E6%B2%BB%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41+o8OCPHeL._SL500_.jpg",
+      "date": "2021/11/14"
+    },
+    {
+      "no": 6,
+      "title": "クマと森のピアノ",
+      "url": "https://bookmeter.com/books/12374553",
+      "author": "デイビッド リッチフィールド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89+%E3%83%AA%E3%83%83%E3%83%81%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/51WW8kjnaNL._SL500_.jpg",
+      "date": "2021/11/03"
+    },
+    {
+      "no": 7,
+      "title": "Ark",
+      "url": "https://bookmeter.com/books/634061",
+      "author": "Arthur Geisert",
+      "authorUrl": "https://bookmeter.com/search?author=Arthur+Geisert",
+      "thumb": "https://m.media-amazon.com/images/I/51R7QD3M6VL._SL500_.jpg",
+      "date": "2021/11/03"
+    },
+    {
+      "no": 8,
+      "title": "David Gets in Trouble",
+      "url": "https://bookmeter.com/books/183961",
+      "author": "David Shannon",
+      "authorUrl": "https://bookmeter.com/search?author=David+Shannon",
+      "thumb": "https://m.media-amazon.com/images/I/51vJyW6GHQL._SL500_.jpg",
+      "date": "2021/11/01"
+    },
+    {
+      "no": 9,
+      "title": "初めて リーダーになったあなたへ",
+      "url": "https://bookmeter.com/books/11069215",
+      "author": "中沢 薫",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%B2%A2+%E8%96%AB",
+      "thumb": "https://m.media-amazon.com/images/I/31owytj575L._SL500_.jpg",
+      "date": "2021/11/01"
+    },
+    {
+      "no": 10,
+      "title": "[改訂新版]正規表現ポケットリファレンス",
+      "url": "https://bookmeter.com/books/10140303",
+      "author": "宮前 竜也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E5%89%8D+%E7%AB%9C%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51HyDS0oPuL._SL500_.jpg",
+      "date": "2021/11/01"
+    },
+    {
+      "no": 11,
+      "title": "Team Geek ―Googleのギークたちはいかにしてチームを作るのか",
+      "url": "https://bookmeter.com/books/6972469",
+      "author": "Brian W. Fitzpatrick,Ben Collins-Sussman",
+      "authorUrl": "https://bookmeter.com/search?author=Brian+W.+Fitzpatrick%2CBen+Collins-Sussman",
+      "thumb": "https://m.media-amazon.com/images/I/41SlY0zvpKL._SL500_.jpg",
+      "date": "2021/11/01"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

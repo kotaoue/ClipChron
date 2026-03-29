@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "新装版 現代訳 職業としての学問",
+      "url": "https://bookmeter.com/books/11549298",
+      "author": "マックス・ウェーバー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%90%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/51x9p0luljL._SL500_.jpg",
+      "date": "2021/02/27"
+    },
+    {
+      "no": 2,
+      "title": "演奏者のための はじめてのボディ・マッピング",
+      "url": "https://bookmeter.com/books/12094906",
+      "author": "ナガイ カヤノ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%8A%E3%82%AC%E3%82%A4+%E3%82%AB%E3%83%A4%E3%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41lh52HhvaL._SL500_.jpg",
+      "date": "2021/02/21"
+    },
+    {
+      "no": 3,
+      "title": "メモで身につく日常英語",
+      "url": "https://bookmeter.com/books/645970",
+      "author": "リサ・ヴォート",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%82%B5%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%88",
+      "thumb": "https://m.media-amazon.com/images/I/51--iF0o3LL._SL500_.jpg",
+      "date": "2021/02/21"
+    },
+    {
+      "no": 4,
+      "title": "ひきたよしあきの親塾　家庭で育てる国語の力",
+      "url": "https://bookmeter.com/books/14159364",
+      "author": "ひきたよしあき",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%B2%E3%81%8D%E3%81%9F%E3%82%88%E3%81%97%E3%81%82%E3%81%8D",
+      "thumb": "https://m.media-amazon.com/images/I/61c+6SdUT0L._SL500_.jpg",
+      "date": "2021/02/21"
+    },
+    {
+      "no": 5,
+      "title": "Stories from Shakespeare (Penguin Active Readers, Level 3)",
+      "url": "https://bookmeter.com/books/461068",
+      "author": "William Shakespeare",
+      "authorUrl": "https://bookmeter.com/search?author=William+Shakespeare",
+      "thumb": "https://m.media-amazon.com/images/I/41wtUw8E5kL._SL500_.jpg",
+      "date": "2021/02/13"
+    },
+    {
+      "no": 6,
+      "title": "ドメイン駆動設計入門 ボトムアップでわかる! ドメイン駆動設計の基本",
+      "url": "https://bookmeter.com/books/15032536",
+      "author": "成瀬 允宣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%90%E7%80%AC+%E5%85%81%E5%AE%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51E+hPktiQL._SL500_.jpg",
+      "date": "2021/02/13"
+    },
+    {
+      "no": 7,
+      "title": "Zen Shorts",
+      "url": "https://bookmeter.com/books/4656131",
+      "author": "Jon J. Muth",
+      "authorUrl": "https://bookmeter.com/search?author=Jon+J.+Muth",
+      "thumb": "https://m.media-amazon.com/images/I/51I0EjTbYyL._SL500_.jpg",
+      "date": "2021/02/11"
+    },
+    {
+      "no": 8,
+      "title": "Wolves",
+      "url": "https://bookmeter.com/books/362043",
+      "author": "Emily Gravett",
+      "authorUrl": "https://bookmeter.com/search?author=Emily+Gravett",
+      "thumb": "https://m.media-amazon.com/images/I/41774TG108L._SL500_.jpg",
+      "date": "2021/02/11"
+    }
+  ],
+  "count": 8,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

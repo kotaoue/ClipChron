@@ -1,0 +1,90 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "たった１分で「信頼できる人」になる！　自己紹介の鉄則 (ビジネス鉄則シリーズ)",
+      "url": "https://bookmeter.com/books/4742929",
+      "author": "新田 龍",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%96%B0%E7%94%B0+%E9%BE%8D",
+      "thumb": "https://m.media-amazon.com/images/I/41yCJx754DL._SL500_.jpg",
+      "date": "2024/06/29"
+    },
+    {
+      "no": 2,
+      "title": "世界でいちばんやさしい　教養の教科書［人文・社会の教養］ (Re Series)",
+      "url": "https://bookmeter.com/books/20557228",
+      "author": "児玉克順",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%85%90%E7%8E%89%E5%85%8B%E9%A0%86",
+      "thumb": "https://m.media-amazon.com/images/I/51CTCi1O4EL._SL500_.jpg",
+      "date": "2024/06/23"
+    },
+    {
+      "no": 3,
+      "title": "ベーシックインカム",
+      "url": "https://bookmeter.com/books/14354634",
+      "author": "井上 真偽",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%95%E4%B8%8A+%E7%9C%9F%E5%81%BD",
+      "thumb": "https://m.media-amazon.com/images/I/41l2m1mQyXL._SL500_.jpg",
+      "date": "2024/06/23"
+    },
+    {
+      "no": 4,
+      "title": "きょうしつはおばけがいっぱい (どっきん!がいっぱい 1)",
+      "url": "https://bookmeter.com/books/9823311",
+      "author": "さとう まきこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%95%E3%81%A8%E3%81%86+%E3%81%BE%E3%81%8D%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/61mc8JX5E6L._SL500_.jpg",
+      "date": "2024/06/23"
+    },
+    {
+      "no": 5,
+      "title": "ボクと子ネコと飛行船 (PHPとっておきのどうわ)",
+      "url": "https://bookmeter.com/books/3168219",
+      "author": "南部　和也",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8D%97%E9%83%A8%E3%80%80%E5%92%8C%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51y8kklKxgL._SL500_.jpg",
+      "date": "2024/06/23"
+    },
+    {
+      "no": 6,
+      "title": "こんな おおきな かず、みたこと ある?",
+      "url": "https://bookmeter.com/books/14946925",
+      "author": "セス・フィッシュマン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%BB%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51fXBMPXpjL._SL500_.jpg",
+      "date": "2024/06/23"
+    },
+    {
+      "no": 7,
+      "title": "きょうしつはおばけがいっぱい (どっきん!がいっぱい 1)",
+      "url": "https://bookmeter.com/books/9823311",
+      "author": "さとう まきこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%95%E3%81%A8%E3%81%86+%E3%81%BE%E3%81%8D%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/61mc8JX5E6L._SL500_.jpg",
+      "date": "2024/06/16"
+    },
+    {
+      "no": 8,
+      "title": "超入門! ニッポンのまちのしくみ「なぜ?どうして?」がわかる本",
+      "url": "https://bookmeter.com/books/13559940",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51r650KqVGL._SL500_.jpg",
+      "date": "2024/06/02"
+    },
+    {
+      "no": 9,
+      "title": "イデアの再臨 (新潮文庫nex こ 77-2)",
+      "url": "https://bookmeter.com/books/21903801",
+      "author": "五条　紀夫",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BA%94%E6%9D%A1%E3%80%80%E7%B4%80%E5%A4%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51RY1YjPxgL._SL500_.jpg",
+      "date": "2024/06/02"
+    }
+  ],
+  "count": 9,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

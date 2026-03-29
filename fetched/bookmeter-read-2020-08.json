@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "Design It! ―プログラマーのためのアーキテクティング入門",
+      "url": "https://bookmeter.com/books/14608839",
+      "author": "Michael Keeling",
+      "authorUrl": "https://bookmeter.com/search?author=Michael+Keeling",
+      "thumb": "https://m.media-amazon.com/images/I/41mh-cIewpL._SL500_.jpg",
+      "date": "2020/08/30"
+    },
+    {
+      "no": 2,
+      "title": "Penguin Readers: Level 2 APOLLO 13 (Penguin Readers, Level 2)",
+      "url": "https://bookmeter.com/books/189273",
+      "author": "Dina Anastasio",
+      "authorUrl": "https://bookmeter.com/search?author=Dina+Anastasio",
+      "thumb": "https://m.media-amazon.com/images/I/419J1wCOKUL._SL500_.jpg",
+      "date": "2020/08/30"
+    },
+    {
+      "no": 3,
+      "title": "プログラマーのためのVisual Studio Codeの教科書 (Compass Booksシリーズ)",
+      "url": "https://bookmeter.com/books/15867191",
+      "author": "川崎 庸市,平岡 一成,阿佐 志保",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B7%9D%E5%B4%8E+%E5%BA%B8%E5%B8%82%2C%E5%B9%B3%E5%B2%A1+%E4%B8%80%E6%88%90%2C%E9%98%BF%E4%BD%90+%E5%BF%97%E4%BF%9D",
+      "thumb": "https://m.media-amazon.com/images/I/51ddC1lV+aL._SL500_.jpg",
+      "date": "2020/08/27"
+    },
+    {
+      "no": 4,
+      "title": "プロトタイプシティ 深センと世界的イノベーション",
+      "url": "https://bookmeter.com/books/16109594",
+      "author": "高須 正和,高口 康太,澤田 翔,藤岡 淳一,伊藤 亜聖,山形 浩生",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%A0%88+%E6%AD%A3%E5%92%8C%2C%E9%AB%98%E5%8F%A3+%E5%BA%B7%E5%A4%AA%2C%E6%BE%A4%E7%94%B0+%E7%BF%94%2C%E8%97%A4%E5%B2%A1+%E6%B7%B3%E4%B8%80%2C%E4%BC%8A%E8%97%A4+%E4%BA%9C%E8%81%96%2C%E5%B1%B1%E5%BD%A2+%E6%B5%A9%E7%94%9F",
+      "thumb": "https://m.media-amazon.com/images/I/41BRJk1CXWL._SL500_.jpg",
+      "date": "2020/08/27"
+    },
+    {
+      "no": 5,
+      "title": "Penguin Readers: Level 2 THE BIRDS (Penguin Readers (Graded Readers))",
+      "url": "https://bookmeter.com/books/651170",
+      "author": "Daphne Du Maurier",
+      "authorUrl": "https://bookmeter.com/search?author=Daphne+Du+Maurier",
+      "thumb": "https://m.media-amazon.com/images/I/517fC+bn7PL._SL500_.jpg",
+      "date": "2020/08/25"
+    },
+    {
+      "no": 6,
+      "title": "GitHub Actions 実践入門 (技術の泉シリーズ（NextPublishing）)",
+      "url": "https://bookmeter.com/books/16132545",
+      "author": "宮田 淳平",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E7%94%B0+%E6%B7%B3%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51+RwQG08XL._SL500_.jpg",
+      "date": "2020/08/19"
+    },
+    {
+      "no": 7,
+      "title": "アジャイルサムライ−達人開発者への道−",
+      "url": "https://bookmeter.com/books/4011251",
+      "author": "Jonathan Rasmusson",
+      "authorUrl": "https://bookmeter.com/search?author=Jonathan+Rasmusson",
+      "thumb": "https://m.media-amazon.com/images/I/51flKufOVUL._SL500_.jpg",
+      "date": "2020/08/15"
+    },
+    {
+      "no": 8,
+      "title": "さわって学ぶクラウドインフラ　docker基礎からのコンテナ構築",
+      "url": "https://bookmeter.com/books/16135808",
+      "author": "大澤 文孝,浅居 尚",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E6%BE%A4+%E6%96%87%E5%AD%9D%2C%E6%B5%85%E5%B1%85+%E5%B0%9A",
+      "thumb": "https://m.media-amazon.com/images/I/51bj0LcD-YL._SL500_.jpg",
+      "date": "2020/08/14"
+    },
+    {
+      "no": 9,
+      "title": "Penguin Readers: Level 2 DRAGONHEART",
+      "url": "https://bookmeter.com/books/705253",
+      "author": "Joanna Strange",
+      "authorUrl": "https://bookmeter.com/search?author=Joanna+Strange",
+      "thumb": "https://m.media-amazon.com/images/I/41Nus2u+8lL._SL500_.jpg",
+      "date": "2020/08/10"
+    },
+    {
+      "no": 10,
+      "title": "Penguin Readers: Level 2 Three Short Stories of Sherlock Holmes (Penguin Readers, Level 2)",
+      "url": "https://bookmeter.com/books/370650",
+      "author": "Arthur Conan Doyle",
+      "authorUrl": "https://bookmeter.com/search?author=Arthur+Conan+Doyle",
+      "thumb": "https://m.media-amazon.com/images/I/51UYdrm845L._SL500_.jpg",
+      "date": "2020/08/10"
+    },
+    {
+      "no": 11,
+      "title": "遊☆戯☆王OCG パーフェクトルールブック 2020 (Vジャンプブックス(書籍))",
+      "url": "https://bookmeter.com/books/15540453",
+      "author": "Vジャンプ編集部",
+      "authorUrl": "https://bookmeter.com/search?author=V%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8",
+      "thumb": "https://m.media-amazon.com/images/I/51NMSujS7QL._SL500_.jpg",
+      "date": "2020/08/10"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,315 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "しろたん: ふわふわなまいにち",
+      "url": "https://bookmeter.com/books/143936",
+      "author": "やまだ えま",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%84%E3%81%BE%E3%81%A0+%E3%81%88%E3%81%BE",
+      "thumb": "https://m.media-amazon.com/images/I/41dI56QihjL._SL500_.jpg",
+      "date": "2009/08/31"
+    },
+    {
+      "no": 2,
+      "title": "ハチミツとクローバー 10 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575587",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/514KyaFFltL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 3,
+      "title": "ハチミツとクローバー 9 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575586",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/411fymxSeuL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 4,
+      "title": "ハチミツとクローバー 8 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575585",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51mPzF0MHuL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 5,
+      "title": "ハチミツとクローバー 7 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575584",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/510cBGjyOvL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 6,
+      "title": "ハチミツとクローバー 6 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575583",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51w-FzXvmXL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 7,
+      "title": "ハチミツとクローバー 5 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575582",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51R38ysS-pL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 8,
+      "title": "ハチミツとクローバー 4 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575580",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/51vlIlhJ95L._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 9,
+      "title": "ハチミツとクローバー 3 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575579",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41dw+KtZO+L._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 10,
+      "title": "ハチミツとクローバー 2 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575578",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41m7QQ4GASL._SL500_.jpg",
+      "date": "2009/08/29"
+    },
+    {
+      "no": 11,
+      "title": "赤緑黒白 (講談社文庫 も 28-24)",
+      "url": "https://bookmeter.com/books/567062",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/515QWC9WNJL._SL500_.jpg",
+      "date": "2009/08/28"
+    },
+    {
+      "no": 12,
+      "title": "ハチミツとクローバー 1 (クイーンズコミックス)",
+      "url": "https://bookmeter.com/books/575576",
+      "author": "羽海野 チカ",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%BE%BD%E6%B5%B7%E9%87%8E+%E3%83%81%E3%82%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41GvS944JsL._SL500_.jpg",
+      "date": "2009/08/28"
+    },
+    {
+      "no": 13,
+      "title": "朽ちる散る落ちる (講談社文庫 も 28-23)",
+      "url": "https://bookmeter.com/books/567060",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51ZG1QQA7AL._SL500_.jpg",
+      "date": "2009/08/27"
+    },
+    {
+      "no": 14,
+      "title": "捩れ屋敷の利鈍 (講談社文庫 も 28-22)",
+      "url": "https://bookmeter.com/books/566934",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/515E7E5RJEL._SL500_.jpg",
+      "date": "2009/08/27"
+    },
+    {
+      "no": 15,
+      "title": "六人の超音波科学者 (講談社文庫 も 28-21)",
+      "url": "https://bookmeter.com/books/566933",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51jyXVP1kXL._SL500_.jpg",
+      "date": "2009/08/25"
+    },
+    {
+      "no": 16,
+      "title": "ウェブはバカと暇人のもの (光文社新書 399)",
+      "url": "https://bookmeter.com/books/155226",
+      "author": "中川淳一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E5%B7%9D%E6%B7%B3%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/315BlG9HtpL._SL500_.jpg",
+      "date": "2009/08/22"
+    },
+    {
+      "no": 17,
+      "title": "恋恋蓮歩の演習 (講談社文庫 も 28-20)",
+      "url": "https://bookmeter.com/books/566931",
+      "author": "森 博嗣",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E5%8D%9A%E5%97%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51iUjU8omzL._SL500_.jpg",
+      "date": "2009/08/18"
+    },
+    {
+      "no": 18,
+      "title": "戦略PR 空気をつくる。世論で売る。 (アスキー新書 94)",
+      "url": "https://bookmeter.com/books/555630",
+      "author": "本田 哲也",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%AC%E7%94%B0+%E5%93%B2%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/41Zq81FhquL._SL500_.jpg",
+      "date": "2009/08/18"
+    },
+    {
+      "no": 19,
+      "title": "世界は分けてもわからない (講談社現代新書 2000)",
+      "url": "https://bookmeter.com/books/568913",
+      "author": "福岡伸一",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A6%8F%E5%B2%A1%E4%BC%B8%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/41t0pmbwrzL._SL500_.jpg",
+      "date": "2009/08/13"
+    },
+    {
+      "no": 20,
+      "title": "嫌われない毒舌のすすめ (ベスト新書 240)",
+      "url": "https://bookmeter.com/books/207120",
+      "author": "有吉 弘行",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9C%89%E5%90%89+%E5%BC%98%E8%A1%8C",
+      "thumb": "https://m.media-amazon.com/images/I/41SbyZ9RgDL._SL500_.jpg",
+      "date": "2009/08/13"
+    },
+    {
+      "no": 21,
+      "title": "バクマン。 4 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/580337",
+      "author": "大場 つぐみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E5%A0%B4+%E3%81%A4%E3%81%90%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51Sow4w5pJL._SL500_.jpg",
+      "date": "2009/08/13"
+    },
+    {
+      "no": 22,
+      "title": "カンナ 飛鳥の光臨 (講談社ノベルス タS- 24)",
+      "url": "https://bookmeter.com/books/527466",
+      "author": "高田 崇史",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E7%94%B0+%E5%B4%87%E5%8F%B2",
+      "thumb": "https://m.media-amazon.com/images/I/51xgs8NmhRL._SL500_.jpg",
+      "date": "2009/08/10"
+    },
+    {
+      "no": 23,
+      "title": "龍の花わずらい 7 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/503718",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/610DIXfoYcL._SL500_.jpg",
+      "date": "2009/08/10"
+    },
+    {
+      "no": 24,
+      "title": "龍の花わずらい 6 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/503716",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51raY8Jj6SL._SL500_.jpg",
+      "date": "2009/08/10"
+    },
+    {
+      "no": 25,
+      "title": "龍の花わずらい 5 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/576695",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51KlQTVcVoL._SL500_.jpg",
+      "date": "2009/08/10"
+    },
+    {
+      "no": 26,
+      "title": "龍の花わずらい 4 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/576694",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51N1DfkSiXL._SL500_.jpg",
+      "date": "2009/08/09"
+    },
+    {
+      "no": 27,
+      "title": "龍の花わずらい 3 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/576693",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51amDKNzBLL._SL500_.jpg",
+      "date": "2009/08/09"
+    },
+    {
+      "no": 28,
+      "title": "龍の花わずらい 2 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/576692",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51059GA322L._SL500_.jpg",
+      "date": "2009/08/08"
+    },
+    {
+      "no": 29,
+      "title": "龍の花わずらい 1 (花とゆめCOMICS)",
+      "url": "https://bookmeter.com/books/576691",
+      "author": "草川 為",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%89%E5%B7%9D+%E7%82%BA",
+      "thumb": "https://m.media-amazon.com/images/I/31mjr9C5L9L._SL500_.jpg",
+      "date": "2009/08/08"
+    },
+    {
+      "no": 30,
+      "title": "グーグルに勝つ広告モデル (光文社新書 349)",
+      "url": "https://bookmeter.com/books/105470",
+      "author": "岡本一郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B2%A1%E6%9C%AC%E4%B8%80%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41RWnyPaS0L._SL500_.jpg",
+      "date": "2009/08/06"
+    },
+    {
+      "no": 31,
+      "title": "なつこ、孤島に囚われ (祥伝社文庫 に 5-1)",
+      "url": "https://bookmeter.com/books/545810",
+      "author": "西澤 保彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%A5%BF%E6%BE%A4+%E4%BF%9D%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51iXkMxQpGL._SL500_.jpg",
+      "date": "2009/08/06"
+    },
+    {
+      "no": 32,
+      "title": "悪魔のいる天国 (新潮文庫)",
+      "url": "https://bookmeter.com/books/572272",
+      "author": "星 新一",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%98%9F+%E6%96%B0%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51M3nUdTdLL._SL500_.jpg",
+      "date": "2009/08/03"
+    },
+    {
+      "no": 33,
+      "title": "WiiRemoteプログラミング",
+      "url": "https://bookmeter.com/books/220367",
+      "author": "白井 暁彦,小坂 崇之,くるくる研究室,木村 秀敬",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%99%BD%E4%BA%95+%E6%9A%81%E5%BD%A6%2C%E5%B0%8F%E5%9D%82+%E5%B4%87%E4%B9%8B%2C%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E7%A0%94%E7%A9%B6%E5%AE%A4%2C%E6%9C%A8%E6%9D%91+%E7%A7%80%E6%95%AC",
+      "thumb": "https://m.media-amazon.com/images/I/51dt1H-3WKL._SL500_.jpg",
+      "date": "2009/08/03"
+    },
+    {
+      "no": 34,
+      "title": "フリーペーパーの衝撃 (集英社新書 424B)",
+      "url": "https://bookmeter.com/books/105299",
+      "author": "稲垣 太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A8%B2%E5%9E%A3+%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/31NsI1xfLJL._SL500_.jpg",
+      "date": "2009/08/03"
+    }
+  ],
+  "count": 34,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

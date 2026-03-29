@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "なぜ働くのか (TEDブックス)",
+      "url": "https://bookmeter.com/books/11710285",
+      "author": "バリー・シュワルツ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%90%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AF%E3%83%AB%E3%83%84",
+      "thumb": "https://m.media-amazon.com/images/I/51lbYWlc7CL._SL500_.jpg",
+      "date": "2019/02/24"
+    },
+    {
+      "no": 2,
+      "title": "若さを伸ばすストレッチ (平凡社新書)",
+      "url": "https://bookmeter.com/books/401164",
+      "author": "伊藤 マモル",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BC%8A%E8%97%A4+%E3%83%9E%E3%83%A2%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41wjKzWdv7L._SL500_.jpg",
+      "date": "2019/02/23"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

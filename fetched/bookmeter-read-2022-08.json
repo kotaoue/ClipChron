@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "I Love Animals",
+      "url": "https://bookmeter.com/books/20157423",
+      "author": "Flora McDonnell",
+      "authorUrl": "https://bookmeter.com/search?author=Flora+McDonnell",
+      "thumb": "https://m.media-amazon.com/images/I/415Ms0ocFvL._SL500_.jpg",
+      "date": "2022/08/14"
+    },
+    {
+      "no": 2,
+      "title": "成田亨作品集",
+      "url": "https://bookmeter.com/books/8185211",
+      "author": "成田亨",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%90%E7%94%B0%E4%BA%A8",
+      "thumb": "https://m.media-amazon.com/images/I/5182mLLMSxS._SL500_.jpg",
+      "date": "2022/08/14"
+    },
+    {
+      "no": 3,
+      "title": "チロ愛死",
+      "url": "https://bookmeter.com/books/646264",
+      "author": "荒木 経惟",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E6%9C%A8+%E7%B5%8C%E6%83%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51F1XfKZb6L._SL500_.jpg",
+      "date": "2022/08/14"
+    }
+  ],
+  "count": 3,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

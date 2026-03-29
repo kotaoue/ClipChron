@@ -1,0 +1,207 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "テーブルマナーの絵本",
+      "url": "https://bookmeter.com/books/4343568",
+      "author": "高野 紀子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E9%87%8E+%E7%B4%80%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51nr95kexyL._SL500_.jpg",
+      "date": "2025/12/27"
+    },
+    {
+      "no": 2,
+      "title": "デザイン思考２．０　人生と仕事を変える「発想術」 (小学館新書 440)",
+      "url": "https://bookmeter.com/books/20540659",
+      "author": "松本 勝",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E6%9C%AC+%E5%8B%9D",
+      "thumb": "https://m.media-amazon.com/images/I/5187Uci6npL._SL500_.jpg",
+      "date": "2025/12/25"
+    },
+    {
+      "no": 3,
+      "title": "紙のひみつ（学研まんがでよくわかるシリーズ）",
+      "url": "https://bookmeter.com/books/4073862",
+      "author": "おぎの　ひとし",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%8A%E3%81%8E%E3%81%AE%E3%80%80%E3%81%B2%E3%81%A8%E3%81%97",
+      "thumb": "https://bookmeter.com/images/common/book.png",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 4,
+      "title": "AIを生んだ100のSF (ハヤカワ新書)",
+      "url": "https://bookmeter.com/books/21861869",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41fv3YEzJ+L._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 5,
+      "title": "図書館探偵団 (調べる学習百科)",
+      "url": "https://bookmeter.com/books/22813916",
+      "author": "柴田 こずえ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9F%B4%E7%94%B0+%E3%81%93%E3%81%9A%E3%81%88",
+      "thumb": "https://m.media-amazon.com/images/I/51t1QGZNphL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 6,
+      "title": "海洋堂レゾネ",
+      "url": "https://bookmeter.com/books/301748",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51r6aPNroaL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 7,
+      "title": "おかしのヒミツ研究所: 科学でわかるおいしさのナゾ",
+      "url": "https://bookmeter.com/books/22647828",
+      "author": "3時のおやつ科学機構",
+      "authorUrl": "https://bookmeter.com/search?author=3%E6%99%82%E3%81%AE%E3%81%8A%E3%82%84%E3%81%A4%E7%A7%91%E5%AD%A6%E6%A9%9F%E6%A7%8B",
+      "thumb": "https://m.media-amazon.com/images/I/61yFvA06xkL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 8,
+      "title": "はじめてでもかんたん!小学生のヘアアレンジ",
+      "url": "https://bookmeter.com/books/22692314",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51WZQTRO8GL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 9,
+      "title": "クリスマスツリーをかざろうよ",
+      "url": "https://bookmeter.com/books/16660191",
+      "author": "トミー デ パオラ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%88%E3%83%9F%E3%83%BC+%E3%83%87+%E3%83%91%E3%82%AA%E3%83%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51ZXcnNXIwL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 10,
+      "title": "ボールペンでかんたん! プチかわいいイラストが描ける本 (コツがわかる本!)",
+      "url": "https://bookmeter.com/books/4505710",
+      "author": "カモ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AB%E3%83%A2",
+      "thumb": "https://m.media-amazon.com/images/I/51EuW8JotpL._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 11,
+      "title": "ナイトメア-・ビフォア・クリスマス",
+      "url": "https://bookmeter.com/books/104536",
+      "author": "ティム・バートン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/61IpCU3jF3L._SL500_.jpg",
+      "date": "2025/12/23"
+    },
+    {
+      "no": 12,
+      "title": "カプセルトイのひみつ(学研まんがでよくわかるシリーズ185)",
+      "url": "https://bookmeter.com/books/20630108",
+      "author": "梅屋敷 ミタ、入澤 宣幸、スリーシーズン",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A2%85%E5%B1%8B%E6%95%B7+%E3%83%9F%E3%82%BF%E3%80%81%E5%85%A5%E6%BE%A4+%E5%AE%A3%E5%B9%B8%E3%80%81%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3",
+      "thumb": "https://img.bookmeter.com/book_image/SL300/383/1673167687192628.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 13,
+      "title": "じしんのえほん: こんなときどうするの?",
+      "url": "https://bookmeter.com/books/141086",
+      "author": "国崎 信江",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%9B%BD%E5%B4%8E+%E4%BF%A1%E6%B1%9F",
+      "thumb": "https://m.media-amazon.com/images/I/61YBX756THL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 14,
+      "title": "えんとつ町のプペル",
+      "url": "https://bookmeter.com/books/11182248",
+      "author": "にしの あきひろ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%AB%E3%81%97%E3%81%AE+%E3%81%82%E3%81%8D%E3%81%B2%E3%82%8D",
+      "thumb": "https://m.media-amazon.com/images/I/51jb+3GAPbL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 15,
+      "title": "防災教室 過去の災害から学ぶ本",
+      "url": "https://bookmeter.com/books/22772671",
+      "author": "今泉マユ子",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%8A%E6%B3%89%E3%83%9E%E3%83%A6%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/41nhpjLGVPL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 16,
+      "title": "いよっ!えどっこだねぇ NFT特装版",
+      "url": "https://bookmeter.com/books/22690465",
+      "author": "ふくだのぞみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%B5%E3%81%8F%E3%81%A0%E3%81%AE%E3%81%9E%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL500_.gif",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 17,
+      "title": "めんはすごい!: シェフが先生!小学生から使える、子どものためのいろんなめんの料理本",
+      "url": "https://bookmeter.com/books/20451516",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/519OfxqteIL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 18,
+      "title": "いきもの かくれんぼ (いきもの みーつけた)",
+      "url": "https://bookmeter.com/books/12202800",
+      "author": "嶋田 泰子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B6%8B%E7%94%B0+%E6%B3%B0%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/61sN44Ee4uL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 19,
+      "title": "バムとケロのもりのこや",
+      "url": "https://bookmeter.com/books/1930910",
+      "author": "島田 ゆか",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B3%B6%E7%94%B0+%E3%82%86%E3%81%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51LdQN+V2mL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 20,
+      "title": "なぜ、システム開発は必ずモメるのか?",
+      "url": "https://bookmeter.com/books/7240484",
+      "author": "細川 義洋",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%B4%B0%E5%B7%9D+%E7%BE%A9%E6%B4%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51J8RAG4HkL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 21,
+      "title": "語感力事典: 日常会話からネーミングまで",
+      "url": "https://bookmeter.com/books/16470055",
+      "author": "山口謠司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E5%8F%A3%E8%AC%A0%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51a4Km0BmpL._SL500_.jpg",
+      "date": "2025/12/10"
+    },
+    {
+      "no": 22,
+      "title": "ビジネス心理学大全",
+      "url": "https://bookmeter.com/books/16114978",
+      "author": "榎本 博明",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A6%8E%E6%9C%AC+%E5%8D%9A%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51OUGixzhFL._SL500_.jpg",
+      "date": "2025/12/10"
+    }
+  ],
+  "count": 22,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

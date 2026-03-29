@@ -1,0 +1,207 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "料理の四面体 (中公文庫 た 33-22)",
+      "url": "https://bookmeter.com/books/498138",
+      "author": "玉村 豊男",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%8E%89%E6%9D%91+%E8%B1%8A%E7%94%B7",
+      "thumb": "https://m.media-amazon.com/images/I/51B4IIsFE5L._SL500_.jpg",
+      "date": "2026/02/26"
+    },
+    {
+      "no": 2,
+      "title": "いいにおいのおならをうるおとこ",
+      "url": "https://bookmeter.com/books/11185173",
+      "author": "ジル・ビズエルヌ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%AB%E3%83%BB%E3%83%93%E3%82%BA%E3%82%A8%E3%83%AB%E3%83%8C",
+      "thumb": "https://m.media-amazon.com/images/I/61DYYjJWwSL._SL500_.jpg",
+      "date": "2026/02/26"
+    },
+    {
+      "no": 3,
+      "title": "アナグラムで遊ぼう けんじのじけん (言葉で遊ぼう回文・アナグラム 2)",
+      "url": "https://bookmeter.com/books/12713057",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51VPfwAmwoL._SL500_.jpg",
+      "date": "2026/02/26"
+    },
+    {
+      "no": 4,
+      "title": "未来の車のひみつ",
+      "url": "https://bookmeter.com/books/12220353",
+      "author": "おぎのひとし",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%8A%E3%81%8E%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%97",
+      "thumb": "https://img.bookmeter.com/book_image/SL300/183/1502105362870782.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 5,
+      "title": "カードゲームで本当に強くなる考え方 (ちくまプリマー新書 ５０５)",
+      "url": "https://bookmeter.com/books/22883070",
+      "author": "茂里　憲之",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8C%82%E9%87%8C%E3%80%80%E6%86%B2%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51XHfLBqOTL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 6,
+      "title": "東京・横浜どうぶつパン図鑑 (GEIBUN MOOKS)",
+      "url": "https://bookmeter.com/books/12287790",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61NLqukSTmL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 7,
+      "title": "皮ふとぬり薬のひみつ",
+      "url": "https://bookmeter.com/books/22501171",
+      "author": "海野　そら太",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%B7%E9%87%8E%E3%80%80%E3%81%9D%E3%82%89%E5%A4%AA",
+      "thumb": "https://bookmeter.com/images/common/book.png",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 8,
+      "title": "アンソニー・ブラウンの キング・コング",
+      "url": "https://bookmeter.com/books/1219069",
+      "author": "アンソニー・ブラウン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41HK2HjnY7L._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 9,
+      "title": "どうぶつニュ-スの時間 (おはなしパレード)",
+      "url": "https://bookmeter.com/books/462902",
+      "author": "あべ 弘士",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%82%E3%81%B9+%E5%BC%98%E5%A3%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41+PQOMVE0L._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 10,
+      "title": "すてきな恋がいっぱい5つのお話 (きらきら宝石箱)",
+      "url": "https://bookmeter.com/books/1876714",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61i7DFjtqIL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 11,
+      "title": "何度でも行きたい 世界のトイレ",
+      "url": "https://bookmeter.com/books/11095356",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/510yAUfXtEL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 12,
+      "title": "80年代オマケシール大百科",
+      "url": "https://bookmeter.com/books/11679081",
+      "author": "サデスパー堀野",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B5%E3%83%87%E3%82%B9%E3%83%91%E3%83%BC%E5%A0%80%E9%87%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61jlE-pHDtL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 13,
+      "title": "人望力",
+      "url": "https://bookmeter.com/books/17228390",
+      "author": "瀧澤中",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%80%A7%E6%BE%A4%E4%B8%AD",
+      "thumb": "https://m.media-amazon.com/images/I/415WIOWDS6L._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 14,
+      "title": "物語,英語で読んでみない? (岩波ジュニアスタートブックス)",
+      "url": "https://bookmeter.com/books/21586145",
+      "author": "佐藤 和哉",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E8%97%A4+%E5%92%8C%E5%93%89",
+      "thumb": "https://m.media-amazon.com/images/I/41Ik1eHeLAL._SL500_.jpg",
+      "date": "2026/02/21"
+    },
+    {
+      "no": 15,
+      "title": "幸せへのセンサー",
+      "url": "https://bookmeter.com/books/21916952",
+      "author": "吉本 ばなな",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%90%89%E6%9C%AC+%E3%81%B0%E3%81%AA%E3%81%AA",
+      "thumb": "https://m.media-amazon.com/images/I/41xv1Ec760L._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 16,
+      "title": "アジャイルなチームをつくる ふりかえりガイドブック 始め方・ふりかえりの型・手法・マインドセット",
+      "url": "https://bookmeter.com/books/17333782",
+      "author": "森 一樹",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE+%E4%B8%80%E6%A8%B9",
+      "thumb": "https://m.media-amazon.com/images/I/51wpYhLduAL._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 17,
+      "title": "[現代版]絵本 御伽草子 うらしま (絵本御伽草子 現代版)",
+      "url": "https://bookmeter.com/books/9877200",
+      "author": "日和 聡子,ヒグチ ユウコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%97%A5%E5%92%8C+%E8%81%A1%E5%AD%90%2C%E3%83%92%E3%82%B0%E3%83%81+%E3%83%A6%E3%82%A6%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51VMyra6t+L._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 18,
+      "title": "アーロ ねむれないライオン",
+      "url": "https://bookmeter.com/books/18976452",
+      "author": "キャサリン・レイナー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%8A%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/61yuFc8SnqL._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 19,
+      "title": "別冊Discover Japan FOOD ニッポンのパン名鑑 (エイムック 3553 別冊Discover Japan FOOD)",
+      "url": "https://bookmeter.com/books/11245140",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51P+wQLlGNL._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 20,
+      "title": "もっと素敵にもっと楽しく 色えんぴつ画を描こう──質感の出し方、色の作り方完全マスター",
+      "url": "https://bookmeter.com/books/114589",
+      "author": "河合 ひとみ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B2%B3%E5%90%88+%E3%81%B2%E3%81%A8%E3%81%BF",
+      "thumb": "https://m.media-amazon.com/images/I/51DJ2ZMW9WL._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 21,
+      "title": "東京うどんBOOK―全123軒掲載 (散歩の達人テーマ版MOOK)",
+      "url": "https://bookmeter.com/books/4491948",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/31-SzgbATFL._SL500_.jpg",
+      "date": "2026/02/14"
+    },
+    {
+      "no": 22,
+      "title": "イラストで学ぶ　世界を変えたコンピュータの歴史",
+      "url": "https://bookmeter.com/books/20841486",
+      "author": "レイチェル・イグノトフスキー",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AC%E3%82%A4%E3%83%81%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%88%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC",
+      "thumb": "https://m.media-amazon.com/images/I/61gENptkLbL._SL500_.jpg",
+      "date": "2026/02/14"
+    }
+  ],
+  "count": 22,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ニュー・ダーク・エイジ テクノロジーと未来についての10の考察",
+      "url": "https://bookmeter.com/books/13195902",
+      "author": "ジェームズ・ブライドル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/41H4Y2s-ZPL._SL500_.jpg",
+      "date": "2019/11/24"
+    },
+    {
+      "no": 2,
+      "title": "ｅスポーツの法律問題Ｑ＆Ａ─プレイヤー契約から大会運営・ビジネスまで─",
+      "url": "https://bookmeter.com/books/14271639",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51J3lyK1MRS._SL500_.jpg",
+      "date": "2019/11/21"
+    },
+    {
+      "no": 3,
+      "title": "30代からでも身につく メンズファッションの方程式",
+      "url": "https://bookmeter.com/books/12806703",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51XFsciJ-6L._SL500_.jpg",
+      "date": "2019/11/17"
+    },
+    {
+      "no": 4,
+      "title": "ポケモンGOからの問い: 拡張されるリアリティ",
+      "url": "https://bookmeter.com/books/12638106",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41xzTTRfWzL._SL500_.jpg",
+      "date": "2019/11/17"
+    },
+    {
+      "no": 5,
+      "title": "アメリカ人の英語―文化と言葉のまるわかりガイド",
+      "url": "https://bookmeter.com/books/100311",
+      "author": "ディレリ・ボルンダ ジョンストン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%82%A3%E3%83%AC%E3%83%AA%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%B3%E3%83%80+%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%88%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51AX952M5KL._SL500_.jpg",
+      "date": "2019/11/17"
+    },
+    {
+      "no": 6,
+      "title": "Haunted Britain: Haunted Britain Level 1 (Scholastic Elt Readers)",
+      "url": "https://bookmeter.com/books/3418588",
+      "author": "Jane Rollason",
+      "authorUrl": "https://bookmeter.com/search?author=Jane+Rollason",
+      "thumb": "https://m.media-amazon.com/images/I/51R71QU2FeL._SL500_.jpg",
+      "date": "2019/11/17"
+    },
+    {
+      "no": 7,
+      "title": "SEのための図解の技術、文章の技術",
+      "url": "https://bookmeter.com/books/360630",
+      "author": "谷口 功",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%B0%B7%E5%8F%A3+%E5%8A%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51TahQgLfeL._SL500_.jpg",
+      "date": "2019/11/10"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

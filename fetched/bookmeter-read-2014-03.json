@@ -1,0 +1,72 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "NOVA 6---書き下ろし日本ＳＦコレクション (河出文庫)",
+      "url": "https://bookmeter.com/books/4338817",
+      "author": "宮部 みゆき,牧野 修,北野 勇作,斉藤 直子,蘇部 健一,樺山 三英,松崎 有理,高山 羽根子,船戸 一人,七佳 弁京",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AE%AE%E9%83%A8+%E3%81%BF%E3%82%86%E3%81%8D%2C%E7%89%A7%E9%87%8E+%E4%BF%AE%2C%E5%8C%97%E9%87%8E+%E5%8B%87%E4%BD%9C%2C%E6%96%89%E8%97%A4+%E7%9B%B4%E5%AD%90%2C%E8%98%87%E9%83%A8+%E5%81%A5%E4%B8%80%2C%E6%A8%BA%E5%B1%B1+%E4%B8%89%E8%8B%B1%2C%E6%9D%BE%E5%B4%8E+%E6%9C%89%E7%90%86%2C%E9%AB%98%E5%B1%B1+%E7%BE%BD%E6%A0%B9%E5%AD%90%2C%E8%88%B9%E6%88%B8+%E4%B8%80%E4%BA%BA%2C%E4%B8%83%E4%BD%B3+%E5%BC%81%E4%BA%AC",
+      "thumb": "https://m.media-amazon.com/images/I/51USPu0DW3L._SL500_.jpg",
+      "date": "2014/03/17"
+    },
+    {
+      "no": 2,
+      "title": "NOVA 5---書き下ろし日本SFコレクション (河出文庫)",
+      "url": "https://bookmeter.com/books/4015054",
+      "author": "東 浩紀,伊坂 幸太郎,石持 浅海,上田 早夕里,須賀 しのぶ,図子 慧,友成 純一,宮内 悠介",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%B1+%E6%B5%A9%E7%B4%80%2C%E4%BC%8A%E5%9D%82+%E5%B9%B8%E5%A4%AA%E9%83%8E%2C%E7%9F%B3%E6%8C%81+%E6%B5%85%E6%B5%B7%2C%E4%B8%8A%E7%94%B0+%E6%97%A9%E5%A4%95%E9%87%8C%2C%E9%A0%88%E8%B3%80+%E3%81%97%E3%81%AE%E3%81%B6%2C%E5%9B%B3%E5%AD%90+%E6%85%A7%2C%E5%8F%8B%E6%88%90+%E7%B4%94%E4%B8%80%2C%E5%AE%AE%E5%86%85+%E6%82%A0%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51rgAtli+sL._SL500_.jpg",
+      "date": "2014/03/17"
+    },
+    {
+      "no": 3,
+      "title": "サイバネティックSFの誕生: ギリシャ神話から人工知能まで",
+      "url": "https://bookmeter.com/books/327094",
+      "author": "パトリシア・S. ウォリック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BBS.+%E3%82%A6%E3%82%A9%E3%83%AA%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/516BA64XZwL._SL500_.jpg",
+      "date": "2014/03/09"
+    },
+    {
+      "no": 4,
+      "title": "バットマン\u0026amp;ロビン (ShoPro Books)",
+      "url": "https://bookmeter.com/books/7920678",
+      "author": "グラント・モリソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/51PBUxNw2JL._SL500_.jpg",
+      "date": "2014/03/09"
+    },
+    {
+      "no": 5,
+      "title": "日本近代建築の歴史 (岩波現代文庫 社会 111)",
+      "url": "https://bookmeter.com/books/405342",
+      "author": "村松 貞次郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%91%E6%9D%BE+%E8%B2%9E%E6%AC%A1%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/4107J36AFPL._SL500_.jpg",
+      "date": "2014/03/09"
+    },
+    {
+      "no": 6,
+      "title": "オブ・ザ・ベースボール",
+      "url": "https://bookmeter.com/books/566122",
+      "author": "円城 塔",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%86%E5%9F%8E+%E5%A1%94",
+      "thumb": "https://m.media-amazon.com/images/I/41AmvKH2LXL._SL500_.jpg",
+      "date": "2014/03/03"
+    },
+    {
+      "no": 7,
+      "title": "麦撃機の飛ぶ空",
+      "url": "https://bookmeter.com/books/122",
+      "author": "神林長平",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A5%9E%E6%9E%97%E9%95%B7%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41hooX0KALL._SL500_.jpg",
+      "date": "2014/03/03"
+    }
+  ],
+  "count": 7,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

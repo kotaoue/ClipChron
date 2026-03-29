@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "デフレの正体 経済は「人口の波」で動く (角川新書)",
+      "url": "https://bookmeter.com/books/598442",
+      "author": "藻谷　浩介",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%97%BB%E8%B0%B7%E3%80%80%E6%B5%A9%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/31EMGkzP0tL._SL500_.jpg",
+      "date": "2011/01/28"
+    },
+    {
+      "no": 2,
+      "title": "まだ人間じゃない (ハヤカワ文庫 SF テ 1-19 ディック傑作集)",
+      "url": "https://bookmeter.com/books/538187",
+      "author": "フィリップ K.ディック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97+K.%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51R4L4JSAbL._SL500_.jpg",
+      "date": "2011/01/27"
+    },
+    {
+      "no": 3,
+      "title": "石原家の人びと",
+      "url": "https://bookmeter.com/books/549451",
+      "author": "石原 良純",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%9F%B3%E5%8E%9F+%E8%89%AF%E7%B4%94",
+      "thumb": "https://m.media-amazon.com/images/I/51pAvZBYr1L._SL500_.jpg",
+      "date": "2011/01/21"
+    },
+    {
+      "no": 4,
+      "title": "生きている人形",
+      "url": "https://bookmeter.com/books/52505",
+      "author": "ゲイビー・ウッド",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B2%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%A6%E3%83%83%E3%83%89",
+      "thumb": "https://m.media-amazon.com/images/I/51-CcCUwzdL._SL500_.jpg",
+      "date": "2011/01/21"
+    },
+    {
+      "no": 5,
+      "title": "水平線までの距離は何キロか?",
+      "url": "https://bookmeter.com/books/632961",
+      "author": "沢田 功",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B2%A2%E7%94%B0+%E5%8A%9F",
+      "thumb": "https://m.media-amazon.com/images/I/516RGPmKseL._SL500_.jpg",
+      "date": "2011/01/15"
+    },
+    {
+      "no": 6,
+      "title": "史上最強 図解　これならわかる!統計学",
+      "url": "https://bookmeter.com/books/1123795",
+      "author": "涌井 良幸,涌井 貞美",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B6%8C%E4%BA%95+%E8%89%AF%E5%B9%B8%2C%E6%B6%8C%E4%BA%95+%E8%B2%9E%E7%BE%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51SBnoVntOL._SL500_.jpg",
+      "date": "2011/01/15"
+    },
+    {
+      "no": 7,
+      "title": "わたしたちはなぜ科学にだまされるのか―インチキ!ブードゥー・サイエンス",
+      "url": "https://bookmeter.com/books/386763",
+      "author": "ロバート・L. パーク",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BBL.+%E3%83%91%E3%83%BC%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51NCeM-qxBL._SL500_.jpg",
+      "date": "2011/01/15"
+    },
+    {
+      "no": 8,
+      "title": "マーケティング・ハンドブック",
+      "url": "https://bookmeter.com/books/341563",
+      "author": "橋本 博",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A9%8B%E6%9C%AC+%E5%8D%9A",
+      "thumb": "https://m.media-amazon.com/images/I/51FEFXMQ12L._SL500_.jpg",
+      "date": "2011/01/15"
+    },
+    {
+      "no": 9,
+      "title": "日教組 (新潮新書 397)",
+      "url": "https://bookmeter.com/books/1890120",
+      "author": "森口 朗",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%A3%AE%E5%8F%A3+%E6%9C%97",
+      "thumb": "https://m.media-amazon.com/images/I/41eGkggh1nL._SL500_.jpg",
+      "date": "2011/01/11"
+    },
+    {
+      "no": 10,
+      "title": "デジタル時代の著作権 (ちくま新書 867)",
+      "url": "https://bookmeter.com/books/659590",
+      "author": "野口 祐子",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%87%8E%E5%8F%A3+%E7%A5%90%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/41m8q+uA0pL._SL500_.jpg",
+      "date": "2011/01/07"
+    },
+    {
+      "no": 11,
+      "title": "キズナのマーケティング ソーシャルメディアが切り拓くマーケティング新時代 (アスキー新書 147)",
+      "url": "https://bookmeter.com/books/462356",
+      "author": "池田 紀行",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B1%A0%E7%94%B0+%E7%B4%80%E8%A1%8C",
+      "thumb": "https://m.media-amazon.com/images/I/41ytqSLcHpL._SL500_.jpg",
+      "date": "2011/01/04"
+    },
+    {
+      "no": 12,
+      "title": "お客さまの「特別」になる方法 「リレーションシップ・キャピタル」の時代 (角川oneテーマ21 B 138)",
+      "url": "https://bookmeter.com/books/766716",
+      "author": "小阪　裕司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E9%98%AA%E3%80%80%E8%A3%95%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/41n5eHbeoqL._SL500_.jpg",
+      "date": "2011/01/04"
+    },
+    {
+      "no": 13,
+      "title": "Webプロフェッショナルのための黄金則 Webマーケティング/広告戦略のセオリー (Web Designing BOOKS)",
+      "url": "https://bookmeter.com/books/28422",
+      "author": "Catherine Seda",
+      "authorUrl": "https://bookmeter.com/search?author=Catherine+Seda",
+      "thumb": "https://m.media-amazon.com/images/I/518sBiTkgIL._SL500_.jpg",
+      "date": "2011/01/04"
+    },
+    {
+      "no": 14,
+      "title": "ソーシャルメディアマーケティング",
+      "url": "https://bookmeter.com/books/324592",
+      "author": "オガワ カズヒロ(小川 浩・小川 和也)",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%AA%E3%82%AC%E3%83%AF+%E3%82%AB%E3%82%BA%E3%83%92%E3%83%AD%28%E5%B0%8F%E5%B7%9D+%E6%B5%A9%E3%83%BB%E5%B0%8F%E5%B7%9D+%E5%92%8C%E4%B9%9F%29",
+      "thumb": "https://m.media-amazon.com/images/I/519aqKCS0xL._SL500_.jpg",
+      "date": "2011/01/04"
+    },
+    {
+      "no": 15,
+      "title": "はじめての政治哲学――「正しさ」をめぐる23の問い (講談社現代新書 2084)",
+      "url": "https://bookmeter.com/books/1942453",
+      "author": "小川 仁志",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B0%8F%E5%B7%9D+%E4%BB%81%E5%BF%97",
+      "thumb": "https://m.media-amazon.com/images/I/31DMwVBO+CL._SL500_.jpg",
+      "date": "2011/01/04"
+    }
+  ],
+  "count": 15,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

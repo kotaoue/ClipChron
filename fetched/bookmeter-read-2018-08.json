@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "面白くて眠れなくなる宗教学",
+      "url": "https://bookmeter.com/books/12585333",
+      "author": "中村 圭志",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%9D%91+%E5%9C%AD%E5%BF%97",
+      "thumb": "https://m.media-amazon.com/images/I/31jddKYGwmL._SL500_.jpg",
+      "date": "2018/08/19"
+    },
+    {
+      "no": 2,
+      "title": "ひらめき教室 「弱者」のための仕事論 (集英社新書)",
+      "url": "https://bookmeter.com/books/10586820",
+      "author": "松井 優征,佐藤 オオキ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%BE%E4%BA%95+%E5%84%AA%E5%BE%81%2C%E4%BD%90%E8%97%A4+%E3%82%AA%E3%82%AA%E3%82%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51A79CLOC3L._SL500_.jpg",
+      "date": "2018/08/11"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "身体のリアル",
+      "url": "https://bookmeter.com/books/11674764",
+      "author": "押井 守,最上 和子",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%8A%BC%E4%BA%95+%E5%AE%88%2C%E6%9C%80%E4%B8%8A+%E5%92%8C%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51hif62GcsL._SL500_.jpg",
+      "date": "2019/08/30"
+    },
+    {
+      "no": 2,
+      "title": "ヘルシープログラマ ―プログラミングを楽しく続けるための健康Hack",
+      "url": "https://bookmeter.com/books/9781317",
+      "author": "Joe Kutner",
+      "authorUrl": "https://bookmeter.com/search?author=Joe+Kutner",
+      "thumb": "https://m.media-amazon.com/images/I/41-cjB3hLPL._SL500_.jpg",
+      "date": "2019/08/10"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

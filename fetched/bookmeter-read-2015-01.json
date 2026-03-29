@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "寺山修司著作集 第4巻 自叙伝・青春論・幸福論",
+      "url": "https://bookmeter.com/books/247391",
+      "author": "寺山 修司",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AF%BA%E5%B1%B1+%E4%BF%AE%E5%8F%B8",
+      "thumb": "https://m.media-amazon.com/images/I/51L+IbeUKuL._SL500_.jpg",
+      "date": "2015/01/25"
+    },
+    {
+      "no": 2,
+      "title": "モンスターズ: 現代アメリカ傑作短篇集",
+      "url": "https://bookmeter.com/books/8167865",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51TIVbtGltL._SL500_.jpg",
+      "date": "2015/01/25"
+    },
+    {
+      "no": 3,
+      "title": "ダ・ヴィンチ 2015年 02月号 [雑誌]",
+      "url": "https://bookmeter.com/books/9120457",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51L5Km8vd-L._SL500_.jpg",
+      "date": "2015/01/12"
+    },
+    {
+      "no": 4,
+      "title": "鉄壁のフォーメーションがよくわかる 野球 守備事典 (SPORTS LEVEL UP BOOK)",
+      "url": "https://bookmeter.com/books/6638910",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51qKCqQx2uL._SL500_.jpg",
+      "date": "2015/01/12"
+    },
+    {
+      "no": 5,
+      "title": "BD(ベー・デー)―第九の芸術",
+      "url": "https://bookmeter.com/books/653268",
+      "author": "古永 真一",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%8F%A4%E6%B0%B8+%E7%9C%9F%E4%B8%80",
+      "thumb": "https://m.media-amazon.com/images/I/51IWFcngZaL._SL500_.jpg",
+      "date": "2015/01/12"
+    },
+    {
+      "no": 6,
+      "title": "東京発祥の地めぐり (マイナビ文庫)",
+      "url": "https://bookmeter.com/books/7515568",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51vuNJWwN3L._SL500_.jpg",
+      "date": "2015/01/01"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

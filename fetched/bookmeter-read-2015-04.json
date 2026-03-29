@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "SF文学 (文庫クセジュ)",
+      "url": "https://bookmeter.com/books/2138456",
+      "author": "ジャック ボドゥ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF+%E3%83%9C%E3%83%89%E3%82%A5",
+      "thumb": "https://m.media-amazon.com/images/I/31By2RIn8KL._SL500_.jpg",
+      "date": "2015/04/30"
+    }
+  ],
+  "count": 1,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "荒木飛呂彦の奇妙なホラー映画論 (集英社新書)",
+      "url": "https://bookmeter.com/books/3240083",
+      "author": "荒木 飛呂彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E6%9C%A8+%E9%A3%9B%E5%91%82%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51+E514sFXL._SL500_.jpg",
+      "date": "2022/12/29"
+    },
+    {
+      "no": 2,
+      "title": "荒木飛呂彦の超偏愛! 映画の掟 (集英社新書)",
+      "url": "https://bookmeter.com/books/6750200",
+      "author": "荒木 飛呂彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E6%9C%A8+%E9%A3%9B%E5%91%82%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51WZluMVpvL._SL500_.jpg",
+      "date": "2022/12/29"
+    },
+    {
+      "no": 3,
+      "title": "荒木飛呂彦の漫画術 (集英社新書)",
+      "url": "https://bookmeter.com/books/9670689",
+      "author": "荒木 飛呂彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%8D%92%E6%9C%A8+%E9%A3%9B%E5%91%82%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51fRFEoHnfL._SL500_.jpg",
+      "date": "2022/12/28"
+    },
+    {
+      "no": 4,
+      "title": "グッドワークとフロー体験―最高の仕事で社会に貢献する方法",
+      "url": "https://bookmeter.com/books/10473574",
+      "author": "H.ガードナー,M.チクセントミハイ,W.デイモン",
+      "authorUrl": "https://bookmeter.com/search?author=H.%E3%82%AC%E3%83%BC%E3%83%89%E3%83%8A%E3%83%BC%2CM.%E3%83%81%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%9F%E3%83%8F%E3%82%A4%2CW.%E3%83%87%E3%82%A4%E3%83%A2%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/511dNwdkzDL._SL500_.jpg",
+      "date": "2022/12/27"
+    },
+    {
+      "no": 5,
+      "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+      "url": "https://bookmeter.com/books/20332238",
+      "author": "馬田隆明",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%A6%AC%E7%94%B0%E9%9A%86%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/41blKLRSw2L._SL500_.jpg",
+      "date": "2022/12/22"
+    },
+    {
+      "no": 6,
+      "title": "アジャイルリーダーシップ: 変化に適応するアジャイルな組織をつくる",
+      "url": "https://bookmeter.com/books/20226579",
+      "author": "Zuzana Šochová",
+      "authorUrl": "https://bookmeter.com/search?author=Zuzana+%C5%A0ochov%C3%A1",
+      "thumb": "https://m.media-amazon.com/images/I/51dgIkH4lkL._SL500_.jpg",
+      "date": "2022/12/20"
+    }
+  ],
+  "count": 6,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

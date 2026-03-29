@@ -1,0 +1,189 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "ともだちおまじない (おれたち、ともだち!)",
+      "url": "https://bookmeter.com/books/532407",
+      "author": "内田 麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0+%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61zntyeaZpL._SL500_.jpg",
+      "date": "2023/07/30"
+    },
+    {
+      "no": 2,
+      "title": "ようちえんがばけますよ",
+      "url": "https://bookmeter.com/books/4716535",
+      "author": "内田 麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0+%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/51N536kbS0L._SL500_.jpg",
+      "date": "2023/07/30"
+    },
+    {
+      "no": 3,
+      "title": "どうぶつずかん (じぶんでよめる)",
+      "url": "https://bookmeter.com/books/19019488",
+      "author": "成美堂出版編集部",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%90%E7%BE%8E%E5%A0%82%E5%87%BA%E7%89%88%E7%B7%A8%E9%9B%86%E9%83%A8",
+      "thumb": "https://m.media-amazon.com/images/I/51sHSENRDdL._SL500_.jpg",
+      "date": "2023/07/30"
+    },
+    {
+      "no": 4,
+      "title": "Maps Special Edition",
+      "url": "https://bookmeter.com/books/13564283",
+      "author": "Aleksandra and Daniel Mizielinski",
+      "authorUrl": "https://bookmeter.com/search?author=Aleksandra+and+Daniel+Mizielinski",
+      "thumb": "https://m.media-amazon.com/images/I/61Hasg5IItL._SL500_.jpg",
+      "date": "2023/07/26"
+    },
+    {
+      "no": 5,
+      "title": "恐れのない組織――「心理的安全性」が学習・イノベーション・成長をもたらす",
+      "url": "https://bookmeter.com/books/17309021",
+      "author": "エイミー・C・エドモンドソン",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A8%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%BBC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%A2%E3%83%B3%E3%83%89%E3%82%BD%E3%83%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41Clu8zuP5L._SL500_.jpg",
+      "date": "2023/07/26"
+    },
+    {
+      "no": 6,
+      "title": "情報のみかた",
+      "url": "https://bookmeter.com/books/171602",
+      "author": "山田 奨治",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E7%94%B0+%E5%A5%A8%E6%B2%BB",
+      "thumb": "https://m.media-amazon.com/images/I/51B1DZX9ENL._SL500_.jpg",
+      "date": "2023/07/22"
+    },
+    {
+      "no": 7,
+      "title": "かえるの哲学",
+      "url": "https://bookmeter.com/books/17631390",
+      "author": "アーノルド・ローベル",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%99%E3%83%AB",
+      "thumb": "https://m.media-amazon.com/images/I/410+opcOilL._SL500_.jpg",
+      "date": "2023/07/22"
+    },
+    {
+      "no": 8,
+      "title": "もりのこびとたち (世界傑作絵本シリーズ―スウェーデンの絵本)",
+      "url": "https://bookmeter.com/books/132005",
+      "author": "エルサ・ベスコフ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%BB%E3%83%99%E3%82%B9%E3%82%B3%E3%83%95",
+      "thumb": "https://m.media-amazon.com/images/I/51x-0R5TIoL._SL500_.jpg",
+      "date": "2023/07/22"
+    },
+    {
+      "no": 9,
+      "title": "くじらのうた",
+      "url": "https://bookmeter.com/books/407375",
+      "author": "デイヴィッド ルーカス",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%87%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89+%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9",
+      "thumb": "https://m.media-amazon.com/images/I/512Jthc3VHL._SL500_.jpg",
+      "date": "2023/07/22"
+    },
+    {
+      "no": 10,
+      "title": "ともだちおまじない (おれたち、ともだち!)",
+      "url": "https://bookmeter.com/books/532407",
+      "author": "内田 麟太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%86%85%E7%94%B0+%E9%BA%9F%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/61zntyeaZpL._SL500_.jpg",
+      "date": "2023/07/22"
+    },
+    {
+      "no": 11,
+      "title": "パンどろぼう",
+      "url": "https://bookmeter.com/books/15497941",
+      "author": "柴田 ケイコ",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9F%B4%E7%94%B0+%E3%82%B1%E3%82%A4%E3%82%B3",
+      "thumb": "https://m.media-amazon.com/images/I/41Qrh02IKxL._SL500_.jpg",
+      "date": "2023/07/17"
+    },
+    {
+      "no": 12,
+      "title": "ヨゼフ・チャペック エッセイ集 (平凡社ライブラリー)",
+      "url": "https://bookmeter.com/books/12727903",
+      "author": "ヨゼフ チャペック",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%A8%E3%82%BC%E3%83%95+%E3%83%81%E3%83%A3%E3%83%9A%E3%83%83%E3%82%AF",
+      "thumb": "https://m.media-amazon.com/images/I/51xW0GPvIhL._SL500_.jpg",
+      "date": "2023/07/17"
+    },
+    {
+      "no": 13,
+      "title": "Maui and the Sun: A Maori Tale",
+      "url": "https://bookmeter.com/books/8732877",
+      "author": "Gavin Bishop",
+      "authorUrl": "https://bookmeter.com/search?author=Gavin+Bishop",
+      "thumb": "https://m.media-amazon.com/images/I/51G0onO5YqL._SL500_.jpg",
+      "date": "2023/07/17"
+    },
+    {
+      "no": 14,
+      "title": "はじめての バス ずかん",
+      "url": "https://bookmeter.com/books/20920503",
+      "author": "スタジオタッククリエイティブ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%BF%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96",
+      "thumb": "https://m.media-amazon.com/images/I/51gfyEAu1nL._SL500_.jpg",
+      "date": "2023/07/10"
+    },
+    {
+      "no": 15,
+      "title": "東大卒の教師が教える こどもの科学の疑問に答える本",
+      "url": "https://bookmeter.com/books/18050227",
+      "author": "三澤 信也",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%89%E6%BE%A4+%E4%BF%A1%E4%B9%9F",
+      "thumb": "https://m.media-amazon.com/images/I/51Y90S6oSJS._SL500_.jpg",
+      "date": "2023/07/08"
+    },
+    {
+      "no": 16,
+      "title": "どうしちゃったの? ねずみくん (ねずみくんの絵本) (ねずみくんの絵本 27)",
+      "url": "https://bookmeter.com/books/591046",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/41o0ZIdi2nL._SL500_.jpg",
+      "date": "2023/07/02"
+    },
+    {
+      "no": 17,
+      "title": "ガラスめだまときんのつののヤギ―ベラルーシ民話 (日本傑作絵本シリーズ)",
+      "url": "https://bookmeter.com/books/403496",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/61WaDC3xwSL._SL500_.jpg",
+      "date": "2023/07/02"
+    },
+    {
+      "no": 18,
+      "title": "じごくのそうべえ (童心社の絵本)",
+      "url": "https://bookmeter.com/books/490755",
+      "author": "たじま ゆきひこ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%9F%E3%81%98%E3%81%BE+%E3%82%86%E3%81%8D%E3%81%B2%E3%81%93",
+      "thumb": "https://m.media-amazon.com/images/I/61FZJHF+yBL._SL500_.jpg",
+      "date": "2023/07/02"
+    },
+    {
+      "no": 19,
+      "title": "ミドルアース:トールキンとジョン・ハウのファンタジー・イメージ画集",
+      "url": "https://bookmeter.com/books/15221339",
+      "author": "ジョン・ハウ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51yPPIUCa2L._SL500_.jpg",
+      "date": "2023/07/02"
+    },
+    {
+      "no": 20,
+      "title": "日本の仏様 解剖図鑑",
+      "url": "https://bookmeter.com/books/14946365",
+      "author": "瓜生 中",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%93%9C%E7%94%9F+%E4%B8%AD",
+      "thumb": "https://m.media-amazon.com/images/I/51mxJs3stxL._SL500_.jpg",
+      "date": "2023/07/02"
+    }
+  ],
+  "count": 20,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

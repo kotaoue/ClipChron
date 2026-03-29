@@ -1,0 +1,243 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "吉野北高校図書委員会 (MF文庫ダ・ヴィンチ)",
+      "url": "https://bookmeter.com/books/549719",
+      "author": "山本 渚",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E6%9C%AC+%E6%B8%9A",
+      "thumb": "https://m.media-amazon.com/images/I/51Bc4tajw4L._SL500_.jpg",
+      "date": "2014/01/26"
+    },
+    {
+      "no": 2,
+      "title": "敵は海賊・海賊たちの憂鬱 (ハヤカワ文庫 JA カ 3-12)",
+      "url": "https://bookmeter.com/books/544359",
+      "author": "神林 長平",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%A5%9E%E6%9E%97+%E9%95%B7%E5%B9%B3",
+      "thumb": "https://m.media-amazon.com/images/I/511RMaHcBjL._SL500_.jpg",
+      "date": "2014/01/26"
+    },
+    {
+      "no": 3,
+      "title": "CIRO 内閣情報調査室 香月喬 (朝日文庫)",
+      "url": "https://bookmeter.com/books/415742",
+      "author": "浜田 文人",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%B5%9C%E7%94%B0+%E6%96%87%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/51Q1oGaTJyL._SL500_.jpg",
+      "date": "2014/01/22"
+    },
+    {
+      "no": 4,
+      "title": "不変量と対称性: 現代数学のこころ (ちくま学芸文庫 テ 8-1 Math\u0026amp;Science)",
+      "url": "https://bookmeter.com/books/6372012",
+      "author": "今井 淳,中村 博昭,寺尾 宏明",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%8A%E4%BA%95+%E6%B7%B3%2C%E4%B8%AD%E6%9D%91+%E5%8D%9A%E6%98%AD%2C%E5%AF%BA%E5%B0%BE+%E5%AE%8F%E6%98%8E",
+      "thumb": "https://m.media-amazon.com/images/I/518B-9DsSfL._SL500_.jpg",
+      "date": "2014/01/22"
+    },
+    {
+      "no": 5,
+      "title": "ライジングインパクト 3 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/459466",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/51i7KeJyK-L._SL500_.jpg",
+      "date": "2014/01/06"
+    },
+    {
+      "no": 6,
+      "title": "ライジングインパクト 2 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/459465",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/51HAIOlwQTL._SL500_.jpg",
+      "date": "2014/01/06"
+    },
+    {
+      "no": 7,
+      "title": "ライジングインパクト 1 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/460362",
+      "author": "鈴木 央",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%AE",
+      "thumb": "https://m.media-amazon.com/images/I/51Bddcq+6HL._SL500_.jpg",
+      "date": "2014/01/06"
+    },
+    {
+      "no": 8,
+      "title": "いとしのムーコ(2) (イブニングKC)",
+      "url": "https://bookmeter.com/books/5336234",
+      "author": "みずしな 孝之",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%BF%E3%81%9A%E3%81%97%E3%81%AA+%E5%AD%9D%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51o25KXEBtL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 9,
+      "title": "いとしのムーコ(1) (イブニングKC)",
+      "url": "https://bookmeter.com/books/4753294",
+      "author": "みずしな 孝之",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%BF%E3%81%9A%E3%81%97%E3%81%AA+%E5%AD%9D%E4%B9%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51QSrNkr1VL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 10,
+      "title": "進撃の巨人 Before the fall(1) (シリウスコミックス)",
+      "url": "https://bookmeter.com/books/7723873",
+      "author": "士貴 智志",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A3%AB%E8%B2%B4+%E6%99%BA%E5%BF%97",
+      "thumb": "https://m.media-amazon.com/images/I/61wUleqWiyL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 11,
+      "title": "進撃の巨人(12) (講談社コミックス)",
+      "url": "https://bookmeter.com/books/7730372",
+      "author": "諫山 創",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%AB%AB%E5%B1%B1+%E5%89%B5",
+      "thumb": "https://m.media-amazon.com/images/I/5182CeGeS7S._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 12,
+      "title": "クズ!!~アナザークローズ九頭神竜男~ 2 (ヤングチャンピオンコミックス)",
+      "url": "https://bookmeter.com/books/5751685",
+      "author": "鈴木 大",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%88%B4%E6%9C%A8+%E5%A4%A7",
+      "thumb": "https://m.media-amazon.com/images/I/51kuidbaQSL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 13,
+      "title": "機動戦士ガンダムSEED ASTRAY R (4) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/119162",
+      "author": "戸田 泰成,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%B8%E7%94%B0+%E6%B3%B0%E6%88%90%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/61IFJAtXMIL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 14,
+      "title": "機動戦士ガンダムSEED ASTRAY R (3) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/119168",
+      "author": "戸田 泰成,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%B8%E7%94%B0+%E6%B3%B0%E6%88%90%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/31N5V68YXQL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 15,
+      "title": "機動戦士ガンダムSEED ASTRAY R (2) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/23944",
+      "author": "戸田 泰成,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%B8%E7%94%B0+%E6%B3%B0%E6%88%90%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51Vjw4rxA1L._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 16,
+      "title": "機動戦士ガンダムSEED ASTRAY R (1) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/34877",
+      "author": "戸田 泰成,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%88%B8%E7%94%B0+%E6%B3%B0%E6%88%90%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/31PABJHXSKL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 17,
+      "title": "ガンダムSEED ASTRAY 3 (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/23650",
+      "author": "ときた 洸一,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A8%E3%81%8D%E3%81%9F+%E6%B4%B8%E4%B8%80%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/51DSJo1b7SL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 18,
+      "title": "機動戦士ガンダムSEED ASTRAY (2) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/437216",
+      "author": "ときた 洸一,千葉 智宏,矢立 肇,富野 由悠季",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%81%A8%E3%81%8D%E3%81%9F+%E6%B4%B8%E4%B8%80%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F%2C%E7%9F%A2%E7%AB%8B+%E8%82%87%2C%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3",
+      "thumb": "https://m.media-amazon.com/images/I/21H95M2W83L._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 19,
+      "title": "機動戦士ガンダムSEED ASTRAY(1) (角川コミックス・エース)",
+      "url": "https://bookmeter.com/books/67713",
+      "author": "富野 由悠季,ときた 洸一,千葉 智宏",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%AF%8C%E9%87%8E+%E7%94%B1%E6%82%A0%E5%AD%A3%2C%E3%81%A8%E3%81%8D%E3%81%9F+%E6%B4%B8%E4%B8%80%2C%E5%8D%83%E8%91%89+%E6%99%BA%E5%AE%8F",
+      "thumb": "https://m.media-amazon.com/images/I/51o4JsQ5T7L._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 20,
+      "title": "キン肉マン 41 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/5588115",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51zu03ScTuL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 21,
+      "title": "キン肉マン 40 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/5265298",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51ldIaBPZuL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 22,
+      "title": "キン肉マン 39 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4916658",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51Cg1xxtUNL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 23,
+      "title": "キン肉マン 39 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4916658",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51Cg1xxtUNL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 24,
+      "title": "キン肉マン 38 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/4670706",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/512cB4+BkBL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 25,
+      "title": "キン肉マン 37 (ジャンプコミックス)",
+      "url": "https://bookmeter.com/books/577138",
+      "author": "ゆでたまご",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%86%E3%81%A7%E3%81%9F%E3%81%BE%E3%81%94",
+      "thumb": "https://m.media-amazon.com/images/I/51pSpYPytIL._SL500_.jpg",
+      "date": "2014/01/05"
+    },
+    {
+      "no": 26,
+      "title": "WORST (33) (少年チャンピオン・コミックス)",
+      "url": "https://bookmeter.com/books/7789120",
+      "author": "高橋 ヒロシ",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%AB%98%E6%A9%8B+%E3%83%92%E3%83%AD%E3%82%B7",
+      "thumb": "https://m.media-amazon.com/images/I/61nH5JEUWyL._SL500_.jpg",
+      "date": "2014/01/05"
+    }
+  ],
+  "count": 26,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

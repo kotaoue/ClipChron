@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "僕たちの居場所論 (角川新書)",
+      "url": "https://bookmeter.com/books/10883665",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/4171BOt8j9L._SL500_.jpg",
+      "date": "2023/05/31"
+    },
+    {
+      "no": 2,
+      "title": "ビジネスモデルの未来予報図51",
+      "url": "https://bookmeter.com/books/19112546",
+      "author": "齊田 興哉",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%BD%8A%E7%94%B0+%E8%88%88%E5%93%89",
+      "thumb": "https://m.media-amazon.com/images/I/51yox25kMHL._SL500_.jpg",
+      "date": "2023/05/31"
+    },
+    {
+      "no": 3,
+      "title": "聞く技術 聞いてもらう技術 (ちくま新書 1686)",
+      "url": "https://bookmeter.com/books/20220170",
+      "author": "東畑 開人",
+      "authorUrl": "https://bookmeter.com/search?author=%E6%9D%B1%E7%95%91+%E9%96%8B%E4%BA%BA",
+      "thumb": "https://m.media-amazon.com/images/I/41hipVsTiuL._SL500_.jpg",
+      "date": "2023/05/31"
+    },
+    {
+      "no": 4,
+      "title": "ディズニー・コスチューム大全",
+      "url": "https://bookmeter.com/books/17663432",
+      "author": "ジェフ・カーティ,ウォルト・ディズニー・アーカイブスのスタッフ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%86%E3%82%A3%2C%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95",
+      "thumb": "https://m.media-amazon.com/images/I/51P8mhWffKS._SL500_.jpg",
+      "date": "2023/05/14"
+    },
+    {
+      "no": 5,
+      "title": "ゲーム学の新時代 遊戯の原理 AIの野生 拡張するリアリティ",
+      "url": "https://bookmeter.com/books/13227651",
+      "author": "中沢新一,中川大地,遠藤雅伸,井上明人,松永伸司,小林信重,細井浩一,川口洋司,ルドン・ジョゼフ,ルドン絢子,徳岡正肇,田中治久(hally),水野勇太,福地健太郎,三宅陽一郎,犬飼博士,吉見紫彩",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%B2%A2%E6%96%B0%E4%B8%80%2C%E4%B8%AD%E5%B7%9D%E5%A4%A7%E5%9C%B0%2C%E9%81%A0%E8%97%A4%E9%9B%85%E4%BC%B8%2C%E4%BA%95%E4%B8%8A%E6%98%8E%E4%BA%BA%2C%E6%9D%BE%E6%B0%B8%E4%BC%B8%E5%8F%B8%2C%E5%B0%8F%E6%9E%97%E4%BF%A1%E9%87%8D%2C%E7%B4%B0%E4%BA%95%E6%B5%A9%E4%B8%80%2C%E5%B7%9D%E5%8F%A3%E6%B4%8B%E5%8F%B8%2C%E3%83%AB%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%2C%E3%83%AB%E3%83%89%E3%83%B3%E7%B5%A2%E5%AD%90%2C%E5%BE%B3%E5%B2%A1%E6%AD%A3%E8%82%87%2C%E7%94%B0%E4%B8%AD%E6%B2%BB%E4%B9%85%28hally%29%2C%E6%B0%B4%E9%87%8E%E5%8B%87%E5%A4%AA%2C%E7%A6%8F%E5%9C%B0%E5%81%A5%E5%A4%AA%E9%83%8E%2C%E4%B8%89%E5%AE%85%E9%99%BD%E4%B8%80%E9%83%8E%2C%E7%8A%AC%E9%A3%BC%E5%8D%9A%E5%A3%AB%2C%E5%90%89%E8%A6%8B%E7%B4%AB%E5%BD%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51i8xU2839L._SL500_.jpg",
+      "date": "2023/05/14"
+    },
+    {
+      "no": 6,
+      "title": "パンどろぼうのせかいいちおいしいパンレシピ",
+      "url": "https://bookmeter.com/books/20034715",
+      "author": "吉永 麻衣子",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%90%89%E6%B0%B8+%E9%BA%BB%E8%A1%A3%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51e7bDI8XNL._SL500_.jpg",
+      "date": "2023/05/03"
+    },
+    {
+      "no": 7,
+      "title": "アブナイおふろやさん (ほるぷ創作絵本)",
+      "url": "https://bookmeter.com/books/9712757",
+      "author": "山本 孝",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%B1%B1%E6%9C%AC+%E5%AD%9D",
+      "thumb": "https://m.media-amazon.com/images/I/6108JRM4M+L._SL500_.jpg",
+      "date": "2023/05/03"
+    },
+    {
+      "no": 8,
+      "title": "写真",
+      "url": "https://bookmeter.com/books/5839037",
+      "author": "谷川 俊太郎",
+      "authorUrl": "https://bookmeter.com/search?author=%E8%B0%B7%E5%B7%9D+%E4%BF%8A%E5%A4%AA%E9%83%8E",
+      "thumb": "https://m.media-amazon.com/images/I/31KXPN98xuL._SL500_.jpg",
+      "date": "2023/05/03"
+    },
+    {
+      "no": 9,
+      "title": "なぜウチの会社は変われないんだ! と悩んだら読む 大企業ハック大全",
+      "url": "https://bookmeter.com/books/18644902",
+      "author": "ONE JAPAN",
+      "authorUrl": "https://bookmeter.com/search?author=ONE+JAPAN",
+      "thumb": "https://m.media-amazon.com/images/I/51JlfsRKfFL._SL500_.jpg",
+      "date": "2023/05/03"
+    },
+    {
+      "no": 10,
+      "title": "いたずらゴブリンのしろ",
+      "url": "https://bookmeter.com/books/393152",
+      "author": "青山 邦彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%9D%92%E5%B1%B1+%E9%82%A6%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51Ra-WoLFbL._SL500_.jpg",
+      "date": "2023/05/03"
+    },
+    {
+      "no": 11,
+      "title": "ビジュアル版　日本の妖怪百科",
+      "url": "https://bookmeter.com/books/9719571",
+      "author": "",
+      "authorUrl": "https://bookmeter.com/search?author=",
+      "thumb": "https://m.media-amazon.com/images/I/51434z0zpGL._SL500_.jpg",
+      "date": "2023/05/03"
+    }
+  ],
+  "count": 11,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

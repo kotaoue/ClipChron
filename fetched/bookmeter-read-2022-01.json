@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "急に仕事を失っても、1年間は困らない貯蓄術",
+      "url": "https://bookmeter.com/books/17790830",
+      "author": "佐藤 治彦",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BD%90%E8%97%A4+%E6%B2%BB%E5%BD%A6",
+      "thumb": "https://m.media-amazon.com/images/I/51bMuHl+3pL._SL500_.jpg",
+      "date": "2022/01/23"
+    },
+    {
+      "no": 2,
+      "title": "できれば服にお金と時間を使いたくないひとのための一生使える服選びの法則",
+      "url": "https://bookmeter.com/books/9773009",
+      "author": "大山 旬",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E5%B1%B1+%E6%97%AC",
+      "thumb": "https://m.media-amazon.com/images/I/41g2J0tEE3L._SL500_.jpg",
+      "date": "2022/01/23"
+    },
+    {
+      "no": 3,
+      "title": "40代からの「英語」の学び方 10代、20代より速く身につくコツ (PHPビジネス新書)",
+      "url": "https://bookmeter.com/books/11731889",
+      "author": "『THE21』編集部",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%80%8ETHE21%E3%80%8F%E7%B7%A8%E9%9B%86%E9%83%A8",
+      "thumb": "https://m.media-amazon.com/images/I/51XoIJlib5L._SL500_.jpg",
+      "date": "2022/01/21"
+    },
+    {
+      "no": 4,
+      "title": "Tar Beach (Caldecott Honor Book)",
+      "url": "https://bookmeter.com/books/1949461",
+      "author": "Faith Ringgold",
+      "authorUrl": "https://bookmeter.com/search?author=Faith+Ringgold",
+      "thumb": "https://m.media-amazon.com/images/I/51XZKAzoFAL._SL500_.jpg",
+      "date": "2022/01/09"
+    }
+  ],
+  "count": 4,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

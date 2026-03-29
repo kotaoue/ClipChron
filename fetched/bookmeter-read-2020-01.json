@@ -1,0 +1,99 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "入門 監視 ―モダンなモニタリングのためのデザインパターン",
+      "url": "https://bookmeter.com/books/13393606",
+      "author": "Mike Julian",
+      "authorUrl": "https://bookmeter.com/search?author=Mike+Julian",
+      "thumb": "https://m.media-amazon.com/images/I/41Jlj3e0CDL._SL500_.jpg",
+      "date": "2020/01/31"
+    },
+    {
+      "no": 2,
+      "title": "ロジカル・シンキング (Best solution)",
+      "url": "https://bookmeter.com/books/105300",
+      "author": "照屋 華子,岡田 恵子",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%85%A7%E5%B1%8B+%E8%8F%AF%E5%AD%90%2C%E5%B2%A1%E7%94%B0+%E6%81%B5%E5%AD%90",
+      "thumb": "https://m.media-amazon.com/images/I/51WnN0eXEbL._SL500_.jpg",
+      "date": "2020/01/29"
+    },
+    {
+      "no": 3,
+      "title": "Amazon Web Services負荷試験入門―クラウドの性能の引き出し方がわかる (Software Design plusシリーズ)",
+      "url": "https://bookmeter.com/books/12288909",
+      "author": "仲川 樽八,森下 健",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%BB%B2%E5%B7%9D+%E6%A8%BD%E5%85%AB%2C%E6%A3%AE%E4%B8%8B+%E5%81%A5",
+      "thumb": "https://m.media-amazon.com/images/I/51ES8StLROL._SL500_.jpg",
+      "date": "2020/01/27"
+    },
+    {
+      "no": 4,
+      "title": "アーケードゲーム・タイポグラフィ ビットマップ書体の世界",
+      "url": "https://bookmeter.com/books/15009005",
+      "author": "大曲 都市",
+      "authorUrl": "https://bookmeter.com/search?author=%E5%A4%A7%E6%9B%B2+%E9%83%BD%E5%B8%82",
+      "thumb": "https://m.media-amazon.com/images/I/51CxlYo-37L._SL500_.jpg",
+      "date": "2020/01/27"
+    },
+    {
+      "no": 5,
+      "title": "Amazon Web Servicesインフラサービス活用大全 システム構築/自動化、データストア、高信頼化 (impress top gear)",
+      "url": "https://bookmeter.com/books/14107948",
+      "author": "Michael Wittig,Andreas Wittig",
+      "authorUrl": "https://bookmeter.com/search?author=Michael+Wittig%2CAndreas+Wittig",
+      "thumb": "https://m.media-amazon.com/images/I/51P+a2t7mVL._SL500_.jpg",
+      "date": "2020/01/21"
+    },
+    {
+      "no": 6,
+      "title": "ソフトウェアアーキテクトが知るべき97のこと",
+      "url": "https://bookmeter.com/books/541360",
+      "author": "リチャ-ド・モンソン・ヘ-フェル,長尾高弘,鈴木雄介",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%AA%E3%83%81%E3%83%A3-%E3%83%89%E3%83%BB%E3%83%A2%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%98-%E3%83%95%E3%82%A7%E3%83%AB%2C%E9%95%B7%E5%B0%BE%E9%AB%98%E5%BC%98%2C%E9%88%B4%E6%9C%A8%E9%9B%84%E4%BB%8B",
+      "thumb": "https://m.media-amazon.com/images/I/51CEO5gHPDL._SL500_.jpg",
+      "date": "2020/01/19"
+    },
+    {
+      "no": 7,
+      "title": "Ten Long Years Level 1 Beginner/Elementary (Cambridge English Readers)",
+      "url": "https://bookmeter.com/books/7459058",
+      "author": "Alan Battersby",
+      "authorUrl": "https://bookmeter.com/search?author=Alan+Battersby",
+      "thumb": "https://m.media-amazon.com/images/I/51DOZRaj-WL._SL500_.jpg",
+      "date": "2020/01/18"
+    },
+    {
+      "no": 8,
+      "title": "改訂 チームビルディングの技術",
+      "url": "https://bookmeter.com/books/13747482",
+      "author": "関島 康雄",
+      "authorUrl": "https://bookmeter.com/search?author=%E9%96%A2%E5%B3%B6+%E5%BA%B7%E9%9B%84",
+      "thumb": "https://m.media-amazon.com/images/I/41nVcFHcPZL._SL500_.jpg",
+      "date": "2020/01/16"
+    },
+    {
+      "no": 9,
+      "title": "ゲーム学の新時代 遊戯の原理 AIの野生 拡張するリアリティ",
+      "url": "https://bookmeter.com/books/13227651",
+      "author": "中沢新一,中川大地,遠藤雅伸,井上明人,松永伸司,小林信重,細井浩一,川口洋司,ルドン・ジョゼフ,ルドン絢子,徳岡正肇,田中治久(hally),水野勇太,福地健太郎,三宅陽一郎,犬飼博士,吉見紫彩",
+      "authorUrl": "https://bookmeter.com/search?author=%E4%B8%AD%E6%B2%A2%E6%96%B0%E4%B8%80%2C%E4%B8%AD%E5%B7%9D%E5%A4%A7%E5%9C%B0%2C%E9%81%A0%E8%97%A4%E9%9B%85%E4%BC%B8%2C%E4%BA%95%E4%B8%8A%E6%98%8E%E4%BA%BA%2C%E6%9D%BE%E6%B0%B8%E4%BC%B8%E5%8F%B8%2C%E5%B0%8F%E6%9E%97%E4%BF%A1%E9%87%8D%2C%E7%B4%B0%E4%BA%95%E6%B5%A9%E4%B8%80%2C%E5%B7%9D%E5%8F%A3%E6%B4%8B%E5%8F%B8%2C%E3%83%AB%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%2C%E3%83%AB%E3%83%89%E3%83%B3%E7%B5%A2%E5%AD%90%2C%E5%BE%B3%E5%B2%A1%E6%AD%A3%E8%82%87%2C%E7%94%B0%E4%B8%AD%E6%B2%BB%E4%B9%85%28hally%29%2C%E6%B0%B4%E9%87%8E%E5%8B%87%E5%A4%AA%2C%E7%A6%8F%E5%9C%B0%E5%81%A5%E5%A4%AA%E9%83%8E%2C%E4%B8%89%E5%AE%85%E9%99%BD%E4%B8%80%E9%83%8E%2C%E7%8A%AC%E9%A3%BC%E5%8D%9A%E5%A3%AB%2C%E5%90%89%E8%A6%8B%E7%B4%AB%E5%BD%A9",
+      "thumb": "https://m.media-amazon.com/images/I/51i8xU2839L._SL500_.jpg",
+      "date": "2020/01/13"
+    },
+    {
+      "no": 10,
+      "title": "真実の終わり",
+      "url": "https://bookmeter.com/books/13759943",
+      "author": "ミチコ・カクタニ",
+      "authorUrl": "https://bookmeter.com/search?author=%E3%83%9F%E3%83%81%E3%82%B3%E3%83%BB%E3%82%AB%E3%82%AF%E3%82%BF%E3%83%8B",
+      "thumb": "https://m.media-amazon.com/images/I/41kzaihp9NL._SL500_.jpg",
+      "date": "2020/01/11"
+    }
+  ],
+  "count": 10,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}

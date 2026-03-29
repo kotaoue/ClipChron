@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "no": 1,
+      "title": "英語の発想と基本語力をイメージで身につける本",
+      "url": "https://bookmeter.com/books/3151943",
+      "author": "田中　茂範,cocone",
+      "authorUrl": "https://bookmeter.com/search?author=%E7%94%B0%E4%B8%AD%E3%80%80%E8%8C%82%E7%AF%84%2Ccocone",
+      "thumb": "https://m.media-amazon.com/images/I/51cuR+pRcaL._SL500_.jpg",
+      "date": "2022/02/27"
+    },
+    {
+      "no": 2,
+      "title": "Noel For Jeanne-marie",
+      "url": "https://bookmeter.com/books/202765",
+      "author": "Francoise Seignobosc",
+      "authorUrl": "https://bookmeter.com/search?author=Francoise+Seignobosc",
+      "thumb": "https://m.media-amazon.com/images/I/41G8HWHXXAL._SL500_.jpg",
+      "date": "2022/02/20"
+    }
+  ],
+  "count": 2,
+  "totalCount": 0,
+  "totalPages": 0,
+  "totalReviews": 0,
+  "totalNice": 0
+}
