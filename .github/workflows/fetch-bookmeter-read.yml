@@ -2,7 +2,7 @@ name: Fetch Bookmeter read books
 
 on:
   schedule:
-    - cron: '33 17 * * *'  # 毎日 02:33 JST
+    - cron: '33 17 1 * *'  # 毎月1日 02:33 JST
   workflow_dispatch:
 
 permissions:
