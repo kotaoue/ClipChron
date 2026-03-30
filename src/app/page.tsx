@@ -16,7 +16,7 @@ type Book = {
 type ReadBook = Book & { yearMonth: string };
 
 type BooksResponse = {
-  books: Book[];
+  books: ReadBook[];
   total: number;
   page: number;
   hasMore: boolean;
