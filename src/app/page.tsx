@@ -42,6 +42,7 @@ function BookList({
   const [page, setPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const sentinelRef = useRef<HTMLDivElement>(null);
   const isFetching = useRef(false);
   const abortControllerRef = useRef<AbortController | null>(null);
@@ -57,12 +58,16 @@ function BookList({
         const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
           signal: controller.signal,
         });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data: BooksResponse | ReadBooksResponse = await res.json();
         setBookList((prev) => [...prev, ...data.books]);
         setHasMore(data.hasMore);
         setPage(pageNum + 1);
       } catch (err) {
         if (err instanceof DOMException && err.name === 'AbortError') return;
+        console.error('fetchBooks error:', err);
+        setHasMore(false);
+        setError('データの読み込みに失敗しました。');
       } finally {
         setLoading(false);
         isFetching.current = false;
@@ -77,6 +82,7 @@ function BookList({
     setBookList([]);
     setPage(1);
     setHasMore(true);
+    setError(null);
   }, [apiPath]);
 
   useEffect(() => {
@@ -123,7 +129,8 @@ function BookList({
       ))}
       <div ref={sentinelRef} />
       {loading && <div>Loading...</div>}
-      {!hasMore && !loading && <div>— END —</div>}
+      {error && <div>{error}</div>}
+      {!hasMore && !loading && !error && <div>— END —</div>}
     </>
   );
 }
