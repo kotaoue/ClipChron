@@ -1,0 +1,32 @@
+name: Fetch Hatena Bookmarks
+
+on:
+  schedule:
+    - cron: '45 17 * * *'  # 毎日 02:45 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-hatena-bookmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Fetch Hatena Bookmarks
+        run: node scripts/fetch-hatena-bookmarks.mjs
+        env:
+          HATENA_USERNAME: ${{ secrets.HATENA_USERNAME }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/hatena-bookmarks.json
+          git diff --staged --quiet || git commit -m "chore: update hatena bookmarks"
+          git push

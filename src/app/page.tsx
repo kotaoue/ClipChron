@@ -15,6 +15,15 @@ type Book = {
 
 type ReadBook = Book & { yearMonth: string };
 
+type Bookmark = {
+  id: string;
+  source: string;
+  title: string;
+  url: string;
+  description: string | null;
+  savedAt: string;
+};
+
 type BooksResponse = {
   books: Book[];
   total: number;
@@ -29,7 +38,14 @@ type ReadBooksResponse = {
   hasMore: boolean;
 };
 
-type Tab = 'wish' | 'read';
+type BookmarksResponse = {
+  bookmarks: Bookmark[];
+  total: number;
+  page: number;
+  hasMore: boolean;
+};
+
+type Tab = 'wish' | 'read' | 'hatena';
 
 function BookList({
   apiPath,
@@ -135,6 +151,109 @@ function BookList({
   );
 }
 
+function BookmarkList({
+  apiPath,
+  searchQuery,
+}: {
+  apiPath: string;
+  searchQuery: string;
+}) {
+  const [items, setItems] = useState<Bookmark[]>([]);
+  const [page, setPage] = useState(1);
+  const [hasMore, setHasMore] = useState(true);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const sentinelRef = useRef<HTMLDivElement>(null);
+  const isFetching = useRef(false);
+  const abortControllerRef = useRef<AbortController | null>(null);
+
+  const fetchItems = useCallback(
+    async (pageNum: number) => {
+      if (isFetching.current) return;
+      isFetching.current = true;
+      setLoading(true);
+      const controller = new AbortController();
+      abortControllerRef.current = controller;
+      try {
+        const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
+          signal: controller.signal,
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data: BookmarksResponse = await res.json();
+        setItems((prev) => [...prev, ...data.bookmarks]);
+        setHasMore(data.hasMore);
+        setPage(pageNum + 1);
+      } catch (err) {
+        if (err instanceof DOMException && err.name === 'AbortError') return;
+        console.error('fetchItems error:', err);
+        setHasMore(false);
+        setError('データの読み込みに失敗しました。');
+      } finally {
+        setLoading(false);
+        isFetching.current = false;
+      }
+    },
+    [apiPath]
+  );
+
+  useEffect(() => {
+    abortControllerRef.current?.abort();
+    isFetching.current = false;
+    setItems([]);
+    setPage(1);
+    setHasMore(true);
+    setError(null);
+  }, [apiPath]);
+
+  useEffect(() => {
+    if (page === 1 && items.length === 0 && hasMore) {
+      fetchItems(1);
+    }
+  }, [page, items.length, hasMore, fetchItems]);
+
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+
+    const observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting && hasMore && !isFetching.current) {
+        fetchItems(page);
+      }
+    });
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, page, fetchItems]);
+
+  const fuse = useMemo(
+    () => new Fuse(items, { keys: ['title', 'description'], threshold: 0.4 }),
+    [items]
+  );
+
+  const displayed = useMemo(() => {
+    if (!searchQuery.trim()) return items;
+    return fuse.search(searchQuery).map((result) => result.item);
+  }, [fuse, searchQuery, items]);
+
+  return (
+    <>
+      {displayed.map((item) => (
+        <div key={item.id}>
+          [{item.savedAt.slice(0, 10)}]{' '}
+          <a href={item.url} target="_blank" rel="noopener noreferrer">
+            {item.title}
+          </a>
+          {item.description && ` — ${item.description}`}
+        </div>
+      ))}
+      <div ref={sentinelRef} />
+      {loading && <div>Loading...</div>}
+      {error && <div>{error}</div>}
+      {!hasMore && !loading && !error && <div>— END —</div>}
+    </>
+  );
+}
+
 export default function Home() {
   const [tab, setTab] = useState<Tab>('wish');
   const [searchQuery, setSearchQuery] = useState('');
@@ -159,6 +278,9 @@ export default function Home() {
         <button style={tabStyle(tab === 'read')} onClick={() => setTab('read')}>
           読んだ本
         </button>
+        <button style={tabStyle(tab === 'hatena')} onClick={() => setTab('hatena')}>
+          はてブ
+        </button>
       </div>
       <input
         type="search"
@@ -182,6 +304,9 @@ export default function Home() {
       )}
       {tab === 'read' && (
         <BookList apiPath="/api/read" searchQuery={searchQuery} />
+      )}
+      {tab === 'hatena' && (
+        <BookmarkList apiPath="/api/bookmarks" searchQuery={searchQuery} />
       )}
     </>
   );
