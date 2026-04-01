@@ -61,7 +61,9 @@ async function seedReadBooks() {
     const yearMonth = file.replace('bookmeter-read-', '').replace('.json', '');
     try {
       const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
-      const entries: BookmeterEntry[] = JSON.parse(raw);
+      const parsed = JSON.parse(raw);
+      // Read book files use { books: [...] } format; fall back to direct array for compatibility
+      const entries: BookmeterEntry[] = Array.isArray(parsed) ? parsed : (parsed.books ?? []);
       if (entries.length === 0) continue;
 
       await db
