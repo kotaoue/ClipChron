@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { sql } from 'drizzle-orm';
 import { db } from '../src/db';
-import { books, readBooks, bookmarks } from '../src/db/schema';
+import { books, readBooks, bookmarks as hatenaBookmarks } from '../src/db/schema';
 
 type BookmeterEntry = {
   no: number;
@@ -133,10 +133,10 @@ async function seedHatenaBookmarks() {
   }
 
   await db
-    .insert(bookmarks)
+    .insert(hatenaBookmarks)
     .values(rows)
     .onConflictDoUpdate({
-      target: bookmarks.id,
+      target: hatenaBookmarks.id,
       set: {
         title: sql`excluded.title`,
         url: sql`excluded.url`,
