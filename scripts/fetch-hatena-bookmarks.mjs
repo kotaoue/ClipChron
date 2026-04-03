@@ -12,6 +12,7 @@ const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/rss`;
 const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
 const PAGE_SIZE = 20;
 const REQUEST_DELAY_MS = 1000;
+const FETCH_TIMEOUT_MS = 30000;
 
 function unwrapCDATA(text) {
   const m = text.trim().match(/^<!\[CDATA\[([\s\S]*)\]\]>$/);
@@ -52,20 +53,41 @@ async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchAllItems() {
-  const allItems = [];
+async function fetchWithTimeout(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    return res;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function fetchNewItems(existingUrlSet) {
+  const allNewItems = [];
   let offset = 0;
 
   while (true) {
     const url = offset === 0 ? RSS_BASE_URL : `${RSS_BASE_URL}?of=${offset}`;
     console.log(`Fetching offset=${offset} ...`);
-    const res = await fetch(url);
+    const res = await fetchWithTimeout(url);
     if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
     const xml = await res.text();
 
     const items = parseRSS(xml);
     console.log(`  -> ${items.length} items`);
-    allItems.push(...items);
+
+    if (items.length === 0) break;
+
+    const newItems = items.filter((item) => !existingUrlSet.has(item.url));
+    allNewItems.push(...newItems);
+    console.log(`  -> ${newItems.length} new items`);
+
+    if (newItems.length === 0) {
+      console.log('No new items found, stopping fetch');
+      break;
+    }
 
     if (items.length < PAGE_SIZE) break;
 
@@ -73,14 +95,10 @@ async function fetchAllItems() {
     await sleep(REQUEST_DELAY_MS);
   }
 
-  return allItems;
+  return allNewItems;
 }
 
 async function main() {
-  console.log('Fetching all Hatena Bookmarks...');
-  const newItems = await fetchAllItems();
-  console.log(`Fetched ${newItems.length} items in total`);
-
   let existing = [];
   if (existsSync(OUTPUT_PATH)) {
     try {
@@ -88,6 +106,18 @@ async function main() {
     } catch {
       console.warn('Could not parse existing file, starting fresh');
     }
+  }
+
+  const existingUrlSet = new Set(existing.map((item) => item.url));
+  console.log(`Loaded ${existing.length} existing bookmarks`);
+
+  console.log('Fetching new Hatena Bookmarks...');
+  const newItems = await fetchNewItems(existingUrlSet);
+  console.log(`Fetched ${newItems.length} new items`);
+
+  if (newItems.length === 0) {
+    console.log('No new bookmarks to add.');
+    return;
   }
 
   const byUrl = new Map(existing.map((item) => [item.url, item]));
@@ -98,7 +128,7 @@ async function main() {
   );
 
   writeFileSync(OUTPUT_PATH, JSON.stringify(merged, null, 2), 'utf-8');
-  console.log(`Saved ${merged.length} bookmarks (${newItems.length} fetched) to ${OUTPUT_PATH}`);
+  console.log(`Saved ${merged.length} bookmarks (${newItems.length} new) to ${OUTPUT_PATH}`);
 }
 
 main().catch((err) => {
