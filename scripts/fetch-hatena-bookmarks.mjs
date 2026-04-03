@@ -8,8 +8,10 @@ if (!HATENA_USERNAME) {
   console.error('Error: HATENA_USERNAME environment variable is not set.');
   process.exit(1);
 }
-const RSS_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/rss`;
+const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/rss`;
 const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
+const PAGE_SIZE = 20;
+const REQUEST_DELAY_MS = 1000;
 
 function unwrapCDATA(text) {
   const m = text.trim().match(/^<!\[CDATA\[([\s\S]*)\]\]>$/);
@@ -46,14 +48,38 @@ function parseRSS(xml) {
   return items;
 }
 
-async function main() {
-  console.log('Fetching Hatena Bookmarks RSS feed...');
-  const res = await fetch(RSS_URL);
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
-  const xml = await res.text();
+async function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
-  const newItems = parseRSS(xml);
-  console.log(`Parsed ${newItems.length} items from RSS`);
+async function fetchAllItems() {
+  const allItems = [];
+  let offset = 0;
+
+  while (true) {
+    const url = offset === 0 ? RSS_BASE_URL : `${RSS_BASE_URL}?of=${offset}`;
+    console.log(`Fetching offset=${offset} ...`);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+    const xml = await res.text();
+
+    const items = parseRSS(xml);
+    console.log(`  -> ${items.length} items`);
+    allItems.push(...items);
+
+    if (items.length < PAGE_SIZE) break;
+
+    offset += PAGE_SIZE;
+    await sleep(REQUEST_DELAY_MS);
+  }
+
+  return allItems;
+}
+
+async function main() {
+  console.log('Fetching all Hatena Bookmarks...');
+  const newItems = await fetchAllItems();
+  console.log(`Fetched ${newItems.length} items in total`);
 
   let existing = [];
   if (existsSync(OUTPUT_PATH)) {
