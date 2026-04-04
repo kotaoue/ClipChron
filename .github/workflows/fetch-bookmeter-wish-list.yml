@@ -18,12 +18,12 @@ jobs:
         uses: kotaoue/fetch-bookmeter@v1
         with:
           user-id: ${{ secrets.BOOKMETER_USER_ID }}
-          output: fetched/bookmeter-wish-list.json
+          output: fetched/bookmeter/wish-list.json
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add fetched/bookmeter-wish-list.json
+          git add fetched/bookmeter/wish-list.json
           git diff --staged --quiet || git commit -m "chore: update bookmeter wish list"
           git push

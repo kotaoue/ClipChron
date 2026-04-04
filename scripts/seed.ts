@@ -21,7 +21,7 @@ export async function seed() {
 }
 
 async function seedWishList() {
-  const filePath = path.join(process.cwd(), 'fetched', 'bookmeter-wish-list.json');
+  const filePath = path.join(process.cwd(), 'fetched', 'bookmeter', 'wish-list.json');
 
   if (!fs.existsSync(filePath)) {
     console.warn(`Warning: ${filePath} not found. Skipping wish list seed.`);
@@ -51,7 +51,7 @@ async function seedWishList() {
 }
 
 async function seedReadBooks() {
-  const fetchedDir = path.join(process.cwd(), 'fetched');
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'bookmeter', 'read');
   const files = fs
     .readdirSync(fetchedDir)
     .filter((f) => /^bookmeter-read-\d{4}-\d{2}\.json$/.test(f))
