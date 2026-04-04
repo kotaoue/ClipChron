@@ -8,10 +8,9 @@ if (!HATENA_USERNAME) {
   console.error('Error: HATENA_USERNAME environment variable is not set.');
   process.exit(1);
 }
-const JSON_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/bookmark.json`;
+const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/bookmark.rss`;
 const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
 const META_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks-meta.json');
-const PAGE_SIZE = 100;
 const REQUEST_DELAY_MS = 1000;
 const FETCH_TIMEOUT_MS = 30000;
 const DEFAULT_META = { completeFetchDone: false };
@@ -31,31 +30,66 @@ async function fetchWithTimeout(url) {
   }
 }
 
-function parseBookmarks(data) {
-  if (!Array.isArray(data)) return [];
-  return data
-    .filter((item) => item && item.url)
-    .map((item) => ({
-      title: item.title ?? '',
-      url: item.url,
-      description: item.comment ?? '',
-      savedAt: item.created_datetime ?? '',
-      tags: Array.isArray(item.tags) ? item.tags : [],
-    }));
+function decodeXmlEntities(text) {
+  if (!text) return '';
+
+  return text
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) =>
+      String.fromCodePoint(parseInt(hex, 16))
+    )
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&#39;/g, "'");
+}
+
+function getFirstTagText(xml, tagName) {
+  const escapedTag = tagName.replace(':', '\\:');
+  const match = xml.match(new RegExp(`<${escapedTag}[^>]*>([\\s\\S]*?)</${escapedTag}>`, 'i'));
+  return match ? decodeXmlEntities(match[1].trim()) : '';
+}
+
+function getAllTagText(xml, tagName) {
+  const escapedTag = tagName.replace(':', '\\:');
+  const regex = new RegExp(`<${escapedTag}[^>]*>([\\s\\S]*?)</${escapedTag}>`, 'gi');
+  return [...xml.matchAll(regex)].map((match) => decodeXmlEntities(match[1].trim())).filter(Boolean);
+}
+
+function parseBookmarksFromRss(xml) {
+  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)];
+  return items
+    .map((match) => {
+      const itemXml = match[0];
+      return {
+        title: getFirstTagText(itemXml, 'title'),
+        url: getFirstTagText(itemXml, 'link'),
+        description: getFirstTagText(itemXml, 'description'),
+        savedAt: getFirstTagText(itemXml, 'dc:date'),
+        tags: getAllTagText(itemXml, 'dc:subject'),
+      };
+    })
+    .filter((item) => item.url);
+}
+
+async function fetchRssPage(page) {
+  const url = `${RSS_BASE_URL}?page=${page}`;
+  const res = await fetchWithTimeout(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+  const xml = await res.text();
+  return parseBookmarksFromRss(xml);
 }
 
 async function fetchItems(existingUrlSet, isIncremental) {
   const allNewItems = [];
-  let offset = 0;
+  let rssPage = 1;
 
   while (true) {
-    const url = `${JSON_BASE_URL}?limit=${PAGE_SIZE}&offset=${offset}`;
-    console.log(`Fetching offset=${offset} ...`);
-    const res = await fetchWithTimeout(url);
-    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
-    const data = await res.json();
+    console.log(`Fetching RSS page=${rssPage} ...`);
+    const items = await fetchRssPage(rssPage);
 
-    const items = parseBookmarks(data);
     console.log(`  -> ${items.length} items`);
 
     if (items.length === 0) break;
@@ -69,9 +103,8 @@ async function fetchItems(existingUrlSet, isIncremental) {
       break;
     }
 
-    if (items.length < PAGE_SIZE) break;
+    rssPage += 1;
 
-    offset += PAGE_SIZE;
     await sleep(REQUEST_DELAY_MS);
   }
 
