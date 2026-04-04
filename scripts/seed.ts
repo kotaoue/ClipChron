@@ -106,7 +106,7 @@ type HatenaBookmarkEntry = {
 };
 
 async function seedHatenaBookmarks() {
-  const fetchedDir = path.join(process.cwd(), 'fetched');
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'hatena', 'bookmarks');
   const files = fs
     .readdirSync(fetchedDir)
     .filter((f) => /^hatena-bookmarks-\d{4}-\d{2}\.json$/.test(f))

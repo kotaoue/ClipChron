@@ -9,7 +9,7 @@ if (!HATENA_USERNAME) {
   process.exit(1);
 }
 const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/bookmark.rss`;
-const FETCHED_DIR = join(__dirname, '..', 'fetched');
+const FETCHED_DIR = join(__dirname, '..', 'fetched', 'hatena', 'bookmarks');
 const META_PATH = join(FETCHED_DIR, 'hatena-bookmarks-meta.json');
 const REQUEST_DELAY_MS = 1000;
 const FETCH_TIMEOUT_MS = 30000;
