@@ -1,0 +1,89 @@
+[
+  {
+    "title": "japan portal",
+    "url": "http://jp.superuser.co.kr/home/lecture/index.php?cateNo=1&secNo=28&theNo=&leccode=10451",
+    "description": "execとか",
+    "savedAt": "2007-11-26T11:12:05Z",
+    "tags": [
+      "IT",
+      "PG",
+      "Linux"
+    ]
+  },
+  {
+    "title": "PEAR入門",
+    "url": "https://www.javadrive.jp/pear/",
+    "description": "",
+    "savedAt": "2007-11-14T05:03:04Z",
+    "tags": [
+      "IT",
+      "PHP",
+      "tips"
+    ]
+  },
+  {
+    "title": "【HOMMEZ(オムズ)公式】すべては、悩める男性のために。",
+    "url": "https://hommez.co.jp/tech/sonomama/mysql0f_01.jsp",
+    "description": "",
+    "savedAt": "2007-11-12T12:39:50Z",
+    "tags": [
+      "IT",
+      "DB",
+      "MySQL"
+    ]
+  },
+  {
+    "title": "検索エンジンの相関図―(((SEM-ch)))",
+    "url": "http://www.sem-ch.jp/library/000405.html",
+    "description": "",
+    "savedAt": "2007-11-09T09:06:29Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Mobile"
+    ]
+  },
+  {
+    "title": "パソコン見放す20代「下流」携帯族：FACTA online",
+    "url": "https://facta.co.jp/article/200703060.html",
+    "description": "",
+    "savedAt": "2007-11-09T09:06:02Z",
+    "tags": [
+      "Web",
+      "Mobile",
+      "info"
+    ]
+  },
+  {
+    "title": "Free Online Art Viewer - Post-it® Custom Printed Products",
+    "url": "http://promote.3m.com/eps_viewer/index.jsp",
+    "description": "",
+    "savedAt": "2007-11-08T06:29:48Z",
+    "tags": [
+      "Design",
+      "IT"
+    ]
+  },
+  {
+    "title": "MOONGIFT: » Googleを愛する人のための「gOS」:オープンソースを毎日紹介",
+    "url": "https://www.moongift.jp/2007/11/gos/",
+    "description": "",
+    "savedAt": "2007-11-02T09:36:22Z",
+    "tags": [
+      "Web",
+      "Google",
+      "Linux"
+    ]
+  },
+  {
+    "title": "ウノウラボ Unoh Labs: Webデザインする上でFireworksがステキな12のポイント",
+    "url": "http://labs.unoh.net/2007/10/webfireworks12.html",
+    "description": "",
+    "savedAt": "2007-11-01T00:04:57Z",
+    "tags": [
+      "Web",
+      "Design",
+      "tools"
+    ]
+  }
+]

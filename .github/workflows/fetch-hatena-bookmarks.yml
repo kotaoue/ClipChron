@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add fetched/hatena-bookmarks.json fetched/hatena-bookmarks-meta.json
+          git add fetched/hatena-bookmarks-*.json fetched/hatena-bookmarks-meta.json
           git diff --staged --quiet || git commit -m "chore: update hatena bookmarks"
           git push

@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -9,11 +9,20 @@ if (!HATENA_USERNAME) {
   process.exit(1);
 }
 const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/bookmark.rss`;
-const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
-const META_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks-meta.json');
+const FETCHED_DIR = join(__dirname, '..', 'fetched');
+const META_PATH = join(FETCHED_DIR, 'hatena-bookmarks-meta.json');
 const REQUEST_DELAY_MS = 1000;
 const FETCH_TIMEOUT_MS = 30000;
 const DEFAULT_META = { completeFetchDone: false };
+
+function yearMonth(savedAt) {
+  // Returns "YYYY-MM" from an ISO 8601 date string, e.g. "2026-03-08T02:05:53Z" -> "2026-03"
+  return savedAt.slice(0, 7);
+}
+
+function monthlyFilePath(ym) {
+  return join(FETCHED_DIR, `hatena-bookmarks-${ym}.json`);
+}
 
 async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -129,12 +138,18 @@ async function fetchItems(existingUrlSet, isIncremental) {
 }
 
 async function main() {
-  let existing = [];
-  if (existsSync(OUTPUT_PATH)) {
+  // Load all existing bookmarks from monthly files
+  const existing = [];
+  const monthlyFiles = readdirSync(FETCHED_DIR)
+    .filter((f) => /^hatena-bookmarks-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+  for (const file of monthlyFiles) {
     try {
-      existing = JSON.parse(readFileSync(OUTPUT_PATH, 'utf-8'));
+      const raw = readFileSync(join(FETCHED_DIR, file), 'utf-8');
+      const entries = JSON.parse(raw);
+      if (Array.isArray(entries)) existing.push(...entries);
     } catch {
-      console.warn('Could not parse existing file, starting fresh');
+      console.warn(`Warning: could not parse ${file}, skipping`);
     }
   }
 
@@ -148,7 +163,7 @@ async function main() {
   }
 
   const existingUrlSet = new Set(existing.map((item) => item.url));
-  console.log(`Loaded ${existing.length} existing bookmarks`);
+  console.log(`Loaded ${existing.length} existing bookmarks from ${monthlyFiles.length} files`);
 
   if (meta.completeFetchDone) {
     console.log('Fetching new Hatena Bookmarks (incremental)...');
@@ -173,15 +188,37 @@ async function main() {
     return;
   }
 
-  const byUrl = new Map(existing.map((item) => [item.url, item]));
-  for (const item of newItems) byUrl.set(item.url, item);
+  // Group new items by year-month, then merge into the appropriate monthly files
+  const byMonth = new Map();
+  for (const item of newItems) {
+    if (!item.savedAt) continue;
+    const ym = yearMonth(item.savedAt);
+    if (!byMonth.has(ym)) byMonth.set(ym, []);
+    byMonth.get(ym).push(item);
+  }
 
-  const merged = [...byUrl.values()].sort(
-    (a, b) => new Date(b.savedAt).getTime() - new Date(a.savedAt).getTime()
-  );
+  let totalWritten = 0;
+  for (const [ym, items] of [...byMonth.entries()].sort()) {
+    const filePath = monthlyFilePath(ym);
+    let monthExisting = [];
+    if (existsSync(filePath)) {
+      try {
+        monthExisting = JSON.parse(readFileSync(filePath, 'utf-8'));
+      } catch {
+        console.warn(`Warning: could not parse ${filePath}, overwriting`);
+      }
+    }
+    const byUrl = new Map(monthExisting.map((item) => [item.url, item]));
+    for (const item of items) byUrl.set(item.url, item);
+    const merged = [...byUrl.values()].sort(
+      (a, b) => new Date(b.savedAt).getTime() - new Date(a.savedAt).getTime()
+    );
+    writeFileSync(filePath, JSON.stringify(merged, null, 2), 'utf-8');
+    console.log(`  ${ym}: wrote ${merged.length} bookmarks (${items.length} new) to ${filePath}`);
+    totalWritten += items.length;
+  }
 
-  writeFileSync(OUTPUT_PATH, JSON.stringify(merged, null, 2), 'utf-8');
-  console.log(`Saved ${merged.length} bookmarks (${newItems.length} new) to ${OUTPUT_PATH}`);
+  console.log(`Saved ${totalWritten} new bookmarks across ${byMonth.size} monthly file(s)`);
 }
 
 main().catch((err) => {
