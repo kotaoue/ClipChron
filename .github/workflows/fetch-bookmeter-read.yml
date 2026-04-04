@@ -28,11 +28,11 @@ jobs:
           type: 'read'
           year: ${{ steps.date.outputs.year }}
           month: ${{ steps.date.outputs.month }}
-          output: fetched/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
+          output: fetched/bookmeter/read/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add fetched/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
+          git add fetched/bookmeter/read/bookmeter-read-${{ steps.date.outputs.yearmonth }}.json
           git diff --staged --quiet || (git commit -m "chore: update bookmeter read books (${{ steps.date.outputs.yearmonth }})" && git push)
