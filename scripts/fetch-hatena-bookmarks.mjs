@@ -74,21 +74,39 @@ function parseBookmarksFromRss(xml) {
     .filter((item) => item.url);
 }
 
-async function fetchRssPage(page) {
+async function fetchRssPageRaw(page) {
   const url = `${RSS_BASE_URL}?page=${page}`;
   const res = await fetchWithTimeout(url);
   if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
-  const xml = await res.text();
-  return parseBookmarksFromRss(xml);
+  return res.text();
+}
+
+function parseTotalCount(xml) {
+  const channelBlock = xml.match(/<channel[\s\S]*?<\/channel>/i)?.[0] ?? '';
+  const desc = getFirstTagText(channelBlock, 'description');
+  const match = desc.match(/\(([\d,]+)\)/);
+  return match ? parseInt(match[1].replace(/,/g, ''), 10) : null;
 }
 
 async function fetchItems(existingUrlSet, isIncremental) {
   const allNewItems = [];
-  let rssPage = 1;
 
-  while (true) {
-    console.log(`Fetching RSS page=${rssPage} ...`);
-    const items = await fetchRssPage(rssPage);
+  const firstXml = await fetchRssPageRaw(1);
+  const totalCount = parseTotalCount(firstXml);
+  const itemsPerPage = 20;
+  const totalPages = totalCount != null
+    ? Math.ceil(totalCount / itemsPerPage)
+    : null;
+
+  if (totalPages != null) {
+    console.log(`Total bookmarks: ${totalCount} -> ${totalPages} pages`);
+  }
+
+  let rssPage = 1;
+  while (totalPages == null ? true : rssPage <= totalPages) {
+    console.log(`Fetching RSS page=${rssPage}${totalPages != null ? `/${totalPages}` : ''} ...`);
+    const xml = rssPage === 1 ? firstXml : await fetchRssPageRaw(rssPage);
+    const items = parseBookmarksFromRss(xml);
 
     console.log(`  -> ${items.length} items`);
 
@@ -104,8 +122,7 @@ async function fetchItems(existingUrlSet, isIncremental) {
     }
 
     rssPage += 1;
-
-    await sleep(REQUEST_DELAY_MS);
+    if (rssPage <= (totalPages ?? Infinity)) await sleep(REQUEST_DELAY_MS);
   }
 
   return allNewItems;
