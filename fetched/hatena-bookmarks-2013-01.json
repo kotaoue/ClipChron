@@ -1,0 +1,501 @@
+[
+  {
+    "title": "子供のスマホ／タブレット狂いを止めた方法（追記あり）",
+    "url": "https://kotoripiyopiyo.com/2013/01/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E7%8B%82%E3%81%84%E3%82%92%E6%AD%A2%E3%82%81%E3%81%9F%E6%96%B9%E6%B3%95.html",
+    "description": "２ヶ月もしたら、前と一緒になっていたり…",
+    "savedAt": "2013-01-30T12:16:22Z",
+    "tags": []
+  },
+  {
+    "title": "Kotaku - The Gamer's Guide",
+    "url": "http://www.kotaku.jp/2013/01/the-best_animated_background_of_fighting_games.html",
+    "description": "",
+    "savedAt": "2013-01-26T02:44:18Z",
+    "tags": [
+      "Game"
+    ]
+  },
+  {
+    "title": "Android アプリ品質ガイドライン",
+    "url": "https://developers-jp.googleblog.com/2013/01/core.html",
+    "description": "よくよむ",
+    "savedAt": "2013-01-25T09:14:17Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "API Reference - Google Play Android Developer API — Google Developers",
+    "url": "https://developers.google.com/android-publisher/v1/",
+    "description": "APIでのin-app billing",
+    "savedAt": "2013-01-25T08:34:58Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Google I/O 2011",
+    "url": "http://www.google.com/events/io/2011/sessions/evading-pirates-and-stopping-vampires-using-license-verification-library-in-app-billing-and-app-engine.html",
+    "description": "",
+    "savedAt": "2013-01-24T10:14:50Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Sign in - Google Accounts",
+    "url": "https://sites.google.com/site/memo73737/android-dev/android-dev-command",
+    "description": "",
+    "savedAt": "2013-01-24T07:11:42Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "http://www.apadjp.com/apad-%E5%9F%BA%E7%A4%8E%E5%8B%89%E5%BC%B7/android%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%80%80mips-vs-arm/",
+    "url": "http://www.apadjp.com/apad-%E5%9F%BA%E7%A4%8E%E5%8B%89%E5%BC%B7/android%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%80%80mips-vs-arm/",
+    "description": "CPUについて",
+    "savedAt": "2013-01-24T02:28:17Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Google Play 対応デバイス - Google Play ヘルプ",
+    "url": "https://support.google.com/googleplay/answer/1727131?hl=ja",
+    "description": "Google Play ストアアプリ 対応端末一覧",
+    "savedAt": "2013-01-23T10:16:01Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Google Play Billing Library release notes  |  Android Developers",
+    "url": "https://developer.android.com/google/play/billing/release-notes",
+    "description": "IAB Verzによっての必要PlayアプリVerなど",
+    "savedAt": "2013-01-23T09:18:11Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Eclipse 3.7.2でソフトウェア更新を行うとorg.eclipse.ui.PartInitException",
+    "url": "https://symfoware.blog.fc2.com/blog-entry-989.html",
+    "description": "ecliseパースペクティブがぶっこわれた",
+    "savedAt": "2013-01-23T01:39:41Z",
+    "tags": [
+      "PG"
+    ]
+  },
+  {
+    "title": "Androidの機種依存問題を吸収するプロジェクトAndroid-Device-Compatibilityを公開したお話 - mixi engineer blog",
+    "url": "https://mixiengineer.hatenablog.com/entry/2013/11572/",
+    "description": "",
+    "savedAt": "2013-01-22T09:40:08Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "サービス終了のお知らせ",
+    "url": "https://thanks.yahoo.co.jp/hiro5_188/20299732.html",
+    "description": "",
+    "savedAt": "2013-01-22T04:48:47Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "BOOT_COMPLETEDが受信出来ない - Google グループ",
+    "url": "https://groups.google.com/forum/?fromgroups=",
+    "description": "",
+    "savedAt": "2013-01-22T02:28:10Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "In-app Billingでsignatureの検証をサーバサイドで行う - matabii's blog",
+    "url": "https://matabii.hatenablog.com/entry/20110507/1304755460",
+    "description": "in-app billing",
+    "savedAt": "2013-01-21T08:05:46Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "UIコンポーネント - Android Wiki*",
+    "url": "https://wikiwiki.jp/android/UI%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88",
+    "description": "便利な一覧。",
+    "savedAt": "2013-01-21T06:19:56Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "androidborder.html",
+    "url": "https://blog.dksg.jp/2010/02/androidborder.html",
+    "description": "TextView",
+    "savedAt": "2013-01-21T06:16:27Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Androidアプリ入門 No.33 LinearLayoutの基本 - コンピュータクワガタ",
+    "url": "https://kuwalab.hatenablog.jp/entry/20101229/p1",
+    "description": "とりあえずのLinerLayout",
+    "savedAt": "2013-01-21T02:00:23Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Android開発のちょっとしたお話 - mixi engineer blog",
+    "url": "https://mixiengineer.hatenablog.com/entry/2011/10805/",
+    "description": "",
+    "savedAt": "2013-01-21T01:54:58Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Post by @kotaoue · 1 image",
+    "url": "https://www.tumblr.com/kotaoue/41007965205/injustice-gods-among-us-1v2-colorjheremy",
+    "description": "画像:",
+    "savedAt": "2013-01-20T13:46:34Z",
+    "tags": []
+  },
+  {
+    "title": "AndroidのLayoutについて | TechBooster",
+    "url": "http://techbooster.jpn.org/andriod/application/8000/",
+    "description": "",
+    "savedAt": "2013-01-19T15:54:48Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "layoutoptを用いて、Androidのレイアウトを最適化する方法 | TechBooster",
+    "url": "http://techbooster.jpn.org/andriod/application/8016/",
+    "description": "",
+    "savedAt": "2013-01-19T15:54:00Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Android 開発初心者がよくやる失敗 コーディング　その１ | TechBooster",
+    "url": "http://techbooster.jpn.org/andriod/environment/5796/",
+    "description": "いいまとめ(ー_ー)!!",
+    "savedAt": "2013-01-19T15:49:39Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "EclipseでAndroidアプリのデバッグをする際、AVDではなく実デバイス上で行うようにする。 - 日々量産",
+    "url": "https://ryozi.hatenadiary.jp/entry/20120830/1346329481",
+    "description": "",
+    "savedAt": "2013-01-19T15:48:02Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Androidの概要と開発環境の構築　～速習！ Androidアプリケーション開発（1）～",
+    "url": "https://codezine.jp/article/detail/4588",
+    "description": "",
+    "savedAt": "2013-01-19T13:57:13Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Androidプログラミングバイブル SDK4/3/2対応（布留川 英一） | 書籍 | ソシム",
+    "url": "http://www.socym.co.jp/book/806",
+    "description": "",
+    "savedAt": "2013-01-19T08:21:48Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "ソシム株式会社 | パソコン書籍、デザイン書籍、ビジネス実用書の専門出版社",
+    "url": "https://www.socym.co.jp/",
+    "description": "",
+    "savedAt": "2013-01-19T08:16:26Z",
+    "tags": [
+      "PG"
+    ]
+  },
+  {
+    "title": "AndroidManifest.xml 詳細",
+    "url": "http://www.limy.org/program/android/android_manifest.html",
+    "description": "",
+    "savedAt": "2013-01-18T02:43:27Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "第11回　デバッグ手法のあれこれ | gihyo.jp",
+    "url": "https://gihyo.jp/dev/serial/01/androidapp/0011",
+    "description": "",
+    "savedAt": "2013-01-17T09:49:32Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "[Android] Androidサンプルアプリケーション（apps-for-android） - adakoda",
+    "url": "https://www.dropcatch.com/domain/Adakoda.com",
+    "description": "",
+    "savedAt": "2013-01-17T09:32:00Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "『Androidアプリのアイコンの設定変更』",
+    "url": "https://ameblo.jp/smartapp/entry-11344746428.html",
+    "description": "アイコンかえるとテンションあがる。",
+    "savedAt": "2013-01-16T11:51:34Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "SH Developers Square - ドライバ",
+    "url": "https://sh-dev.sharp.co.jp/android/modules/driver/list.php",
+    "description": "",
+    "savedAt": "2013-01-16T08:16:59Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "実機でデバッグするには - 逆引きAndroid入門",
+    "url": "http://www.adakoda.com/android/000242.html",
+    "description": "",
+    "savedAt": "2013-01-15T14:30:58Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "访问安全",
+    "url": "http://eggdev.mobaegg.com/2012/12/in-app-billing-version3.html",
+    "description": "",
+    "savedAt": "2013-01-15T08:19:13Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "C-LIS Crazy Lab. - 色々な.apkファイルをインストール",
+    "url": "http://ccl.c-lis.co.jp/modules/d3blog/details.php?bid=54",
+    "description": "",
+    "savedAt": "2013-01-15T03:54:34Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "http://japan.internet.com/developer/20090213/26.html",
+    "url": "http://japan.internet.com/developer/20090213/26.html",
+    "description": "",
+    "savedAt": "2013-01-15T03:54:24Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "11月 | 2008 |",
+    "url": "https://www.taosoftware.co.jp/blog/2008/11/",
+    "description": "インスコ → 証明書変更のとき",
+    "savedAt": "2013-01-15T03:53:59Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Sign in - Google Accounts",
+    "url": "http://smartlab-devlog.blogspot.com/2012/10/android_31.html",
+    "description": "",
+    "savedAt": "2013-01-15T02:28:32Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Android | エミュレーターからアプリケーションの削除",
+    "url": "https://www.javadrive.jp/android/distribute/index4.html",
+    "description": "",
+    "savedAt": "2013-01-15T02:20:44Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "throw Life - Androidアプリに証明書を入れてちゃんとデジタル署名する方法",
+    "url": "http://www.adamrocker.com/blog/232/signing_for_publish_android_application.html",
+    "description": "",
+    "savedAt": "2013-01-15T00:40:01Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Kotaku - The Gamer's Guide",
+    "url": "http://www.kotaku.jp/2013/01/pixelated_pokemo.html",
+    "description": "こんなパレットつかえねぇよorz",
+    "savedAt": "2013-01-13T01:31:21Z",
+    "tags": []
+  },
+  {
+    "title": "【配色 - デザイン ★★★★★】 - Color Scheme Designer 3",
+    "url": "http://colorschemedesigner.com/",
+    "description": "",
+    "savedAt": "2013-01-12T00:50:28Z",
+    "tags": [
+      "Design"
+    ]
+  },
+  {
+    "title": "throw Life - AndroidのHandlerとは何か？",
+    "url": "http://www.adamrocker.com/blog/261/what-is-the-handler-in-android.html",
+    "description": "",
+    "savedAt": "2013-01-10T10:37:07Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "android in-app Billingのサーバ側チェック - 私事ですが……",
+    "url": "https://t-yamo.hatenablog.com/entry/20110515/1305456175",
+    "description": "",
+    "savedAt": "2013-01-10T10:33:45Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "404 Not Found",
+    "url": "http://eggdev.mobaegg.com/2012/10/android-google-play-api.html",
+    "description": "",
+    "savedAt": "2013-01-10T10:30:41Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Androidでアプリ内課金(In-App Billing)をわかりやすく整理する。 - コードを貼り付けながら。",
+    "url": "https://unagi-brandnew.hatenadiary.org/entry/20110818/1313677291",
+    "description": "",
+    "savedAt": "2013-01-10T10:27:19Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Eclipse に既存の Android プロジェクトをインポートする | 穀風",
+    "url": "https://kokufu.blogspot.com/2011/01/eclipse-android.html",
+    "description": "はまるポイントをチェック。",
+    "savedAt": "2013-01-10T08:46:59Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Sign in - Google Accounts",
+    "url": "https://sites.google.com/a/techdoctranslator.com/jp/android/market/billing",
+    "description": "[androidこっから",
+    "savedAt": "2013-01-10T00:33:10Z",
+    "tags": []
+  },
+  {
+    "title": "Sign in - Google Accounts",
+    "url": "https://sites.google.com/a/techdoctranslator.com/jp/android/market/billing/billing_integrate",
+    "description": "セキュリティと設計も参照することっと あと、サンプルの場所が、The sample files will be installed to /your/sdk/location/extras/google/play_billing/in-app-billing-v03. に代わってる。",
+    "savedAt": "2013-01-10T00:31:45Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "連載インデックス「Android Marketアプリ内課金サービス徹底解説」 - ＠IT",
+    "url": "https://atmarkit.itmedia.co.jp/fsmart/index/android_billing.html",
+    "description": "",
+    "savedAt": "2013-01-09T13:48:31Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "Subversion/TortoiseSVNでの実行パーミッションの保持 : ひろ式めもちょう",
+    "url": "http://memo.hirosiki.jp/article/33602151.html",
+    "description": "",
+    "savedAt": "2013-01-08T10:22:25Z",
+    "tags": [
+      "PG"
+    ]
+  },
+  {
+    "title": "https://www.system-act.com/server/phpmyadmin.html",
+    "url": "https://www.system-act.com/server/phpmyadmin.html",
+    "description": "",
+    "savedAt": "2013-01-07T14:10:33Z",
+    "tags": [
+      "Server"
+    ]
+  },
+  {
+    "title": "クレジットカード登録なしで海外iTunesのアカウントを作成する方法 | フリーソフトラボ.com",
+    "url": "https://freesoftlab.com/blog/us-apple-id/",
+    "description": "",
+    "savedAt": "2013-01-07T05:16:47Z",
+    "tags": [
+      "iOS"
+    ]
+  },
+  {
+    "title": "SSHで他サーバにコマンドを送る方法 - maru.cc@はてな",
+    "url": "https://marucc.hatenablog.com/entry/20080206/1202301411",
+    "description": "",
+    "savedAt": "2013-01-04T01:40:17Z",
+    "tags": [
+      "Server"
+    ]
+  },
+  {
+    "title": "http://tou.ch/spot/321213/touch/11440507",
+    "url": "http://tou.ch/spot/321213/touch/11440507",
+    "description": "ラゾーナ川崎プラザにタッチ！",
+    "savedAt": "2013-01-03T05:06:25Z",
+    "tags": []
+  },
+  {
+    "title": "Android | 表示色の設定",
+    "url": "https://www.javadrive.jp/android/textview/index3.html",
+    "description": "",
+    "savedAt": "2013-01-01T11:54:38Z",
+    "tags": [
+      "Android"
+    ]
+  },
+  {
+    "title": "http://tou.ch/sticker/hatsumoude-jan/",
+    "url": "http://tou.ch/sticker/hatsumoude-jan/",
+    "description": "「はつもうで」シールほか1枚を手に入れた!",
+    "savedAt": "2013-01-01T05:52:01Z",
+    "tags": []
+  },
+  {
+    "title": "http://tou.ch/spot/321872/touch/11409306",
+    "url": "http://tou.ch/spot/321872/touch/11409306",
+    "description": "大國魂神社〔大国魂神社〕にタッチ！",
+    "savedAt": "2013-01-01T05:52:00Z",
+    "tags": []
+  }
+]

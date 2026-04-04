@@ -106,44 +106,55 @@ type HatenaBookmarkEntry = {
 };
 
 async function seedHatenaBookmarks() {
-  const filePath = path.join(process.cwd(), 'fetched', 'hatena-bookmarks.json');
+  const fetchedDir = path.join(process.cwd(), 'fetched');
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^hatena-bookmarks-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
 
-  if (!fs.existsSync(filePath)) {
-    console.warn(`Warning: ${filePath} not found. Skipping Hatena bookmark seed.`);
+  if (files.length === 0) {
+    console.warn('Warning: no hatena-bookmarks-YYYY-MM.json files found. Skipping Hatena bookmark seed.');
     return;
   }
 
-  const raw = fs.readFileSync(filePath, 'utf-8');
-  const entries: HatenaBookmarkEntry[] = JSON.parse(raw);
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: HatenaBookmarkEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
 
-  const rows = entries
-    .filter((e) => e.url && e.savedAt)
-    .map((e) => ({
-      id: `hatena:${e.url}`,
-      source: 'hatena' as const,
-      title: e.title || e.url,
-      url: e.url,
-      description: e.description || null,
-      savedAt: new Date(e.savedAt),
-    }));
+      const rows = entries
+        .filter((e) => e.url && e.savedAt)
+        .map((e) => ({
+          id: `hatena:${e.url}`,
+          source: 'hatena' as const,
+          title: e.title || e.url,
+          url: e.url,
+          description: e.description || null,
+          savedAt: new Date(e.savedAt),
+        }));
 
-  if (rows.length === 0) {
-    console.warn('Warning: no valid Hatena bookmarks to seed.');
-    return;
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(hatenaBookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: hatenaBookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
   }
 
-  await db
-    .insert(hatenaBookmarks)
-    .values(rows)
-    .onConflictDoUpdate({
-      target: hatenaBookmarks.id,
-      set: {
-        title: sql`excluded.title`,
-        url: sql`excluded.url`,
-        description: sql`excluded.description`,
-        savedAt: sql`excluded.saved_at`,
-      },
-    });
-
-  console.log(`Seeded ${rows.length} Hatena bookmarks`);
+  console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
 }

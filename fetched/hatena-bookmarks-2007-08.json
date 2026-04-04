@@ -1,0 +1,776 @@
+[
+  {
+    "title": "つみきWeb",
+    "url": "http://www.hi-ho.ne.jp/tsumiki/",
+    "description": "個人的に好き",
+    "savedAt": "2007-08-31T06:55:37Z",
+    "tags": [
+      "IT",
+      "DB"
+    ]
+  },
+  {
+    "title": "第7回　グーグルとヤフーを、じっくり比較　～違いから逆に見えてくる“SEOの一般法則” | Web担当者Forum",
+    "url": "https://webtan.impress.co.jp/e/2007/08/31/1601",
+    "description": "Flashとかリダイレクトとか",
+    "savedAt": "2007-08-31T02:56:56Z",
+    "tags": [
+      "SEO",
+      "Google",
+      "Web"
+    ]
+  },
+  {
+    "title": "Analytics 日本版 公式ブログ: Overtureのキーワード広告をオーガニック検索と区別する方法について",
+    "url": "https://analytics-ja.googleblog.com/2007/08/overture.html",
+    "description": "メモメモっと",
+    "savedAt": "2007-08-31T02:56:32Z",
+    "tags": [
+      "Web",
+      "tips",
+      "Analytics",
+      "Google"
+    ]
+  },
+  {
+    "title": "テキストリンクと画像リンクはどちらがSEOに効果的？",
+    "url": "https://www.suzukikenichi.com/blog/textlink-or-imagelink/",
+    "description": "まぁ、昔から言われていたことだけれども、一応確認",
+    "savedAt": "2007-08-31T02:54:32Z",
+    "tags": [
+      "Web",
+      "SEO"
+    ]
+  },
+  {
+    "title": "HTML Help by The Web Design Group",
+    "url": "https://www.htmlhelp.com/",
+    "description": "便利ツール群",
+    "savedAt": "2007-08-27T10:24:48Z",
+    "tags": [
+      "Web",
+      "css",
+      "HTML"
+    ]
+  },
+  {
+    "title": "Webサイトのアクセス解析で、押さえておくべき26の指標 – WAA Standards Analytics Definitions - makitani.com",
+    "url": "https://makitani.com/2007/08/waa_standards_analytics_definitions.html",
+    "description": "基本用語集",
+    "savedAt": "2007-08-27T05:14:15Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "tips",
+      "analytics"
+    ]
+  },
+  {
+    "title": "Google,Yahoo!,MSNに質問してみました",
+    "url": "https://www.suzukikenichi.com/blog/googleyahoomsn%E3%81%AB%E8%B3%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F/",
+    "description": "meta無視とかそのあたり",
+    "savedAt": "2007-08-27T05:13:35Z",
+    "tags": [
+      "SEO",
+      "Google",
+      "Web"
+    ]
+  },
+  {
+    "title": "検索キーワードリストから見つけ出すコンテンツ企画 | Web担当者Forum",
+    "url": "https://webtan.impress.co.jp/e/2007/08/27/1658",
+    "description": "たまに、何でってキーワードでアクセスされてるときがあるよね",
+    "savedAt": "2007-08-27T05:13:01Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Analytics"
+    ]
+  },
+  {
+    "title": "Should Do This",
+    "url": "https://www.shoulddothis.com/",
+    "description": "サイト改良あれこれしゃべり場",
+    "savedAt": "2007-08-27T04:57:14Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "動画共有サイトを横断検索！動画検索エンジントップ１０ - Chocolate（チョコレート）",
+    "url": "http://choco--late.com/archives/269",
+    "description": "Foooooかな使ってるのは",
+    "savedAt": "2007-08-27T04:55:01Z",
+    "tags": [
+      "Web",
+      "SEO"
+    ]
+  },
+  {
+    "title": "日本のインターネット歴史年表　1994年（平成6年）",
+    "url": "https://i.impressrd.jp/e20070824112",
+    "description": "おもしろい！！そして懐かしい",
+    "savedAt": "2007-08-27T04:52:41Z",
+    "tags": [
+      "web",
+      "info"
+    ]
+  },
+  {
+    "title": "ネット新語\"Bacn\"を知ってますか？",
+    "url": "https://toshio.typepad.com/b3_annex/2007/08/bac.html",
+    "description": "あっあるある。受信ボックスに山ほど",
+    "savedAt": "2007-08-27T00:57:56Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "カラースキーム生成やアクセシビリティのチェックができるオンライン カラーツール",
+    "url": "https://coliss.com/articles/build-websites/operation/design/297.html",
+    "description": "アクセシビリティは気になる。",
+    "savedAt": "2007-08-23T15:33:28Z",
+    "tags": [
+      "Web",
+      "Design"
+    ]
+  },
+  {
+    "title": "PHPとPhotoShopでアバターの仕組みを作る方法:phpspot開発日誌",
+    "url": "https://phpspot.org/blog/archives/2007/08/phpphotoshop.html",
+    "description": "［キャラクター］[デザイン]2Dゲーム作る感覚",
+    "savedAt": "2007-08-23T15:24:54Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "Firefoxで別ブラウザのレンダリングエンジンを使う拡張いろいろ:phpspot開発日誌",
+    "url": "https://phpspot.org/blog/archives/2007/08/firefox_6.html",
+    "description": "愛用してます。",
+    "savedAt": "2007-08-23T15:22:32Z",
+    "tags": [
+      "web",
+      "Web"
+    ]
+  },
+  {
+    "title": "Picnik - 写真を簡単に、ブラウザからオンラインで編集",
+    "url": "http://www.picnik.com/",
+    "description": "画像加工サービス。出先などでツールが無い場合に重宝",
+    "savedAt": "2007-08-22T06:21:30Z",
+    "tags": [
+      "Web",
+      "Design",
+      "tools"
+    ]
+  },
+  {
+    "title": "トップページ | 日本規格協会",
+    "url": "http://www.jsa.or.jp/stdz/instac/commitee-acc/WG2/Docs/web-tech-repo/technical-report.html",
+    "description": "抑えておくべきアレコレ",
+    "savedAt": "2007-08-21T15:04:08Z",
+    "tags": [
+      "Web",
+      "HTML",
+      "UI"
+    ]
+  },
+  {
+    "title": "http://youmos.com/news/relay",
+    "url": "http://youmos.com/news/relay",
+    "description": "部内とか小規模なネットワークで威力を発揮しそう",
+    "savedAt": "2007-08-21T00:31:24Z",
+    "tags": [
+      "Web",
+      "js"
+    ]
+  },
+  {
+    "title": "Google、クリック詐欺対策を強化",
+    "url": "https://japan.zdnet.com/article/20354753/",
+    "description": "IP単位かぁ、管理としては厳しいなぁ",
+    "savedAt": "2007-08-20T12:17:20Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "AD",
+      "Google"
+    ]
+  },
+  {
+    "title": "覚え書き@kazuhi.to: Web標準XHTML CSSデザイン クリエイターが身につけておくべき新・100の法則。",
+    "url": "https://kidachi.kazuhi.to/blog/archives/034899.html",
+    "description": "一冊の本だけではなく複数の本を読む必要があるという理由。",
+    "savedAt": "2007-08-20T00:04:40Z",
+    "tags": [
+      "Web",
+      "css",
+      "HTML",
+      "Book"
+    ]
+  },
+  {
+    "title": "Webにおけるルビのサポート | Web標準Blog | ミツエーリンクス",
+    "url": "https://standards.mitsue.co.jp/archives/001242.html",
+    "description": "ルビルビ",
+    "savedAt": "2007-08-18T02:21:55Z",
+    "tags": [
+      "Web",
+      "HTML"
+    ]
+  },
+  {
+    "title": "効果的なプレスリリースを行うための11のTips（PRO）",
+    "url": "http://web-marketing.zako.org/web-marketing-news/press-release-optimization-11tips.html",
+    "description": "広報的なことをするときに",
+    "savedAt": "2007-08-18T01:53:25Z",
+    "tags": [
+      "Web",
+      "Work"
+    ]
+  },
+  {
+    "title": "ウノウラボ Unoh Labs: フォームのユーザビリティを改善する10のTips",
+    "url": "http://labs.unoh.net/2007/08/10tips.html",
+    "description": "単純だけど見落としがちな内容。",
+    "savedAt": "2007-08-16T16:35:12Z",
+    "tags": [
+      "Web",
+      "IT",
+      "UI"
+    ]
+  },
+  {
+    "title": "検索エンジンの「満足度」、Yahoo!がGoogleを抜いてトップに",
+    "url": "https://www.itmedia.co.jp/news/articles/0708/15/news014.html",
+    "description": "サービスなども含めた話じゃなくて、検索エンジンとしてってことかなぁ",
+    "savedAt": "2007-08-15T07:01:13Z",
+    "tags": [
+      "SEO",
+      "Google",
+      "Web"
+    ]
+  },
+  {
+    "title": "あのサイトがどの技術で作られているのかがわかる『BuiltWith』 | 100SHIKI",
+    "url": "https://www.100shiki.com/archives/2007/08/builtwith.html",
+    "description": "ためしてみたいが、超重い・・・家に帰ってから再チャレンジ",
+    "savedAt": "2007-08-14T11:54:54Z",
+    "tags": [
+      "Web",
+      "IT"
+    ]
+  },
+  {
+    "title": "Javaについてのメモ",
+    "url": "http://www.sk-jp.com/java/tips/javatips_char.html",
+    "description": "",
+    "savedAt": "2007-08-13T03:14:38Z",
+    "tags": [
+      "IT",
+      "Web",
+      "PG"
+    ]
+  },
+  {
+    "title": "http://www.doyouphp.jp/smartydoc/language.function.include.html",
+    "url": "http://www.doyouphp.jp/smartydoc/language.function.include.html",
+    "description": "LinuxとWindowsで開発する際のパス問題の解決ヒント $",
+    "savedAt": "2007-08-13T02:02:53Z",
+    "tags": [
+      "IT",
+      "PG",
+      "PHP"
+    ]
+  },
+  {
+    "title": "佐々木健介が新技「キングバスター」を初公開",
+    "url": "http://blog.livedoor.jp/onisoku/archives/64708762.html",
+    "description": "死ぬw",
+    "savedAt": "2007-08-11T10:18:07Z",
+    "tags": [
+      "Sports",
+      "w",
+      "プロレス"
+    ]
+  },
+  {
+    "title": "複数のドメインを運営する （バーチャルホスト） - Linux で自宅サーバ [ Home Server Technical. ]",
+    "url": "https://www.miloweb.net/virtualhost.html",
+    "description": "LANの場合はさらに一手間必要",
+    "savedAt": "2007-08-10T07:43:12Z",
+    "tags": [
+      "IT",
+      "Server"
+    ]
+  },
+  {
+    "title": "CSS Beauty | CSS Design, News, Jobs, Community, Web Standards",
+    "url": "https://parameter.io/",
+    "description": "これは必読",
+    "savedAt": "2007-08-10T04:35:24Z",
+    "tags": [
+      "Web",
+      "css"
+    ]
+  },
+  {
+    "title": "Build and implement a single sign-on solution",
+    "url": "http://www.ibm.com/developerworks/library/x-html5/?ca=dgr-lnxw01NewHTML",
+    "description": "timeいいなぁ、timeをDOMでぶっこ抜いてほげほげしてなんかするとか。",
+    "savedAt": "2007-08-09T14:34:01Z",
+    "tags": [
+      "Web",
+      "HTML"
+    ]
+  },
+  {
+    "title": "TypeNow.net Themed Fonts Download Free Movie and Music Fonts",
+    "url": "http://www.typenow.net/themed.htm",
+    "description": "フォントに凄い",
+    "savedAt": "2007-08-09T14:29:05Z",
+    "tags": [
+      "Web",
+      "Design"
+    ]
+  },
+  {
+    "title": "CSSデバッギングツール１０選:phpspot開発日誌",
+    "url": "https://phpspot.org/blog/archives/2007/08/css_38.html",
+    "description": "さてと、明日早速会社で",
+    "savedAt": "2007-08-09T14:19:46Z",
+    "tags": [
+      "css",
+      "HTML",
+      "Web"
+    ]
+  },
+  {
+    "title": "MOONGIFT: » ついに登場！CSSフレームワーク「Blueprint」:オープンソースを毎日紹介",
+    "url": "https://www.moongift.jp/2007/08/blueprint/",
+    "description": "中身は思った以上にシンプル。",
+    "savedAt": "2007-08-09T14:17:30Z",
+    "tags": [
+      "Web",
+      "css",
+      "HTML"
+    ]
+  },
+  {
+    "title": "8秒待たせるWebアプリはユーザーが逃げる――テストツール新版が登場 － ＠IT",
+    "url": "https://atmarkit.itmedia.co.jp/news/200708/09/wapt.html",
+    "description": "8秒ってそんな気が短いかって思ったけど、自分のことをよーく考えると5秒くらいでいらついてる",
+    "savedAt": "2007-08-09T14:11:36Z",
+    "tags": [
+      "Web",
+      "UI"
+    ]
+  },
+  {
+    "title": "仕事効率化最新サービス",
+    "url": "https://visionalist.com/?link_id=vl1",
+    "description": "機能は凄く良さそうなんだよねぇ。あとはこの費用を稟議通せるかって感じかな",
+    "savedAt": "2007-08-09T04:09:15Z",
+    "tags": [
+      "Web",
+      "Analytics"
+    ]
+  },
+  {
+    "title": "インターネットを三次元的に表現した“ぶら”ウザ「サイトスニーカー2007」:ニュース - CNET Japan",
+    "url": "https://japan.cnet.com/article/20354335/",
+    "description": "インターネットを表現かというと疑問だけども、面白い",
+    "savedAt": "2007-08-08T16:25:40Z",
+    "tags": [
+      "Web",
+      "tools"
+    ]
+  },
+  {
+    "title": "Google、リアルタイムにインデックスを更新 - 更新直後の記事を検索可能に ::SEM R (#SEMR)",
+    "url": "http://www.sem-r.com/google07/20070808122237.html",
+    "description": "1hでインデックスされるってことなら、何かの言葉が話題になったら、即記事アップとかでアクセスを呼び込める可能性があるってこと",
+    "savedAt": "2007-08-08T16:18:27Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Google"
+    ]
+  },
+  {
+    "title": "http://www.hotwebmagazine.com/24",
+    "url": "http://www.hotwebmagazine.com/24",
+    "description": "探り探り手探りでやっていくしかないってことかなぁ。これぞ集合知！？",
+    "savedAt": "2007-08-08T16:13:22Z",
+    "tags": [
+      "Web",
+      "business"
+    ]
+  },
+  {
+    "title": "みんなが見ている人気ページや話題ニュースをランキング化する [パストラック(Pathtraq)]",
+    "url": "http://pathtraq.com/",
+    "description": "もうちょっと広まるには、サイトとツールのUIをどうにかする必要があるんじゃないかなぁ？なんか色々分かりにくい",
+    "savedAt": "2007-08-08T15:57:57Z",
+    "tags": [
+      "Web",
+      "Analytics"
+    ]
+  },
+  {
+    "title": "“Web2.0バブル”はもうすぐはじける？",
+    "url": "https://www.itmedia.co.jp/anchordesk/articles/0708/08/news042.html",
+    "description": "バブルというにはごく一部のフィーバーっぷりだと思う。世間はほとんど影響ない感じ",
+    "savedAt": "2007-08-08T15:43:57Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "http://www.fotz.jp/",
+    "url": "http://fotz.jp/",
+    "description": "はぁと",
+    "savedAt": "2007-08-07T15:41:03Z",
+    "tags": [
+      "Web",
+      "tools",
+      "images"
+    ]
+  },
+  {
+    "title": "離脱率90%は当たり前！？最後の難関『入力フォーム』の離脱を改善する",
+    "url": "https://markezine.jp/a/article/aid/1582.aspx",
+    "description": "フォームはむずかしい…僕の対処はできるだけ入力項目を減らすって感じだけれども",
+    "savedAt": "2007-08-07T12:15:21Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Analytics",
+      "UI"
+    ]
+  },
+  {
+    "title": "http://hochi.yomiuri.co.jp/entertainment/news/20070807-OHT1T00060.htm",
+    "url": "http://hochi.yomiuri.co.jp/entertainment/news/20070807-OHT1T00060.htm",
+    "description": "“アクションシーンはＣＧなど一切使わずにすべてホンモノ。” 続編があった場合、邪鬼はどうするのだろうか…",
+    "savedAt": "2007-08-07T01:23:53Z",
+    "tags": []
+  },
+  {
+    "title": "wisdom | あなたのビジネス思考に、ひらめきを。",
+    "url": "http://www.blwisdom.com/cogni/02/",
+    "description": "どんくらいのレベルアップなのだか具体的ではないけどちょっと感動",
+    "savedAt": "2007-08-07T00:06:30Z",
+    "tags": [
+      "Web",
+      "Blog"
+    ]
+  },
+  {
+    "title": "mixiのあしあとAPI発掘 « ku",
+    "url": "http://ido.nu/kuma/2007/06/29/mixi%E3%81%AE%E3%81%82%E3%81%97%E3%81%82%E3%81%A8api%E7%99%BA%E6%8E%98/",
+    "description": "ほへぇ、これは使える！！でも、モチベ的には１年くらいまえにあればベストだった・・・",
+    "savedAt": "2007-08-06T23:39:04Z",
+    "tags": [
+      "Web",
+      "SNS"
+    ]
+  },
+  {
+    "title": "mixi notifyにはAtomが使われている - F.Ko-Jiの「一秒後は未来」",
+    "url": "https://blog.fkoji.com/2007/06290200.html",
+    "description": "ほへぇ、なるほど",
+    "savedAt": "2007-08-06T23:38:05Z",
+    "tags": [
+      "SNS",
+      "Web"
+    ]
+  },
+  {
+    "title": "HTML Entity Character Lookup Left Logic",
+    "url": "http://leftlogic.com/lounge/articles/entity-lookup/",
+    "description": "似た文字検索が便利",
+    "savedAt": "2007-08-06T17:23:48Z",
+    "tags": [
+      "Web",
+      "HTML",
+      "w"
+    ]
+  },
+  {
+    "title": "Elastic: 女性ファッション誌の分類・分析2007",
+    "url": "http://269g.net/article/4754175.html",
+    "description": "長年の謎が氷解！！メモにして手帳に貼り付ける",
+    "savedAt": "2007-08-06T06:16:22Z",
+    "tags": [
+      "Book",
+      "info",
+      "Design"
+    ]
+  },
+  {
+    "title": "マウスが上に来るとくるりんと文字の色を変えるスクリプト「Scrollovers」",
+    "url": "https://gigazine.net/news/20070803_scrollovers/",
+    "description": "ちょっとしたテクニックとして参考に",
+    "savedAt": "2007-08-06T05:46:24Z",
+    "tags": [
+      "Web",
+      "css",
+      "HTML",
+      "tips"
+    ]
+  },
+  {
+    "title": "モチベーションは楽しさ創造から - はてなブックマークが巻き起こす錯覚。　成功体験の亡霊",
+    "url": "https://venturmanagement.hatenablog.com/entry/20070805/1186350753",
+    "description": "そして、このエントリーをはてブする僕の気分は、ちょっとだけ意地悪",
+    "savedAt": "2007-08-06T04:28:44Z",
+    "tags": [
+      "Web",
+      "Hatena",
+      "Blog"
+    ]
+  },
+  {
+    "title": "検索条件の入力画面で配慮したいインターフェース例 (ユーザビリティ実践メモ)",
+    "url": "http://www.bebit.co.jp/memo/2007/08/post_75.html",
+    "description": "アフォーダンスってやつ。なんかこんなちょっとの工夫を忘れているのが恥ずかしい",
+    "savedAt": "2007-08-06T04:26:07Z",
+    "tags": [
+      "Web",
+      "UI"
+    ]
+  },
+  {
+    "title": "http://japan.internet.com/busnews/20070806/6.html",
+    "url": "http://japan.internet.com/busnews/20070806/6.html",
+    "description": "媒体が複数になるってことは、可能性と手間がn倍になるのではなくて、n乗になるイメージかな",
+    "savedAt": "2007-08-06T04:00:59Z",
+    "tags": [
+      "Web",
+      "AD",
+      "marketing"
+    ]
+  },
+  {
+    "title": "入力した文章を無理やり歌で表現する",
+    "url": "http://www.sr.se/P1/src/sing/",
+    "description": "むりやり",
+    "savedAt": "2007-08-05T06:47:18Z",
+    "tags": [
+      "Web",
+      "Music",
+      "tools",
+      "w"
+    ]
+  },
+  {
+    "title": "プログラミング雑誌の価値はまだあるのか？ | スラド デベロッパー",
+    "url": "https://developers.srad.jp/story/07/08/04/0047256/",
+    "description": "セキュリティ問題とかで、ネットに接続できない職場とかの場合かなぁ",
+    "savedAt": "2007-08-05T03:27:01Z",
+    "tags": [
+      "IT",
+      "Book"
+    ]
+  },
+  {
+    "title": "http://tutorialblog.org/30-productivity-tips-for-designers/",
+    "url": "http://tutorialblog.org/30-productivity-tips-for-designers/",
+    "description": "デザイナーの生産性を向上させる30のサイト",
+    "savedAt": "2007-08-04T02:38:48Z",
+    "tags": [
+      "Web",
+      "Design",
+      "Work"
+    ]
+  },
+  {
+    "title": "http://www.asahi.com/national/update/0802/OSK200708020042.html",
+    "url": "http://www.asahi.com/national/update/0802/OSK200708020042.html",
+    "description": "なんで、まとめがプンプンなんだろう？",
+    "savedAt": "2007-08-03T11:44:12Z",
+    "tags": [
+      "w"
+    ]
+  },
+  {
+    "title": "使われていないCSSセレクタを発見することが可能なFireFox拡張「Dust-Me Selectors」:phpspot開発日誌",
+    "url": "https://phpspot.org/blog/archives/2007/08/cssfirefoxdustm.html",
+    "description": "あっ便利そう。来週頭に会社に設定",
+    "savedAt": "2007-08-03T11:40:31Z",
+    "tags": [
+      "web",
+      "Web"
+    ]
+  },
+  {
+    "title": "opentechpress.jp - このウェブサイトは販売用です！ - opentechpress リソースおよび情報",
+    "url": "http://opentechpress.jp/news/article.pl?sid=07/08/03/0952206&from=rss",
+    "description": "そうだよねぇ、実際そこまで配慮してないんだよね・・・やらなきゃってのはわかるけど実践できない・・・",
+    "savedAt": "2007-08-03T11:19:03Z",
+    "tags": [
+      "Web",
+      "UI"
+    ]
+  },
+  {
+    "title": "Japan Is Getting Madder At YouTube",
+    "url": "https://mashable.com/archive/youtube-japan",
+    "description": "まぁ、変に見えるよね、日本の対応って・・・",
+    "savedAt": "2007-08-03T10:53:20Z",
+    "tags": [
+      "Web",
+      "YouTube",
+      "business"
+    ]
+  },
+  {
+    "title": "4大検索エンジンのアルゴリズムの違いでわかってきたこと | Moz - SEOとインバウンドマーケティングの実践情報 | Web担当者Forum",
+    "url": "https://webtan.impress.co.jp/e/2007/08/03/1747",
+    "description": "現時点のMSNはなんか必要な情報が見つからないっていう印象が強い・・・あとMSNにSitemapをこちらから登録できるようにして欲しい",
+    "savedAt": "2007-08-03T07:16:53Z",
+    "tags": [
+      "SEO",
+      "Google",
+      "Web"
+    ]
+  },
+  {
+    "title": "管理サイトの相互リンク比率が高いと、リンクファームとしてペナルティを受けてしまう？ | 正しいSEO相談室 | Web担当者Forum",
+    "url": "https://webtan.impress.co.jp/e/2007/08/03/1582",
+    "description": "リンク集の扱いって難しいよね",
+    "savedAt": "2007-08-03T07:13:26Z",
+    "tags": [
+      "Web",
+      "SEO"
+    ]
+  },
+  {
+    "title": "グーグル、「関連検索」を検索結果上部にも表示 ::SEM R (#SEMR)",
+    "url": "http://www.sem-r.com/0702/20070803101434.html",
+    "description": "たまに、それは関連してないだろうってのがでるので笑わせてもらってます！！",
+    "savedAt": "2007-08-03T07:11:43Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Google"
+    ]
+  },
+  {
+    "title": "Google携帯、来年にも発売か？ | スラド IT",
+    "url": "https://it.srad.jp/story/07/08/03/033219/",
+    "description": "無料かぁ夢がふくらむなぁ…デザインは、イマイチっぽい予感だけども",
+    "savedAt": "2007-08-03T05:14:39Z",
+    "tags": [
+      "Web",
+      "Mobile",
+      "Google"
+    ]
+  },
+  {
+    "title": "FSV #05　マイクロソフトの総合コミュニケーション戦略 | All-in-One INTERNET magazine 2.0",
+    "url": "http://i.impressrd.jp/e/2007/08/03/23",
+    "description": "うーん音声かぁ……結局英語でのシステム開発がされるわけなので、日本版はまだまだ先かなぁと思う。",
+    "savedAt": "2007-08-03T02:26:56Z",
+    "tags": [
+      "IT",
+      "Microsoft"
+    ]
+  },
+  {
+    "title": "http://japan.internet.com/busnews/20070802/4.html",
+    "url": "http://japan.internet.com/busnews/20070802/4.html",
+    "description": "mixiだけではなくて、著作権対策とかが問題になってるYouTubeにとっても美味しい感じ",
+    "savedAt": "2007-08-02T14:03:03Z",
+    "tags": [
+      "Web",
+      "SNS",
+      "YouTube"
+    ]
+  },
+  {
+    "title": "タバコと同じくらい有害--レーザープリンタに健康上のリスク",
+    "url": "https://japan.cnet.com/article/20353976/",
+    "description": "トナーはやばいやばいとうわさだけは聞いていたけど、こんな形のデータでみるとやっぱりちょっと引く",
+    "savedAt": "2007-08-02T10:39:53Z",
+    "tags": [
+      "IT",
+      "Life"
+    ]
+  },
+  {
+    "title": "Google先生は不要？——ソースコード共有サイト「code*」開設 − ＠IT",
+    "url": "https://atmarkit.itmedia.co.jp/news/200708/01/code.html",
+    "description": "そうなんだよね。かなりあると便利",
+    "savedAt": "2007-08-02T00:38:17Z",
+    "tags": [
+      "Web",
+      "IT",
+      "SEO"
+    ]
+  },
+  {
+    "title": "Analytics レポートに新しい機能が追加されました",
+    "url": "https://analytics-ja.googleblog.com/2007/08/analytics.html",
+    "description": "使い方は後ほど考える",
+    "savedAt": "2007-08-02T00:37:41Z",
+    "tags": [
+      "Web",
+      "SEO",
+      "Analytics",
+      "Google"
+    ]
+  },
+  {
+    "title": "ヤフー、新たなユーザー参加型サービス「ズバリ予想」を公開",
+    "url": "https://japan.cnet.com/article/20353907/",
+    "description": "ってブックメーカー",
+    "savedAt": "2007-08-02T00:36:33Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "opentechpress.jp - このウェブサイトは販売用です！ - opentechpress リソースおよび情報",
+    "url": "http://opentechpress.jp/developer/article.pl?sid=07/08/01/0129243&from=rss",
+    "description": "テスト環境一括構築とか、新規プロジェクト立ち上げとか",
+    "savedAt": "2007-08-02T00:30:18Z",
+    "tags": [
+      "web",
+      "Web"
+    ]
+  },
+  {
+    "title": "みんなで作る検索エンジン、フェレット",
+    "url": "http://jp-ferret.com/index.php",
+    "description": "ソーシャルサーチエンジン SSEとか？",
+    "savedAt": "2007-08-01T14:50:42Z",
+    "tags": [
+      "Web",
+      "SEO"
+    ]
+  },
+  {
+    "title": "必要年収シミュレーター【リクナビNEXT】",
+    "url": "https://next.rikunabi.com/01/n_simulator/n_simulator_01.html?vos=nynmyajm0913017",
+    "description": "むヴぅ、低めに希望を出したのに、高い・・・",
+    "savedAt": "2007-08-01T10:26:33Z",
+    "tags": [
+      "Work",
+      "Life"
+    ]
+  },
+  {
+    "title": "「日本の子供のメール使用頻度は最低」など意外？な結果に～MS、16か国・18,000人の子供を対象に大規模調査：RBB TODAY (ブロードバンド情報サイト) 2007/07/26",
+    "url": "https://www.rbbtoday.com/article/2007/07/26/43756.html",
+    "description": "ケータイメールは、予測変換機能を使うと、友達間の会話くらいだとPCより便利なんだよね。でも、メディアリテラシーは感じる結果に",
+    "savedAt": "2007-08-01T02:15:44Z",
+    "tags": [
+      "Web",
+      "info",
+      "Mobile"
+    ]
+  }
+]

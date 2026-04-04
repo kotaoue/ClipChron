@@ -1,0 +1,349 @@
+[
+  {
+    "title": "電気通信大学　情報基盤センター : 教育系利用マニュアル : キーチェーンパスワード変更の仕方",
+    "url": "http://www.cc.uec.ac.jp/edu/manual/key_chain.html",
+    "description": "",
+    "savedAt": "2010-10-29T07:40:13Z",
+    "tags": [
+      "Mac",
+      "tips"
+    ]
+  },
+  {
+    "title": "パスワードが無くなってログインできない Mac に無理矢理ログインする方法",
+    "url": "http://akisute.com/2010/01/mac.html",
+    "description": "",
+    "savedAt": "2010-10-29T02:53:08Z",
+    "tags": [
+      "Mac",
+      "Tips"
+    ]
+  },
+  {
+    "title": "MySQL :: MySQL 4.1 リファレンスマニュアル :: 4.5.6.9 テーブルの修復方法",
+    "url": "http://dev.mysql.com/doc/refman/4.1/ja/repair.html",
+    "description": "",
+    "savedAt": "2010-10-28T23:34:58Z",
+    "tags": [
+      "MySQL",
+      "tips"
+    ]
+  },
+  {
+    "title": "【まとめ】WordPress を Yahoo! ブログ検索させる方法 その10【追記あり】",
+    "url": "https://1010uzu.com/blog/yahoo-blog-search-index-wordpress-10",
+    "description": "",
+    "savedAt": "2010-10-28T04:24:02Z",
+    "tags": [
+      "SEO",
+      "Web"
+    ]
+  },
+  {
+    "title": "FreeBSD　dovecot",
+    "url": "http://serverfan.dip.jp/freebsd/dovecot.html",
+    "description": "",
+    "savedAt": "2010-10-27T02:14:13Z",
+    "tags": [
+      "Linux"
+    ]
+  },
+  {
+    "title": "FreeBSD:Dovecot-1.0.13設定 - KinusatiWiki",
+    "url": "http://wiki.kinusati.net/index.php/FreeBSD:Dovecot-1.0.13%E8%A8%AD%E5%AE%9A",
+    "description": "",
+    "savedAt": "2010-10-27T02:14:08Z",
+    "tags": [
+      "Linux"
+    ]
+  },
+  {
+    "title": "[PukiWiki:freebsd] FreeBSD/Ports/Mail/Dovecot : Cocelo Style",
+    "url": "http://cocelo.s201.xrea.com/freebsd/index.php?FreeBSD%2FPorts%2FMail%2FDovecot",
+    "description": "",
+    "savedAt": "2010-10-27T02:14:02Z",
+    "tags": [
+      "Linux"
+    ]
+  },
+  {
+    "title": "Flash Lite制作　作業効率化＆ファイル容量軽量化テクニック | デベロッパーセンター",
+    "url": "http://www.adobe.com/jp/devnet/flash/articles/flashlite_koekatamarin_tips.html",
+    "description": "",
+    "savedAt": "2010-10-26T01:32:01Z",
+    "tags": [
+      "tips",
+      "Flash"
+    ]
+  },
+  {
+    "title": "http://www.jitaku-server.net/postfix_alias.html",
+    "url": "http://www.jitaku-server.net/postfix_alias.html",
+    "description": "",
+    "savedAt": "2010-10-25T05:38:15Z",
+    "tags": [
+      "server",
+      "tips"
+    ]
+  },
+  {
+    "title": "logrotate によるログのローテーション",
+    "url": "http://linux.kororo.jp/cont/server/logrotate.php",
+    "description": "",
+    "savedAt": "2010-10-25T01:41:12Z",
+    "tags": [
+      "server",
+      "tips"
+    ]
+  },
+  {
+    "title": "Kozupon.com - Ubuntu Anthy顔文字辞書の登録！",
+    "url": "http://www.kozupon.com/x/anthy_kaomoji.html",
+    "description": "",
+    "savedAt": "2010-10-22T02:51:47Z",
+    "tags": [
+      "Linux"
+    ]
+  },
+  {
+    "title": "ＰＨＰで携帯サイト - phpspot",
+    "url": "https://phpspot.net/php/mobile.html",
+    "description": "",
+    "savedAt": "2010-10-21T10:31:33Z",
+    "tags": [
+      "PHP",
+      "Mobile"
+    ]
+  },
+  {
+    "title": "第3回　携帯サイトの文字コードに気をつける | gihyo.jp",
+    "url": "https://gihyo.jp/dev/serial/01/mobilesite-php/0003",
+    "description": "",
+    "savedAt": "2010-10-21T09:49:01Z",
+    "tags": [
+      "PHP",
+      "Mobile"
+    ]
+  },
+  {
+    "title": "『携帯電話のブラウザで使用可能なURLの長さをまとめてみた』",
+    "url": "https://ameblo.jp/shimx/entry-10196741830.html",
+    "description": "",
+    "savedAt": "2010-10-20T02:21:41Z",
+    "tags": [
+      "Web",
+      "Mobile"
+    ]
+  },
+  {
+    "title": "sourceforge.jp",
+    "url": "http://wpdocs.sourceforge.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90",
+    "description": "",
+    "savedAt": "2010-10-14T09:56:55Z",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "title": "データベースサーバー構築(MySQL) - CentOSで自宅サーバー構築",
+    "url": "http://centossrv.com/mysql.shtml",
+    "description": "",
+    "savedAt": "2010-10-14T07:20:19Z",
+    "tags": [
+      "MySQL",
+      "Linux",
+      "tips"
+    ]
+  },
+  {
+    "title": "メールサーバー構築(Postfix+Dovecot) - CentOSで自宅サーバー構築",
+    "url": "http://centossrv.com/postfix.shtml",
+    "description": "",
+    "savedAt": "2010-10-14T07:17:33Z",
+    "tags": [
+      "server",
+      "Linux",
+      "tips"
+    ]
+  },
+  {
+    "title": "MySQL の起動と停止",
+    "url": "http://www.turbolinux.com/products/server/11s/user_guide/mysqlstart.html",
+    "description": "",
+    "savedAt": "2010-10-14T06:48:30Z",
+    "tags": [
+      "MySQL",
+      "tips"
+    ]
+  },
+  {
+    "title": "MySQL(TM)とは",
+    "url": "http://www.interdb.jp/techinfo/mysql/m-2-11.html",
+    "description": "",
+    "savedAt": "2010-10-13T01:38:38Z",
+    "tags": [
+      "MySQL",
+      "tips"
+    ]
+  },
+  {
+    "title": "MySQLのquery cacheがうまく利用されていない気がします。…",
+    "url": "http://q.hatena.ne.jp/1256569462",
+    "description": "",
+    "savedAt": "2010-10-12T02:33:24Z",
+    "tags": [
+      "MySQL",
+      "tips"
+    ]
+  },
+  {
+    "title": "MySQLユーザコンファレンス2008 2日目(10/31)メモ - うまいぼうぶろぐ",
+    "url": "https://hogem.hatenablog.com/entry/20081102/1225612700",
+    "description": "",
+    "savedAt": "2010-10-08T15:37:13Z",
+    "tags": [
+      "MySQL",
+      "tips",
+      "server"
+    ]
+  },
+  {
+    "title": "第6回：query_cache_sizeの違いによるパフォーマンス比較 (1/3) | Think IT（シンクイット）",
+    "url": "https://thinkit.co.jp/free/article/0707/2/6",
+    "description": "",
+    "savedAt": "2010-10-08T10:03:57Z",
+    "tags": [
+      "MySQL",
+      "tips"
+    ]
+  },
+  {
+    "title": "むしろ WordPress の管理画面が爆速になる APC (Alternative PHP Cache) | Nire.Com",
+    "url": "https://www.nire.com/2009/04/wordpress-apc/",
+    "description": "",
+    "savedAt": "2010-10-08T08:23:43Z",
+    "tags": [
+      "server",
+      "tips",
+      "Web",
+      "PHP"
+    ]
+  },
+  {
+    "title": "Virtual Dave :: munin/MySQL stats",
+    "url": "https://wiki.xdroop.com/space/munin/MySQL+stats",
+    "description": "",
+    "savedAt": "2010-10-07T02:59:29Z",
+    "tags": [
+      "server"
+    ]
+  },
+  {
+    "title": "Fix for Munin MySQL Monitoring Plugin Graph Not Showing or Blank - Tech Journey",
+    "url": "https://techjourney.net/fix-for-munin-mysql-monitoring-plugin-graph-not-showing-or-blank/",
+    "description": "",
+    "savedAt": "2010-10-07T02:49:46Z",
+    "tags": [
+      "server"
+    ]
+  },
+  {
+    "title": "munin で困ったときは munin-node-configure してみる - trial and error",
+    "url": "http://techno-st.net/2009/12/10/munin-munin-node-configure.html",
+    "description": "",
+    "savedAt": "2010-10-06T09:37:33Z",
+    "tags": [
+      "server"
+    ]
+  },
+  {
+    "title": "Muninでアラートメールの送信 - 棚からパルチャギ",
+    "url": "http://castor.s26.xrea.com/blog/2007/10/19",
+    "description": "",
+    "savedAt": "2010-10-06T01:18:46Z",
+    "tags": [
+      "server",
+      "tips"
+    ]
+  },
+  {
+    "title": "kndb.jp",
+    "url": "http://it.kndb.jp/entry/show/id/5",
+    "description": "",
+    "savedAt": "2010-10-05T02:32:54Z",
+    "tags": [
+      "Server",
+      "tips"
+    ]
+  },
+  {
+    "title": "sanonosa　システム管理コラム集: サーバのボトルネックはどうやって調べるか",
+    "url": "http://nosa.cocolog-nifty.com/sanonosa/2004/06/post.html",
+    "description": "",
+    "savedAt": "2010-10-05T02:32:36Z",
+    "tags": [
+      "Server",
+      "tips"
+    ]
+  },
+  {
+    "title": "CentOS 5サーバ環境の整備 - Wiki@browncat.org",
+    "url": "http://wiki.browncat.org/index.php/CentOS_5%E3%82%B5%E3%83%BC%E3%83%90%E7%92%B0%E5%A2%83%E3%81%AE%E6%95%B4%E5%82%99",
+    "description": "",
+    "savedAt": "2010-10-05T02:32:24Z",
+    "tags": [
+      "Server",
+      "Linux",
+      "tips"
+    ]
+  },
+  {
+    "title": "【MySQLウォッチ】第8回 MySQLチューニングのテクニック：ITpro",
+    "url": "https://xtech.nikkei.com/it/members/ITPro/oss/20040624/146333/",
+    "description": "",
+    "savedAt": "2010-10-05T02:32:02Z",
+    "tags": [
+      "tips",
+      "MySQL"
+    ]
+  },
+  {
+    "title": "linuxチューニング (proc, sar, top でcpuボトルネックの調査) - end0tknr's kipple - web写経開発",
+    "url": "https://end0tknr.hateblo.jp/entry/20080626/1214473350",
+    "description": "",
+    "savedAt": "2010-10-04T10:42:00Z",
+    "tags": [
+      "Server",
+      "tips"
+    ]
+  },
+  {
+    "title": "Ubuntu日本語フォーラム / 10.04 Lucid Lynx で i8xx系のバグを踏んでいる方へ",
+    "url": "https://forums.ubuntulinux.jp/viewtopic.php?id=8551",
+    "description": "",
+    "savedAt": "2010-10-01T01:41:55Z",
+    "tags": [
+      "Linux"
+    ]
+  },
+  {
+    "title": "Amazon.co.jp: Apacheクックブック 第2版 ―Webサーバ管理者のためのレシピ集: ケン・コ-ル, リッチ・ボ-エン, 笹井崇司: 本",
+    "url": "https://www.amazon.co.jp/gp/product/4873113814",
+    "description": "",
+    "savedAt": "2010-10-01T01:07:25Z",
+    "tags": [
+      "book",
+      "Server"
+    ]
+  },
+  {
+    "title": "Amazon.co.jp: Postfix実践入門 (Essential Software Guide Book): 清水正人: 本",
+    "url": "https://www.amazon.co.jp/gp/product/4774143758",
+    "description": "",
+    "savedAt": "2010-10-01T01:07:12Z",
+    "tags": [
+      "book",
+      "Server"
+    ]
+  }
+]
