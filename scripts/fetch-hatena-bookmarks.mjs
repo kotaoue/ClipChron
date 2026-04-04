@@ -8,48 +8,13 @@ if (!HATENA_USERNAME) {
   console.error('Error: HATENA_USERNAME environment variable is not set.');
   process.exit(1);
 }
-const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/rss`;
+const JSON_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/bookmark.json`;
 const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
 const META_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks-meta.json');
-const PAGE_SIZE = 20;
+const PAGE_SIZE = 100;
 const REQUEST_DELAY_MS = 1000;
 const FETCH_TIMEOUT_MS = 30000;
 const DEFAULT_META = { completeFetchDone: false };
-
-function unwrapCDATA(text) {
-  const m = text.trim().match(/^<!\[CDATA\[([\s\S]*)\]\]>$/);
-  return m ? m[1] : text.trim();
-}
-
-function getElementText(xml, tagName) {
-  const regex = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
-  const m = xml.match(regex);
-  return m ? unwrapCDATA(m[1]) : '';
-}
-
-function parseRSS(xml) {
-  const items = [];
-  const itemRegex = /<item\b[^>]*>([\s\S]*?)<\/item>/g;
-  let m;
-  while ((m = itemRegex.exec(xml)) !== null) {
-    const itemXml = m[1];
-    const title = getElementText(itemXml, 'title');
-    const url = getElementText(itemXml, 'link');
-    const description = getElementText(itemXml, 'description');
-    const savedAt = getElementText(itemXml, 'dc:date');
-
-    const tags = [];
-    const subjRegex = /<dc:subject[^>]*>([\s\S]*?)<\/dc:subject>/g;
-    let s;
-    while ((s = subjRegex.exec(itemXml)) !== null) {
-      const subject = unwrapCDATA(s[1]);
-      if (subject) tags.push(subject);
-    }
-
-    if (url) items.push({ title, url, description, savedAt, tags });
-  }
-  return items;
-}
 
 async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -66,18 +31,31 @@ async function fetchWithTimeout(url) {
   }
 }
 
+function parseBookmarks(data) {
+  if (!Array.isArray(data)) return [];
+  return data
+    .filter((item) => item && item.url)
+    .map((item) => ({
+      title: item.title ?? '',
+      url: item.url,
+      description: item.comment ?? '',
+      savedAt: item.created_datetime ?? '',
+      tags: Array.isArray(item.tags) ? item.tags : [],
+    }));
+}
+
 async function fetchItems(existingUrlSet, isIncremental) {
   const allNewItems = [];
   let offset = 0;
 
   while (true) {
-    const url = offset === 0 ? RSS_BASE_URL : `${RSS_BASE_URL}?of=${offset}`;
+    const url = `${JSON_BASE_URL}?limit=${PAGE_SIZE}&offset=${offset}`;
     console.log(`Fetching offset=${offset} ...`);
     const res = await fetchWithTimeout(url);
     if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
-    const xml = await res.text();
+    const data = await res.json();
 
-    const items = parseRSS(xml);
+    const items = parseBookmarks(data);
     console.log(`  -> ${items.length} items`);
 
     if (items.length === 0) break;
