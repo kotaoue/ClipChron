@@ -6,7 +6,10 @@ This directory contains scripts for fetching bookmark data from external service
 
 Fetches bookmarks from Hatena Bookmark via RSS and saves them to `fetched/hatena-bookmarks.json`.
 
-The script performs **incremental fetching**: it loads any existing data first and stops as soon as it encounters a page where all items are already known, so re-runs are fast.
+The script operates in two modes controlled by `fetched/hatena-bookmarks-meta.json`:
+
+- **Full fetch** (first run, or when the meta file is absent): fetches all pages from the RSS feed and writes `hatena-bookmarks-meta.json` with `completeFetchDone: true` on success.
+- **Incremental fetch** (every subsequent run): fetches from the newest page and stops as soon as a page contains no new (unseen) URLs, keeping daily CI runs to 1–2 requests.
 
 ### Prerequisites
 

@@ -10,9 +10,11 @@ if (!HATENA_USERNAME) {
 }
 const RSS_BASE_URL = `https://b.hatena.ne.jp/${HATENA_USERNAME}/rss`;
 const OUTPUT_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks.json');
+const META_PATH = join(__dirname, '..', 'fetched', 'hatena-bookmarks-meta.json');
 const PAGE_SIZE = 20;
 const REQUEST_DELAY_MS = 1000;
 const FETCH_TIMEOUT_MS = 30000;
+const DEFAULT_META = { completeFetchDone: false };
 
 function unwrapCDATA(text) {
   const m = text.trim().match(/^<!\[CDATA\[([\s\S]*)\]\]>$/);
@@ -64,7 +66,7 @@ async function fetchWithTimeout(url) {
   }
 }
 
-async function fetchNewItems(existingUrlSet) {
+async function fetchItems(existingUrlSet, isIncremental) {
   const allNewItems = [];
   let offset = 0;
 
@@ -84,7 +86,7 @@ async function fetchNewItems(existingUrlSet) {
     allNewItems.push(...newItems);
     console.log(`  -> ${newItems.length} new items`);
 
-    if (newItems.length === 0) {
+    if (isIncremental && newItems.length === 0) {
       console.log('No new items found, stopping fetch');
       break;
     }
@@ -108,12 +110,35 @@ async function main() {
     }
   }
 
+  let meta = { ...DEFAULT_META };
+  if (existsSync(META_PATH)) {
+    try {
+      meta = JSON.parse(readFileSync(META_PATH, 'utf-8'));
+    } catch {
+      console.warn('Could not parse metadata file, will perform full fetch');
+    }
+  }
+
   const existingUrlSet = new Set(existing.map((item) => item.url));
   console.log(`Loaded ${existing.length} existing bookmarks`);
 
-  console.log('Fetching new Hatena Bookmarks...');
-  const newItems = await fetchNewItems(existingUrlSet);
+  if (meta.completeFetchDone) {
+    console.log('Fetching new Hatena Bookmarks (incremental)...');
+  } else {
+    console.log('Fetching all Hatena Bookmarks (full fetch)...');
+  }
+
+  const newItems = await fetchItems(existingUrlSet, meta.completeFetchDone);
   console.log(`Fetched ${newItems.length} new items`);
+
+  if (!meta.completeFetchDone) {
+    try {
+      writeFileSync(META_PATH, JSON.stringify({ completeFetchDone: true }, null, 2), 'utf-8');
+      console.log('Full fetch complete. Future runs will use incremental mode.');
+    } catch (err) {
+      console.warn(`Warning: could not write metadata file to ${META_PATH}: ${err.message}`);
+    }
+  }
 
   if (newItems.length === 0) {
     console.log('No new bookmarks to add.');
