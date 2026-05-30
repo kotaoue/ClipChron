@@ -1,0 +1,33 @@
+name: Fetch Qiita Stocks
+
+on:
+  schedule:
+    - cron: '50 17 * * *'  # 毎日 02:50 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-qiita-stocks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Fetch Qiita Stocks
+        run: node scripts/fetch-qiita-stocks.mjs
+        env:
+          QIITA_ACCESS_TOKEN: ${{ secrets.QIITA_ACCESS_TOKEN }}
+          QIITA_USERNAME: ${{ secrets.QIITA_USERNAME }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/qiita/stocks/qiita-stocks-*.json fetched/qiita/stocks/qiita-stocks-meta.json
+          git diff --staged --quiet || git commit -m "chore: update qiita stocks"
+          git push
