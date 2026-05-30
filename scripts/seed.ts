@@ -18,6 +18,7 @@ export async function seed() {
   await seedWishList();
   await seedReadBooks();
   await seedHatenaBookmarks();
+  await seedFeedlyBookmarks();
 }
 
 async function seedWishList() {
@@ -105,6 +106,15 @@ type HatenaBookmarkEntry = {
   tags: string[];
 };
 
+type FeedlyBookmarkEntry = {
+  id: string;
+  title: string;
+  url: string;
+  description: string;
+  savedAt: string;
+  tags: string[];
+};
+
 async function seedHatenaBookmarks() {
   const fetchedDir = path.join(process.cwd(), 'fetched', 'hatena', 'bookmarks');
   const files = fs
@@ -157,4 +167,62 @@ async function seedHatenaBookmarks() {
   }
 
   console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
+}
+
+async function seedFeedlyBookmarks() {
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'feedly', 'bookmarks');
+  if (!fs.existsSync(fetchedDir)) {
+    console.warn(`Warning: ${fetchedDir} not found. Skipping Feedly bookmark seed.`);
+    return;
+  }
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^feedly-bookmarks-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+
+  if (files.length === 0) {
+    console.warn('Warning: no feedly-bookmarks-YYYY-MM.json files found. Skipping Feedly bookmark seed.');
+    return;
+  }
+
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: FeedlyBookmarkEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
+
+      const rows = entries
+        .filter((e) => e.id && e.url && e.savedAt)
+        .map((e) => ({
+          id: `feedly:${e.id}`,
+          source: 'feedly' as const,
+          title: e.title || e.url,
+          url: e.url,
+          description: e.description || null,
+          savedAt: new Date(e.savedAt),
+        }));
+
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(hatenaBookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: hatenaBookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
+  }
+
+  console.log(`Seeded ${total} Feedly bookmarks from ${files.length} files`);
 }
