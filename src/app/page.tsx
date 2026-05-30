@@ -45,7 +45,7 @@ type BookmarksResponse = {
   hasMore: boolean;
 };
 
-type Tab = 'wish' | 'read' | 'hatena';
+type Tab = 'wish' | 'read' | 'hatena' | 'note';
 
 function BookList({
   apiPath,
@@ -175,7 +175,8 @@ function BookmarkList({
       const controller = new AbortController();
       abortControllerRef.current = controller;
       try {
-        const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
+        const separator = apiPath.includes('?') ? '&' : '?';
+        const res = await fetch(`${apiPath}${separator}page=${pageNum}&limit=100`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -281,6 +282,9 @@ export default function Home() {
         <button style={tabStyle(tab === 'hatena')} onClick={() => setTab('hatena')}>
           はてブ
         </button>
+        <button style={tabStyle(tab === 'note')} onClick={() => setTab('note')}>
+          note
+        </button>
       </div>
       <input
         type="search"
@@ -307,6 +311,9 @@ export default function Home() {
       )}
       {tab === 'hatena' && (
         <BookmarkList apiPath="/api/bookmarks" searchQuery={searchQuery} />
+      )}
+      {tab === 'note' && (
+        <BookmarkList apiPath="/api/bookmarks?source=note" searchQuery={searchQuery} />
       )}
     </>
   );
