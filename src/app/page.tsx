@@ -45,7 +45,7 @@ type BookmarksResponse = {
   hasMore: boolean;
 };
 
-type Tab = 'wish' | 'read' | 'hatena';
+type Tab = 'wish' | 'read' | 'hatena' | 'zenn';
 
 function BookList({
   apiPath,
@@ -154,9 +154,11 @@ function BookList({
 function BookmarkList({
   apiPath,
   searchQuery,
+  source,
 }: {
   apiPath: string;
   searchQuery: string;
+  source: 'hatena' | 'zenn';
 }) {
   const [items, setItems] = useState<Bookmark[]>([]);
   const [page, setPage] = useState(1);
@@ -175,7 +177,12 @@ function BookmarkList({
       const controller = new AbortController();
       abortControllerRef.current = controller;
       try {
-        const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
+        const params = new URLSearchParams({
+          page: String(pageNum),
+          limit: '100',
+          source,
+        });
+        const res = await fetch(`${apiPath}?${params.toString()}`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -193,7 +200,7 @@ function BookmarkList({
         isFetching.current = false;
       }
     },
-    [apiPath]
+    [apiPath, source]
   );
 
   useEffect(() => {
@@ -281,6 +288,9 @@ export default function Home() {
         <button style={tabStyle(tab === 'hatena')} onClick={() => setTab('hatena')}>
           はてブ
         </button>
+        <button style={tabStyle(tab === 'zenn')} onClick={() => setTab('zenn')}>
+          Zenn
+        </button>
       </div>
       <input
         type="search"
@@ -306,7 +316,10 @@ export default function Home() {
         <BookList apiPath="/api/read" searchQuery={searchQuery} />
       )}
       {tab === 'hatena' && (
-        <BookmarkList apiPath="/api/bookmarks" searchQuery={searchQuery} />
+        <BookmarkList apiPath="/api/bookmarks" source="hatena" searchQuery={searchQuery} />
+      )}
+      {tab === 'zenn' && (
+        <BookmarkList apiPath="/api/bookmarks" source="zenn" searchQuery={searchQuery} />
       )}
     </>
   );
