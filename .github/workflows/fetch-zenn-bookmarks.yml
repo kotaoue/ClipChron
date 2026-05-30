@@ -1,0 +1,32 @@
+name: Fetch Zenn Bookmarks
+
+on:
+  schedule:
+    - cron: '55 17 * * *'  # 毎日 02:55 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-zenn-bookmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Fetch Zenn Bookmarks
+        run: node scripts/fetch-zenn-bookmarks.mjs
+        env:
+          ZENN_USERNAME: ${{ secrets.ZENN_USERNAME }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/zenn/bookmarks/zenn-bookmarks-*.json fetched/zenn/bookmarks/zenn-bookmarks-meta.json
+          git diff --staged --quiet || git commit -m "chore: update zenn bookmarks"
+          git push

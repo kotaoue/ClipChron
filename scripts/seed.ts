@@ -18,6 +18,7 @@ export async function seed() {
   await seedWishList();
   await seedReadBooks();
   await seedHatenaBookmarks();
+  await seedZennBookmarks();
 }
 
 async function seedWishList() {
@@ -157,4 +158,71 @@ async function seedHatenaBookmarks() {
   }
 
   console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
+}
+
+type ZennBookmarkEntry = {
+  title: string;
+  url: string;
+  description: string;
+  savedAt: string;
+  tags: string[];
+};
+
+async function seedZennBookmarks() {
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'zenn', 'bookmarks');
+  if (!fs.existsSync(fetchedDir)) {
+    console.warn(`Warning: ${fetchedDir} not found. Skipping Zenn bookmark seed.`);
+    return;
+  }
+
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^zenn-bookmarks-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+
+  if (files.length === 0) {
+    console.warn('Warning: no zenn-bookmarks-YYYY-MM.json files found. Skipping Zenn bookmark seed.');
+    return;
+  }
+
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: ZennBookmarkEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
+
+      const rows = entries
+        .filter((e) => e.url && e.savedAt)
+        .map((e) => ({
+          id: `zenn:${e.url}`,
+          source: 'zenn' as const,
+          title: e.title || e.url,
+          url: e.url,
+          description: e.description || null,
+          savedAt: new Date(e.savedAt),
+        }));
+
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(hatenaBookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: hatenaBookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
+  }
+
+  console.log(`Seeded ${total} Zenn bookmarks from ${files.length} files`);
 }

@@ -31,3 +31,11 @@ npm run dev
 ## Environment variables
 
 See `.env.local.example` for all required variables.
+
+## Zenn データソースの設定
+
+Zenn は `scripts/fetch-zenn-bookmarks.mjs` で取得できます。取得結果は `fetched/zenn/bookmarks/zenn-bookmarks-YYYY-MM.json` に保存され、`npm run db:seed` で DB に取り込まれます。画面上では「Zenn」タブで検索できます。
+
+- 必須設定: `ZENN_USERNAME`（自分の Zenn ユーザー名）
+- 認証: 公開 API を使うためアクセストークン不要
+- GitHub Actions で動かす場合: Repository Secret `ZENN_USERNAME` を追加
