@@ -1,0 +1,33 @@
+name: Fetch X Likes
+
+on:
+  schedule:
+    - cron: '30 18 * * *'  # 毎日 03:30 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-x-likes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Fetch X Likes
+        run: node scripts/fetch-x-likes.mjs
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_USER_ID: ${{ secrets.X_USER_ID }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/x/likes/x-likes-*.json fetched/x/likes/x-likes-meta.json
+          git diff --staged --quiet || git commit -m "chore: update x likes"
+          git push
