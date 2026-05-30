@@ -18,6 +18,7 @@ export async function seed() {
   await seedWishList();
   await seedReadBooks();
   await seedHatenaBookmarks();
+  await seedQiitaStocks();
 }
 
 async function seedWishList() {
@@ -157,4 +158,73 @@ async function seedHatenaBookmarks() {
   }
 
   console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
+}
+
+type QiitaStockEntry = {
+  id: string;
+  title: string;
+  url: string;
+  description: string;
+  savedAt: string;
+  tags: string[];
+};
+
+async function seedQiitaStocks() {
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'qiita', 'stocks');
+
+  if (!fs.existsSync(fetchedDir)) {
+    console.warn(`Warning: ${fetchedDir} not found. Skipping Qiita stocks seed.`);
+    return;
+  }
+
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^qiita-stocks-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+
+  if (files.length === 0) {
+    console.warn('Warning: no qiita-stocks-YYYY-MM.json files found. Skipping Qiita stocks seed.');
+    return;
+  }
+
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: QiitaStockEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
+
+      const rows = entries
+        .filter((e) => e.url && e.savedAt)
+        .map((e) => ({
+          id: `qiita:${e.id}`,
+          source: 'qiita' as const,
+          title: e.title || e.url,
+          url: e.url,
+          description: e.description || null,
+          savedAt: new Date(e.savedAt),
+        }));
+
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(hatenaBookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: hatenaBookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
+  }
+
+  console.log(`Seeded ${total} Qiita stocks from ${files.length} files`);
 }
