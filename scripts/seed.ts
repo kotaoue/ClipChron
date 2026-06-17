@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { sql } from 'drizzle-orm';
 import { db } from '../src/db';
-import { books, readBooks, bookmarks as hatenaBookmarks } from '../src/db/schema';
+import { books, readBooks, bookmarks } from '../src/db/schema';
 
 type BookmeterEntry = {
   no: number;
@@ -18,6 +18,7 @@ export async function seed() {
   await seedWishList();
   await seedReadBooks();
   await seedHatenaBookmarks();
+  await seedNotePosts();
 }
 
 async function seedWishList() {
@@ -138,10 +139,10 @@ async function seedHatenaBookmarks() {
       if (rows.length === 0) continue;
 
       await db
-        .insert(hatenaBookmarks)
+        .insert(bookmarks)
         .values(rows)
         .onConflictDoUpdate({
-          target: hatenaBookmarks.id,
+          target: bookmarks.id,
           set: {
             title: sql`excluded.title`,
             url: sql`excluded.url`,
@@ -157,4 +158,71 @@ async function seedHatenaBookmarks() {
   }
 
   console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
+}
+
+type NotePostEntry = {
+  title: string;
+  url: string;
+  description?: string;
+  savedAt: string;
+  tags?: string[];
+};
+
+async function seedNotePosts() {
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'note', 'posts');
+  if (!fs.existsSync(fetchedDir)) {
+    console.warn(`Warning: ${fetchedDir} not found. Skipping note post seed.`);
+    return;
+  }
+
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^note-posts-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+
+  if (files.length === 0) {
+    console.warn('Warning: no note-posts-YYYY-MM.json files found. Skipping note post seed.');
+    return;
+  }
+
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: NotePostEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
+
+      const rows = entries
+        .filter((e) => e.url && e.savedAt)
+        .map((e) => ({
+          id: `note:${e.url}`,
+          source: 'note' as const,
+          title: e.title || e.url,
+          url: e.url,
+          description: e.description || null,
+          savedAt: new Date(e.savedAt),
+        }));
+
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(bookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: bookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
+  }
+
+  console.log(`Seeded ${total} note posts from ${files.length} files`);
 }
