@@ -45,7 +45,7 @@ type BookmarksResponse = {
   hasMore: boolean;
 };
 
-type Tab = 'wish' | 'read' | 'hatena';
+type Tab = 'wish' | 'read' | 'hatena' | 'x';
 
 function BookList({
   apiPath,
@@ -281,6 +281,9 @@ export default function Home() {
         <button style={tabStyle(tab === 'hatena')} onClick={() => setTab('hatena')}>
           はてブ
         </button>
+        <button style={tabStyle(tab === 'x')} onClick={() => setTab('x')}>
+          X Likes
+        </button>
       </div>
       <input
         type="search"
@@ -307,6 +310,9 @@ export default function Home() {
       )}
       {tab === 'hatena' && (
         <BookmarkList apiPath="/api/bookmarks" searchQuery={searchQuery} />
+      )}
+      {tab === 'x' && (
+        <BookmarkList apiPath="/api/x/likes" searchQuery={searchQuery} />
       )}
     </>
   );
