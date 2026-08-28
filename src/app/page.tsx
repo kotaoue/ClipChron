@@ -45,7 +45,7 @@ type BookmarksResponse = {
   hasMore: boolean;
 };
 
-type Tab = 'wish' | 'read' | 'hatena';
+type Tab = 'wish' | 'read' | 'hatena' | 'feedly';
 
 function BookList({
   apiPath,
@@ -71,7 +71,8 @@ function BookList({
       const controller = new AbortController();
       abortControllerRef.current = controller;
       try {
-        const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
+        const separator = apiPath.includes('?') ? '&' : '?';
+        const res = await fetch(`${apiPath}${separator}page=${pageNum}&limit=100`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -175,7 +176,8 @@ function BookmarkList({
       const controller = new AbortController();
       abortControllerRef.current = controller;
       try {
-        const res = await fetch(`${apiPath}?page=${pageNum}&limit=100`, {
+        const separator = apiPath.includes('?') ? '&' : '?';
+        const res = await fetch(`${apiPath}${separator}page=${pageNum}&limit=100`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -281,6 +283,9 @@ export default function Home() {
         <button style={tabStyle(tab === 'hatena')} onClick={() => setTab('hatena')}>
           はてブ
         </button>
+        <button style={tabStyle(tab === 'feedly')} onClick={() => setTab('feedly')}>
+          Feedly
+        </button>
       </div>
       <input
         type="search"
@@ -306,7 +311,10 @@ export default function Home() {
         <BookList apiPath="/api/read" searchQuery={searchQuery} />
       )}
       {tab === 'hatena' && (
-        <BookmarkList apiPath="/api/bookmarks" searchQuery={searchQuery} />
+        <BookmarkList apiPath="/api/bookmarks?source=hatena" searchQuery={searchQuery} />
+      )}
+      {tab === 'feedly' && (
+        <BookmarkList apiPath="/api/bookmarks?source=feedly" searchQuery={searchQuery} />
       )}
     </>
   );

@@ -1,0 +1,32 @@
+name: Fetch Feedly Bookmarks
+
+on:
+  schedule:
+    - cron: '55 17 * * *'  # 毎日 02:55 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-feedly-bookmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Fetch Feedly Bookmarks
+        run: node scripts/fetch-feedly-bookmarks.mjs
+        env:
+          FEEDLY_ACCESS_TOKEN: ${{ secrets.FEEDLY_ACCESS_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fetched/feedly/bookmarks/feedly-bookmarks-*.json fetched/feedly/bookmarks/feedly-bookmarks-meta.json
+          git diff --staged --quiet || git commit -m "chore: update feedly bookmarks"
+          git push
