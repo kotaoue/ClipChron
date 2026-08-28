@@ -46,3 +46,23 @@ After fetching, run the seed script to import the data into the database:
 ```bash
 npm run db:seed
 ```
+
+## fetch-zenn-bookmarks.mjs
+
+Fetches articles from your Zenn account via the public API and saves them as monthly files in `fetched/zenn/bookmarks/`.
+
+### Usage
+
+```bash
+ZENN_USERNAME=<your_zenn_username> node scripts/fetch-zenn-bookmarks.mjs
+```
+
+### Output
+
+Entries are written to `zenn-bookmarks-YYYY-MM.json` (plus `zenn-bookmarks-meta.json` for incremental fetch state).
+
+### Authentication and configuration
+
+- Required: `ZENN_USERNAME`
+- Token/API key: not required (public API)
+- GitHub Actions: set repository secret `ZENN_USERNAME`
