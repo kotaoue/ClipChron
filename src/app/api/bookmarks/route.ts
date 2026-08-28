@@ -8,16 +8,18 @@ export async function GET(req: NextRequest) {
   const page = Math.max(1, Number(searchParams.get('page') ?? '1'));
   const limit = Math.min(100, Math.max(1, Number(searchParams.get('limit') ?? '100')));
   const offset = (page - 1) * limit;
+  const sourceParam = searchParams.get('source') ?? 'hatena';
+  const source = sourceParam === 'note' ? 'note' : 'hatena';
 
   const [rows, [{ value: total }]] = await Promise.all([
     db
       .select()
       .from(bookmarks)
-      .where(eq(bookmarks.source, 'hatena'))
+      .where(eq(bookmarks.source, source))
       .orderBy(desc(bookmarks.savedAt))
       .limit(limit)
       .offset(offset),
-    db.select({ value: count() }).from(bookmarks).where(eq(bookmarks.source, 'hatena')),
+    db.select({ value: count() }).from(bookmarks).where(eq(bookmarks.source, source)),
   ]);
 
   return NextResponse.json({
