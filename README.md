@@ -8,6 +8,7 @@ A personal archive that collects and searches your likes and bookmarks. (Clip + 
 
 - **Phase 1** — Skeleton: directory layout, DB schema, shared configuration, and documentation ✅
 - **Phase 2** — Fetchers: collect bookmarks from note / Zenn / X / はてなBookmark / Feedly via GitHub Actions
+  - X likes ✅
 - **Phase 3** — Search UI: full-text search interface hosted on Vercel ✅
 
 ## Prerequisites
@@ -17,6 +18,8 @@ A personal archive that collects and searches your likes and bookmarks. (Clip + 
 - Vercel Postgres (Neon) database
 
 > **Phase 1 note:** No API tokens are needed at this stage.
+
+> **Phase 2 note:** See `scripts/README.md` for instructions on obtaining X API credentials.
 
 ## Getting started
 
