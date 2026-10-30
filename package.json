@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build && npm run db:migrate && npx tsx scripts/seed.ts",
     "start": "next start",
+    "fetch:note": "node scripts/fetch-note-posts.mjs",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit push",
     "db:seed": "npx tsx scripts/seed.ts"

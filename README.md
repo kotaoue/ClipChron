@@ -31,3 +31,25 @@ npm run dev
 ## Environment variables
 
 See `.env.local.example` for all required variables.
+
+## note data flow
+
+1. Fetch from your note account:
+
+   ```bash
+   NOTE_USERNAME=<your_note_username> node scripts/fetch-note-posts.mjs
+   ```
+
+2. Import fetched data into DB:
+
+   ```bash
+   npm run db:seed
+   ```
+
+3. Search in UI via the `note` tab (internally uses `/api/bookmarks?source=note`).
+
+### Authentication setup for note fetch
+
+- `NOTE_USERNAME` is required.
+- `NOTE_SESSION_COOKIE` is optional. Set it only when note API access requires logged-in session data (for example account-restricted data).
+- You can copy `Cookie` header value from browser developer tools while logged in to your own account, then place it in `.env.local`.
