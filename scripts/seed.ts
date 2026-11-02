@@ -18,6 +18,7 @@ export async function seed() {
   await seedWishList();
   await seedReadBooks();
   await seedHatenaBookmarks();
+  await seedXLikes();
 }
 
 async function seedWishList() {
@@ -157,4 +158,71 @@ async function seedHatenaBookmarks() {
   }
 
   console.log(`Seeded ${total} Hatena bookmarks from ${files.length} files`);
+}
+
+type XLikeEntry = {
+  id: string;
+  text: string;
+  url: string;
+  createdAt: string;
+};
+
+async function seedXLikes() {
+  const fetchedDir = path.join(process.cwd(), 'fetched', 'x', 'likes');
+
+  if (!fs.existsSync(fetchedDir)) {
+    console.warn(`Warning: ${fetchedDir} not found. Skipping X likes seed.`);
+    return;
+  }
+
+  const files = fs
+    .readdirSync(fetchedDir)
+    .filter((f) => /^x-likes-\d{4}-\d{2}\.json$/.test(f))
+    .sort();
+
+  if (files.length === 0) {
+    console.warn('Warning: no x-likes-YYYY-MM.json files found. Skipping X likes seed.');
+    return;
+  }
+
+  let total = 0;
+  for (const file of files) {
+    try {
+      const raw = fs.readFileSync(path.join(fetchedDir, file), 'utf-8');
+      const entries: XLikeEntry[] = JSON.parse(raw);
+      if (!Array.isArray(entries) || entries.length === 0) continue;
+
+      const rows = entries
+        .filter((e) => e.id && e.createdAt)
+        .map((e) => ({
+          id: `x:${e.id}`,
+          source: 'x' as const,
+          title: e.text,
+          url: e.url,
+          description: null,
+          savedAt: new Date(e.createdAt),
+        }));
+
+      if (rows.length === 0) continue;
+
+      await db
+        .insert(hatenaBookmarks)
+        .values(rows)
+        .onConflictDoUpdate({
+          target: hatenaBookmarks.id,
+          set: {
+            title: sql`excluded.title`,
+            url: sql`excluded.url`,
+            description: sql`excluded.description`,
+            savedAt: sql`excluded.saved_at`,
+          },
+        });
+
+      total += rows.length;
+    } catch (err) {
+      console.warn(`Warning: failed to seed ${file}:`, err);
+    }
+  }
+
+  console.log(`Seeded ${total} X likes from ${files.length} files`);
 }
